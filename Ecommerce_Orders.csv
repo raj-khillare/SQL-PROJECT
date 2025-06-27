@@ -1,0 +1,751 @@
+OrderID,CustomerID,CustomerName,Age,City,OrderDate,Category,ProductName,Quantity,UnitPrice,PaymentMethod,DeliveryStatus,TotalAmount,Discount,NetAmount
+9a60c81f-8693-4b11-950a-8e9e1b76d2fd,b7ee5317-7c13-449f-bed0-45395624dfc0,Yashodhara Desai,25,Hyderabad,2024-10-10,Beauty,Necessitatibus Home,2,8477.48,Cash on Delivery,Cancelled,16954.96,1257.39,15697.57
+ce66d04f-9636-4a1c-96a1-145cf0be91b2,6c1b3db2-1c10-4574-ac84-fd59ab4415be,Vamakshi Kala,57,Delhi,2024-07-07,Books,Dolores Clothing,2,1701.45,Cash on Delivery,Cancelled,3402.9,819.63,2583.27
+ecec85c9-a0a8-4a86-8bdd-d0be665c9d31,fdf6db8a-2ab7-4f81-84bb-fd4a39c4fe3b,Rudra Sarkar,31,Delhi,2024-11-03,Home Appliances,Magni Clothing,4,4471.6,Debit Card,In Transit,17886.4,3934.08,13952.320000000002
+395afd95-521c-42ed-a309-9d00363f88af,76e5238e-990b-4fb2-8cef-c34a3061cf79,Unni Deol,44,Chennai,2024-10-21,Beauty,Commodi Electronics,1,1713.0,Cash on Delivery,Delivered,1713.0,287.71,1425.29
+c5d5059b-e7d2-4f99-be0a-fe1a1b8e4fca,1a20c1fa-a243-4b62-8d69-3dfafc4f8901,Deepa Chand,23,Delhi,2024-08-25,Home Appliances,Repellat Electronics,2,6607.39,Debit Card,Returned,13214.78,798.86,12415.92
+28f6a7e6-6a01-4b67-9cab-236a8165e042,efcf5e1e-9278-4e67-95eb-3790b032c5ea,Ekansh Savant,53,Chennai,2025-05-31,Beauty,Aliquam Electronics,3,6620.02,Cash on Delivery,Returned,19860.06,3410.8,16449.260000000002
+18fbfbab-4e1e-4862-813d-d12b49672e02,4f587f6c-a848-49d8-af5f-6f44c99ea302,Sanya Prasad,18,Bangalore,2024-11-30,Beauty,Sequi Beauty,3,3052.92,Net Banking,Cancelled,9158.76,1810.25,7348.51
+c5c61fc8-7648-4518-8766-743f8d80e2cd,ccacc815-1a0a-4c41-a06f-51d1ab68738e,Nidhi Dhar,44,Chennai,2024-11-16,Electronics,Maxime Beauty,5,5011.87,Debit Card,Returned,25059.35,2565.37,22493.98
+9d338548-88c9-4518-9369-06a506c05474,fb266cd0-3cd7-43a8-9de9-bd6fdeb42fe6,Nicholas Krishnan,47,Hyderabad,2025-03-31,Home Appliances,Atque Books,1,3236.83,Debit Card,Delivered,3236.83,566.34,2670.49
+82510d20-7d53-4f23-9f16-ed0dda254d7b,8d9c2b5e-3dbb-43a6-8a75-bdd082d083d1,Ryan Batta,21,Mumbai,2024-08-10,Beauty,Officia Beauty,5,293.86,Debit Card,Delivered,1469.3,147.47,1321.83
+8286fd57-9e89-44ee-b3ed-784a802f8862,8b6dc41a-a830-4020-8c76-50b7c90c68e9,Ikbal Sahni,19,Hyderabad,2025-06-10,Beauty,Aliquid Home,3,8099.01,UPI,Cancelled,24297.03,5444.0,18853.03
+2a1ad86d-e1f8-4915-8ee6-c284622491e2,96af2053-e90c-4941-a6a2-aaafbefe04b2,Ekbal Bandi,23,Hyderabad,2024-10-16,Electronics,Vitae Home,5,1814.87,Debit Card,Delivered,9074.35,709.23,8365.12
+7520ecfa-8ac4-4b4c-beb5-897310f7db0d,d6c048b1-7a7e-4ca8-89db-78891faefc9f,Damyanti Roy,43,Hyderabad,2025-05-20,Clothing,Velit Books,4,7746.78,Credit Card,In Transit,30987.12,1994.37,28992.75
+ba0c4a32-2679-4abd-99f0-4909103bc200,dc3313fe-8259-40b0-97cd-f7646244e95b,Frado Palan,46,Delhi,2024-12-07,Beauty,Quidem Clothing,5,7728.04,Debit Card,Delivered,38640.2,8235.21,30404.989999999998
+f297bfc3-975f-4c9e-b967-4d323f27f259,3ea05c19-115b-4f5b-b5c4-149790188c97,Rishi Date,26,Delhi,2024-06-28,Home Appliances,A Clothing,1,3649.3,Debit Card,In Transit,3649.3,307.45,3341.8500000000004
+81aa1f39-3e4a-45e5-9a1c-b76a8884be2e,f7fa363a-0103-4e2f-b03f-b61415bd7983,Osha Batta,27,Bangalore,2024-09-05,Books,Incidunt Home,5,9336.65,Cash on Delivery,Delivered,46683.25,9325.26,37357.99
+7bf495e1-2c38-4b0f-96b2-4f75605fe40c,e46f6b36-5f9d-434f-8e11-6646054f4a58,Wishi Yadav,34,Hyderabad,2024-11-21,Beauty,Hic Books,4,2684.49,Credit Card,Returned,10737.96,2342.59,8395.369999999999
+d1d1c404-0748-432b-81af-e40a10ead6f3,259a7627-cf7f-4287-b8fa-720826123c8f,Anusha Shroff,18,Chennai,2024-07-15,Beauty,Fugiat Home,5,6211.36,UPI,Cancelled,31056.8,1994.74,29062.059999999998
+4e75c6c9-f6a3-48c7-a4ec-47f43e155063,a7263d20-a1e5-438c-a1a3-3786c8fdac8a,Raksha Parikh,40,Chennai,2024-08-29,Clothing,Esse Beauty,1,5012.08,Credit Card,Delivered,5012.08,483.35,4528.73
+00183de8-532f-4a61-b697-551b489359b2,6522ecdd-798d-49d1-99bd-aa280db5ee40,Triya Hayre,51,Delhi,2025-05-28,Electronics,Fugit Books,1,4882.17,Debit Card,In Transit,4882.17,378.54,4503.63
+34ef1cfd-360e-4591-8a65-790b3faa4706,a4d94218-7024-4265-b25e-67bde0312bec,Ethan Sarraf,47,Mumbai,2024-10-10,Clothing,Eaque Electronics,3,4699.55,UPI,Delivered,14098.65,1188.11,12910.539999999999
+84a44391-dcac-4911-bf66-6c00b97441bb,4099f736-ffed-4b1c-aed3-aa9daf270540,Qadim Oak,39,Bangalore,2025-03-12,Clothing,Vel Home,5,494.31,Net Banking,Cancelled,2471.55,245.28,2226.27
+2b53ff42-b053-4ef0-bf95-7d922c3fa6dc,426cb3f1-3bf8-4a95-9504-36d6ad4cbd49,Tarak Menon,40,Bangalore,2024-07-05,Home Appliances,Quis Home,5,7945.92,UPI,Cancelled,39729.6,8087.32,31642.28
+3390c65a-22f0-4f29-b63c-5de898fbc06a,37b44191-bc2b-4f26-ac7e-ede36a634a17,Manthan Jaggi,56,Chennai,2024-08-20,Beauty,Magni Electronics,3,7292.74,Net Banking,Cancelled,21878.22,5340.07,16538.15
+e5798053-1ddc-4e4d-87b2-a51686f2bd71,4724ed39-5f9a-43d7-957b-91594d1ac115,Samesh Khare,20,Delhi,2024-07-24,Beauty,Sint Clothing,2,9525.63,Debit Card,Returned,19051.26,1969.84,17081.42
+1a6e2df3-5c44-4057-9536-afae2efb7706,1a5a41c6-6336-4f08-8902-0989fe6d3808,Urvi Loyal,31,Mumbai,2025-02-10,Books,Accusamus Beauty,5,8137.08,Debit Card,In Transit,40685.4,2711.14,37974.26
+ef84e177-aa1e-4330-a8c2-0b8d5515b89d,11b58007-a0fa-4204-a8cf-94b033a230de,Unnati Solanki,56,Bangalore,2024-11-19,Beauty,Cum Books,4,9652.03,Debit Card,Cancelled,38608.12,4846.33,33761.79
+188d0d85-cc6b-473a-91de-653ee559604f,e0f81ab9-7060-4797-a068-7a15e1d047aa,Hitesh Mahal,25,Delhi,2024-12-24,Clothing,Deserunt Home,5,4975.41,Net Banking,In Transit,24877.05,5015.92,19861.129999999997
+1f7e0f0f-e699-4026-b252-fcadb757d85a,a70da60f-8dfb-4a80-9841-9bc200e16325,Eta Brar,56,Mumbai,2025-01-16,Books,Earum Beauty,5,1514.76,Credit Card,Cancelled,7573.8,1444.38,6129.42
+ccbb0a42-7a37-4ddc-bf20-0729b9942087,3af7aff5-f2ef-4035-9636-72370b11e7ae,Yug Parmar,51,Chennai,2025-04-10,Electronics,Molestias Clothing,3,765.14,UPI,In Transit,2295.42,548.18,1747.2400000000002
+436212a0-2ba3-4525-b5f4-317840df102d,e21de685-6abd-4b6d-9214-0178c083a6ab,Vinaya Luthra,44,Mumbai,2025-02-08,Books,Id Beauty,1,9521.47,Credit Card,In Transit,9521.47,2188.79,7332.679999999999
+4a41c8b5-0c61-45e9-9bf2-c1714526bcd8,d7ba8101-7377-40d2-964d-43af328015b7,Abha Batta,42,Hyderabad,2024-06-27,Home Appliances,Labore Books,3,8360.09,Credit Card,Cancelled,25080.27,2078.67,23001.6
+7614ccb0-f25c-4a01-ba5d-19bd04d677e1,bdabe227-670a-429c-9c7e-9b60611dd843,Bina Raj,48,Hyderabad,2024-07-16,Beauty,Beatae Beauty,4,811.45,Credit Card,In Transit,3245.8,741.56,2504.2400000000002
+b70d9f05-42ab-458f-a99d-5a12b5c5933e,b07b6d54-63ee-4d95-bffb-b637782da06e,Kai Basak,43,Hyderabad,2025-05-19,Beauty,Dolorum Beauty,3,7645.21,UPI,In Transit,22935.63,3243.72,19691.91
+557c1f59-854c-4488-b36b-b41d1bea7464,a0a89549-c823-4509-beb2-8d33aac909fb,Vasana Dash,55,Delhi,2024-08-12,Electronics,Possimus Books,1,5590.28,Debit Card,In Transit,5590.28,524.83,5065.45
+10ce43a9-73d8-4caf-b3de-6f787f7eb908,e6a9107c-e63b-49f7-a973-cd1513f75929,Leena Bail,52,Chennai,2024-11-24,Home Appliances,Incidunt Beauty,4,7406.79,Debit Card,In Transit,29627.16,4166.76,25460.4
+20daec60-43df-4d3b-b6fd-93314bfd2c4f,9e3268f2-00ae-4eba-adc6-f4543f2604dd,Veer Bava,41,Chennai,2024-10-06,Beauty,Omnis Books,4,705.58,Net Banking,Cancelled,2822.32,677.65,2144.67
+3b735b08-b701-40e5-bee3-464a62e8fad3,fd09ef08-41cb-49ad-9fe8-f600c8931afb,Aadhya Mani,34,Chennai,2024-10-21,Beauty,Dignissimos Beauty,3,2162.35,UPI,Returned,6487.05,1330.26,5156.79
+5632ad8b-9e37-427a-8e47-11d5a4b5148f,501802b6-d572-4c6b-a9c7-9049ce126e6d,Bhavika Golla,31,Hyderabad,2024-11-11,Electronics,Ad Electronics,2,354.46,Credit Card,Cancelled,708.92,126.09,582.8299999999999
+736f0cab-741f-4671-9ac0-2364632d072a,0a8a7948-3d52-4206-8db7-7d33a690581b,Upma Bajwa,30,Bangalore,2024-11-16,Clothing,Atque Electronics,3,7227.52,Net Banking,Returned,21682.56,3791.72,17890.84
+247c0299-6ed0-4bab-a7fd-502300b318d0,73097794-9106-46e0-96cb-4ad1f074c4b8,Shivansh Lata,36,Bangalore,2025-05-05,Electronics,Ipsa Clothing,3,3531.89,Net Banking,Returned,10595.67,1815.67,8780.0
+3a88883c-0c00-4fed-b0cc-53ac755c046d,67f2b456-f470-4795-a822-25a4dfae28c1,Sanaya Bath,32,Delhi,2025-03-16,Books,Eum Books,5,4899.15,Debit Card,Cancelled,24495.75,1872.3,22623.45
+6d2b8bc1-44df-4596-9d17-8b725e53d928,ed400354-3e58-4c7f-8a6d-21ed3bff86f7,Yuvraj Bahl,48,Hyderabad,2025-04-15,Electronics,Perferendis Home,1,4489.78,Cash on Delivery,Cancelled,4489.78,1035.44,3454.3399999999997
+1718f296-94fa-4f96-a79b-f74fc696de8a,04130f50-a2c2-404d-bc45-89487245b2f0,Eesha Patla,29,Delhi,2024-09-01,Electronics,Voluptas Electronics,5,3843.83,Cash on Delivery,Returned,19219.15,1593.79,17625.36
+2c955c2b-1f65-41d7-8af6-2dff34607b8b,d0472fb9-354a-41bd-ba7b-dd447f00ea11,Baghyawati Manne,21,Chennai,2024-06-28,Books,Fuga Electronics,4,9507.31,UPI,Delivered,38029.24,7827.23,30202.01
+0bcca545-9f9a-4cc9-8630-232b2a4ff84b,fbd5262d-0686-4820-be60-fb004900f0b3,Amruta Singhal,37,Bangalore,2024-12-31,Clothing,Facilis Electronics,4,202.31,Credit Card,In Transit,809.24,53.21,756.03
+2ecf4c66-91a9-4985-896b-d21aec17142c,f7c46245-728d-4546-bd80-dd2a8ea6f33e,Tripti Divan,54,Bangalore,2025-06-24,Books,Labore Beauty,3,3500.71,Net Banking,Returned,10502.13,2256.62,8245.509999999998
+7a594350-1e0f-4b92-8fda-b21408835074,d86c2fc6-8f16-447f-80f6-6ebd3499e2c7,Banjeet Divan,28,Chennai,2024-08-05,Electronics,Id Beauty,2,5308.34,Debit Card,Delivered,10616.68,1531.62,9085.060000000001
+c7959b92-452e-4b85-9d6e-53d0aef93ca7,60225afa-5305-4ae2-a743-0252f5b6ce73,Zilmil Som,31,Delhi,2025-03-27,Home Appliances,Cum Electronics,5,9051.52,Credit Card,Returned,45257.6,3545.82,41711.78
+5457d67c-b89a-4db2-b643-3b1d338f7868,1736d9a8-634e-4463-950e-5f30a244beb8,Bhavika Madan,32,Mumbai,2024-06-27,Books,Quod Electronics,1,539.91,Cash on Delivery,Cancelled,539.91,45.17,494.73999999999995
+0d8a3ed2-a78a-4753-8b90-c40e05935afd,c161b893-92a0-4cba-aecf-00640c0057bd,Advay Shroff,39,Bangalore,2024-09-25,Beauty,Laboriosam Electronics,4,3961.03,UPI,In Transit,15844.12,3674.51,12169.61
+2fedc335-65ce-42e8-990d-13f07d0fe138,3ca3c63d-5e61-46bf-8ffd-d95cb76dcdc6,Zehaan Seth,60,Delhi,2025-06-15,Home Appliances,Numquam Books,5,6489.17,Cash on Delivery,Delivered,32445.85,8038.03,24407.82
+aeea312b-870a-4862-b0ef-ca5bdf1f27ca,1aa3ee0c-0c25-470d-a8b8-598e7584636d,Brinda Bir,38,Delhi,2024-08-20,Home Appliances,Odit Books,4,9100.34,Debit Card,Delivered,36401.36,6363.83,30037.53
+f127022a-c3b6-4613-aa36-3c4713f1293c,199da8c0-ca7a-40a7-b41a-3d4a3923966c,Ishita Cheema,30,Hyderabad,2025-04-27,Beauty,Quam Electronics,5,9321.11,Debit Card,Cancelled,46605.55,11498.21,35107.340000000004
+7284ed7b-0183-49c8-8f56-80ba618f977c,dcf4a043-c5f3-4cdf-98f2-b30d2f46da32,Bhavini Atwal,49,Delhi,2025-05-16,Beauty,Sunt Home,2,283.4,Cash on Delivery,Cancelled,566.8,113.71,453.09
+24fd2b54-f5f2-40e0-83d6-fe7ea73311b1,b79ddfac-6325-4fa0-891c-06aefde5fb47,Vrishti Ravel,43,Mumbai,2025-01-04,Books,Eius Clothing,5,505.32,Credit Card,Delivered,2526.6,545.84,1980.7599999999998
+a7619ff3-4a36-4445-9351-af24213370fb,2ea6029f-8ede-48ba-9f61-5193cafd30bb,Warjas Gole,27,Hyderabad,2025-03-02,Home Appliances,Quis Clothing,5,2417.53,Credit Card,In Transit,12087.65,1212.43,10875.22
+6fa57325-ba58-4d41-b7f7-e2a41aea0525,381e52e2-c686-4c7d-a5a1-c41922393ef9,Tara Mand,53,Bangalore,2024-10-08,Books,Dicta Books,2,1661.01,Cash on Delivery,Returned,3322.02,656.42,2665.6
+58019e74-809b-4a1a-a471-083f5bc94e6e,5f6651ca-08b4-4375-a062-c4567385819a,Anika Mistry,59,Chennai,2024-07-20,Beauty,Autem Books,3,1275.97,Credit Card,Delivered,3827.91,423.34,3404.5699999999997
+8cdf7932-7ca6-4ab3-aac0-c8c85b27dd99,53f0e028-68b4-4620-b443-3de20f758cc4,Bhavna Radhakrishnan,54,Mumbai,2025-03-04,Beauty,Dolor Clothing,3,8791.96,UPI,In Transit,26375.88,6052.53,20323.350000000002
+1083d138-4145-45d0-a91e-c3a9b7373329,9821f6a8-5028-4ce0-83a4-ab24f69d6f62,Vedant Dayal,51,Hyderabad,2025-04-27,Beauty,Vel Beauty,5,4396.34,Net Banking,Returned,21981.7,2553.82,19427.88
+48288f2c-7b0f-4d02-b934-c3e84d9819ec,b689029d-282e-4c89-9b59-afd1d737531f,Azad Gara,35,Mumbai,2024-06-29,Books,Iusto Beauty,3,9778.62,Credit Card,In Transit,29335.86,4798.06,24537.8
+f74bc541-1818-40b4-92c0-fcced21f6adb,94d7ac99-c4b4-43b9-a921-c744c7d0d0f9,Brinda Bhakta,19,Mumbai,2025-04-22,Electronics,Aspernatur Clothing,4,5168.69,Debit Card,Delivered,20674.76,5051.06,15623.699999999997
+b65626d0-5241-4f58-b9c5-75297a076f66,6e97079e-10c8-4569-88f3-d23dd0369af3,Jagdish Agrawal,29,Chennai,2025-01-04,Beauty,Quidem Electronics,2,242.94,UPI,In Transit,485.88,65.69,420.19
+cf62ecf1-670b-419d-b64c-ede903f4b815,a79199e7-a153-4167-8c89-118ee7a66c03,Eesha Rege,34,Hyderabad,2024-07-13,Books,Molestias Beauty,5,1294.58,Credit Card,Cancelled,6472.9,1040.12,5432.78
+5ff833bf-2b10-4196-8c93-e2406453b9de,67080a96-c9e6-40e0-9c00-7e59fd3dcf07,Samarth Bava,31,Delhi,2024-12-06,Books,Natus Beauty,3,9785.64,Credit Card,In Transit,29356.92,6666.17,22690.75
+58cfcfd7-c923-4733-a3d7-aa9fa63bfd37,66dc0524-f231-4145-91a3-4c8d62a9ac6d,Nitara Ramakrishnan,26,Hyderabad,2025-01-03,Beauty,Aspernatur Clothing,4,4806.83,Net Banking,Cancelled,19227.32,3882.78,15344.539999999999
+34fce837-fa5d-40e6-a60f-03e431116233,7576e4ce-7a57-4cec-97b0-2c034c97a99a,Sai Chhabra,19,Delhi,2025-06-12,Electronics,Odit Electronics,3,2305.56,Debit Card,Delivered,6916.68,608.74,6307.9400000000005
+16ac2c5a-5bc3-4b4f-9c2f-4377648a1bbc,1e2e45b6-6335-45f8-b0f8-b8b6324076da,Sai De,38,Mumbai,2025-02-04,Home Appliances,Laboriosam Beauty,5,3550.1,UPI,Delivered,17750.5,1720.01,16030.49
+cb19b0a5-8525-4a6c-b97f-7b720f13d84e,b00e8205-3b81-44eb-bb35-619dddbcbc09,Ayushman Sethi,58,Delhi,2024-11-27,Electronics,Eius Beauty,4,8352.09,Net Banking,In Transit,33408.36,5349.61,28058.75
+51353588-35c0-4613-99da-43cc41b4f645,6fff3a19-c32b-4aa8-885d-0c522c2848e3,Jagdish Tailor,48,Mumbai,2025-03-21,Books,Fugiat Clothing,5,2213.23,Cash on Delivery,In Transit,11066.15,1795.39,9270.76
+97227b43-9db6-4357-b0c7-690d908d6ce9,1dc39a56-fcab-43b9-adc0-f9b8f0b347b7,Ekansh Nigam,24,Hyderabad,2024-08-07,Books,Perferendis Clothing,4,5357.03,Debit Card,Cancelled,21428.12,2066.52,19361.6
+d03a4877-5882-48a4-a893-b193ba6711e4,69fdc21f-eb3f-4a33-9960-5d5306a3a1d5,Vrishti Wali,52,Chennai,2024-11-09,Books,Nulla Electronics,2,7892.99,Debit Card,Cancelled,15785.98,3577.39,12208.59
+4a66c419-ec49-4a9b-bd60-137f43797176,e2572b1e-0561-42e3-9456-8401eab96249,Gagan Divan,55,Mumbai,2024-08-14,Electronics,Esse Clothing,5,9501.63,Credit Card,Cancelled,47508.15,11696.84,35811.31
+6a756616-82aa-48b4-bc08-ee985ff14aa3,98a11033-5651-4639-a628-c4a07ba8d0c4,Chakradhar Kurian,39,Mumbai,2025-01-26,Home Appliances,Ex Beauty,5,3925.88,Debit Card,Delivered,19629.4,2025.92,17603.480000000003
+4ad80eff-53da-41c6-a84d-da367e93c9e0,95ff65c3-aef3-41d4-a5f8-f79438ed8ed0,Divya Panchal,32,Hyderabad,2025-06-08,Books,Recusandae Beauty,5,6819.59,Debit Card,Delivered,34097.95,3988.13,30109.819999999996
+137d3d21-fdf7-4483-ad5a-28db5eba3e60,2f759fd0-a9d7-499a-b558-796ba0ca3448,Vincent Morar,37,Hyderabad,2024-12-07,Electronics,Eligendi Electronics,4,8675.31,Cash on Delivery,Cancelled,34701.24,3351.2,31350.039999999997
+cd1dc26d-c818-4e4f-af9e-083758e56a33,70f0daea-6b33-41ef-939d-e05904294e9f,Urvashi Divan,38,Hyderabad,2024-08-12,Beauty,Modi Home,1,2202.49,UPI,Returned,2202.49,394.27,1808.2199999999998
+95408fd8-40ae-4608-8238-92c9eebc9603,e8efed83-ed5b-4702-969b-037b65ae201e,Saumya Hayre,26,Chennai,2024-12-21,Electronics,Sed Clothing,4,9721.12,UPI,Delivered,38884.48,4657.84,34226.64
+286a5249-42f5-43cc-ae56-1b54fa4857a4,e56b6497-2f63-4b47-a688-984676c6d3f6,Thomas Batra,55,Delhi,2025-04-23,Clothing,Nisi Home,3,693.21,Net Banking,Cancelled,2079.63,410.96,1668.67
+508a6e76-d06b-4b20-9fc2-b61321ae02b9,629989ec-ddaa-4ffc-b55d-bde41d42d965,Fariq Bajaj,36,Chennai,2024-08-05,Home Appliances,Quis Beauty,5,7530.62,Net Banking,Returned,37653.1,6870.13,30782.969999999998
+f71ebc11-bd59-4244-beef-3f1b4b0ed1c0,5ec6024a-61fb-41cf-ba19-17bfa80edb89,Dalaja Mukherjee,31,Mumbai,2024-11-27,Electronics,Dolore Books,2,3055.42,UPI,In Transit,6110.84,323.95,5786.89
+ca16c177-16d6-48c8-8ede-7b34e55efe75,435e6b3b-13a5-48e4-bf20-7adbb236b518,Upma Dube,34,Mumbai,2025-03-02,Beauty,Reprehenderit Clothing,2,6246.96,Credit Card,Cancelled,12493.92,2394.92,10099.0
+b904dd29-0d3a-4bc9-b827-14bc80df42ea,d17871b3-2b82-4798-9cf9-956c5c3ff1db,Udarsh Parekh,23,Chennai,2024-12-11,Electronics,Exercitationem Home,5,6082.37,Net Banking,In Transit,30411.85,2887.32,27524.53
+353dbaa3-8440-4617-980b-2cba00683cb0,b8e1e448-3982-44df-a1a7-044618835808,Keya Jain,39,Chennai,2024-11-28,Home Appliances,Natus Electronics,5,1154.63,Credit Card,Delivered,5773.15,514.26,5258.889999999999
+9021459b-c62e-46c5-96e2-534fbfd2d655,1982cee8-46f9-41d0-9a7c-6df827831d7d,Triveni Thakur,48,Chennai,2025-05-08,Home Appliances,Doloremque Beauty,5,4465.77,UPI,Cancelled,22328.85,2434.2,19894.649999999998
+93c6d187-cdc6-4f7e-a52a-1d824c511712,77d7e714-4f84-45d1-be0c-6b7234b1a2d7,Priya Dhar,59,Bangalore,2024-09-16,Beauty,Pariatur Beauty,1,6594.06,Credit Card,Cancelled,6594.06,1429.75,5164.31
+67dc4851-5c89-46bf-a0eb-459aa2c91214,c9e9cf3e-c699-4e38-a194-c84e33fd904b,Vyanjana Vohra,58,Delhi,2024-09-23,Electronics,Voluptatum Electronics,3,5151.68,Credit Card,Delivered,15455.04,1320.47,14134.570000000002
+f88a01fe-4418-4ebc-b864-83098446f1ea,859167ba-d07b-44f9-80b3-164f86cc67ad,Bhavika Varma,54,Delhi,2025-05-31,Electronics,Tempora Beauty,2,954.55,Cash on Delivery,In Transit,1909.1,184.92,1724.1799999999998
+fb5e6632-dd68-4172-ab0a-1b483311b3f9,e6b69bbb-7842-45f7-9e1d-e17a0f2d3ed9,Victor Baria,28,Chennai,2024-08-05,Electronics,Nostrum Books,1,604.04,UPI,Returned,604.04,50.57,553.4699999999999
+5c8ab043-6fbc-4f09-ab21-bcf008861508,9fcca88f-87cc-426c-936c-ea8814136a8c,Yoshita Rama,50,Chennai,2025-04-16,Home Appliances,Aperiam Home,3,856.78,Cash on Delivery,Delivered,2570.34,241.05,2329.29
+1c6f8fab-f191-4200-b18f-b87af14f7945,85fd4208-0d24-4dc0-aa35-84c1dc5e6ee2,Charvi Apte,51,Chennai,2024-12-24,Electronics,Reprehenderit Home,2,3871.66,Net Banking,Returned,7743.32,1794.87,5948.45
+bbc8e6a1-bb19-4aa1-a0c5-1bdbc9c0ef36,b7b0f371-bf60-4f28-a909-273bcb3f3f5a,Gautam Basu,49,Hyderabad,2025-03-02,Clothing,Accusamus Electronics,2,2137.02,Cash on Delivery,Returned,4274.04,326.16,3947.88
+29dfb99f-4214-48b5-b358-19ace0cdbb89,c72f3b83-f32a-452a-81bf-4be40cf25a87,Ishaan Rama,46,Hyderabad,2025-03-20,Books,Dicta Clothing,4,6804.37,Cash on Delivery,Returned,27217.48,3167.59,24049.89
+670d18d0-9c9d-4a61-86f4-5657283ea34d,1103d67f-a5c7-4337-a846-7a0a5d5aed0d,Om Kapoor,48,Mumbai,2024-09-03,Clothing,Quasi Beauty,1,9486.74,UPI,Delivered,9486.74,2121.69,7365.049999999999
+cbf34160-9fb5-4347-8b7a-c45fd351ba39,1a457ee7-790b-4f04-b002-c3b0330482df,Dayita Loyal,30,Hyderabad,2024-08-14,Books,Ab Electronics,3,8393.91,Credit Card,Cancelled,25181.73,2009.99,23171.739999999998
+fe2ebb98-d8ee-4ead-b1dc-f184ebe7059a,91e4e8ae-b337-4ac9-a097-8ee08c0cfe05,Parth Sura,35,Bangalore,2025-03-12,Home Appliances,Magnam Home,3,8441.18,Credit Card,Cancelled,25323.54,4953.22,20370.32
+10b693a4-f0c7-4bdc-9976-1bae180ac026,1b6335b0-9aeb-4816-9d6a-d12a4282a84d,Yashasvi Hegde,33,Mumbai,2024-07-25,Clothing,Iste Clothing,4,8891.26,Debit Card,Delivered,35565.04,2115.82,33449.22
+cf4f5509-0a17-432d-87df-2eb3f86350f4,a84d68b8-e06f-4318-af49-26c0fa539468,Chatresh Seshadri,38,Hyderabad,2024-07-04,Clothing,Cumque Clothing,2,1200.9,Cash on Delivery,Cancelled,2401.8,248.7,2153.1000000000004
+8787db78-5b3b-4dde-9547-e475c90da088,5c545db2-8627-48a6-9760-ff49958a3d80,Urishilla Kumer,18,Mumbai,2024-10-06,Electronics,Ratione Books,2,262.91,Debit Card,Cancelled,525.82,65.4,460.4200000000001
+e2c9e264-0690-4ca8-90f8-4fdb13124379,f6e8a8c3-adea-45a7-8622-fbda08056a45,Vyanjana Karnik,22,Delhi,2024-11-09,Beauty,Adipisci Electronics,2,4018.31,Debit Card,Returned,8036.62,642.05,7394.57
+e1535bea-72e7-4a0b-8bd2-23e49e355f4b,a97d629a-6992-43f0-912d-0191665945d3,Naveen Dewan,20,Bangalore,2025-04-19,Books,Aliquid Beauty,2,8396.26,Net Banking,Returned,16792.52,934.93,15857.59
+bc40e6a0-d92e-4eab-ab77-872efa9bb413,c90b98b9-0a1f-488e-87aa-82a8f4e3fbdb,Faras Lala,60,Chennai,2025-02-24,Electronics,Excepturi Books,1,2213.72,Credit Card,Cancelled,2213.72,157.06,2056.66
+19edf32c-d4f3-468b-8fbc-d38663e9cafa,e1d868de-4bf8-4603-820e-21f6c29de05f,Urvi Borah,38,Delhi,2024-07-06,Electronics,Quae Electronics,4,9973.97,UPI,Cancelled,39895.88,5981.53,33914.35
+2d0cf967-f9fe-4bfd-ad3c-adf7271d66c3,1362d9e5-ff20-49f6-ae03-3e8b553b455d,Saanvi Kohli,48,Delhi,2024-11-15,Books,Autem Books,4,4428.89,Cash on Delivery,Returned,17715.56,1965.7,15749.86
+ce3f88d0-b650-462b-a1d0-19ad64b3baab,8033fda9-a556-4165-b283-890134b476c4,Upadhriti Choudhary,55,Hyderabad,2025-03-07,Books,Molestiae Clothing,3,5893.07,Debit Card,In Transit,17679.21,2592.96,15086.25
+47c0cb0d-4675-4f01-8cdc-afee641ae453,6a6ae20d-3501-43a3-86f0-8582c3a4af75,Balhaar Varughese,57,Bangalore,2025-01-24,Home Appliances,Quia Home,1,3774.52,UPI,Delivered,3774.52,871.44,2903.08
+85862f9e-ef5c-4255-a098-cc03d8a44b43,70d88cf7-7ffd-4820-bbd9-4841ee42d89a,Varenya Karnik,28,Hyderabad,2024-07-16,Clothing,Autem Beauty,4,4353.06,Credit Card,Delivered,17412.24,1684.76,15727.480000000001
+cdc44c8f-ae38-4aa5-8594-aa7e781602fb,be306fbd-d3d3-4e33-856d-f836976a0c75,Pahal Chokshi,21,Hyderabad,2025-03-04,Electronics,Praesentium Home,1,2018.69,Debit Card,In Transit,2018.69,293.36,1725.33
+2c44c1b5-c7c4-44f0-bfd4-1988085e4073,6c5b12e8-8d69-44ec-bce3-971a1e32e478,Teerth Doctor,32,Hyderabad,2024-06-27,Clothing,Corporis Electronics,1,3148.02,UPI,In Transit,3148.02,593.41,2554.61
+6b324bfc-8f27-4cdc-86b5-a7c2253c079b,acc59390-7bd4-4621-af20-132ffeb2519f,Mitesh Kurian,35,Delhi,2025-03-30,Books,Deserunt Home,4,9692.75,UPI,Delivered,38771.0,4718.99,34052.01
+0216c7f4-db98-4e48-aeb9-a6caf6f8131b,419fc451-c1fe-4edb-abd6-8e5480f9bb32,Abhimanyu Mani,32,Hyderabad,2024-07-05,Electronics,Sequi Home,4,5632.87,Cash on Delivery,Returned,22531.48,1365.03,21166.45
+3c547486-78c1-4332-a2d0-f582afa03254,24571638-fada-4d34-9bb4-a105d16578d4,Owen Rajagopalan,58,Hyderabad,2025-01-05,Clothing,Asperiores Home,1,8639.6,UPI,Cancelled,8639.6,825.28,7814.320000000001
+feb38d72-05b0-4229-b6d6-e448cd7ca638,9b88cc56-af00-4dff-9880-3deb7acb6f80,Bhavika Pau,26,Bangalore,2025-03-01,Home Appliances,Quia Electronics,3,2975.93,UPI,Cancelled,8927.79,1547.67,7380.120000000001
+9edc70d1-ace0-4533-8252-eb0630a0c2b2,48ccb369-7a1f-4647-af6c-81804ad99a1e,Aishani Bhatti,57,Mumbai,2024-12-18,Books,Laborum Books,3,1632.29,Debit Card,Returned,4896.87,656.2,4240.67
+44db2f54-33c3-492e-88b2-fb905a6c84be,05afbb1e-31d9-4fac-ae2a-7b5211acaa41,Upasna Walla,40,Delhi,2024-09-13,Books,Quidem Books,4,4990.05,Credit Card,Returned,19960.2,3402.11,16558.09
+67baf76c-64b7-494b-b8a5-9f6b95ec1294,ebd1dbf8-d5f5-4d63-a0c5-dbcb1d07bc96,Samuel Murthy,33,Mumbai,2025-02-07,Beauty,Fugiat Clothing,3,1995.64,Credit Card,Delivered,5986.92,316.02,5670.9
+1505f411-e701-4d11-b24d-3e7d4f3387c0,d5d894fd-3057-41a6-814e-5caeee995a0b,Rachita Kota,28,Hyderabad,2025-05-31,Books,Molestiae Electronics,2,803.88,Credit Card,Delivered,1607.76,240.81,1366.95
+b599e854-4932-4b7a-b351-865868f9c6f5,d115a9eb-8885-475b-b9af-46519fb12af6,Samarth Sampath,28,Bangalore,2024-10-31,Beauty,Occaecati Electronics,1,2745.66,UPI,Returned,2745.66,302.0,2443.66
+ae080f27-6aee-4598-9005-1f9ed3515a81,7d613b0c-8ef8-4460-b8c4-419274256432,Faraj Lal,43,Mumbai,2025-01-19,Clothing,Nulla Electronics,3,4735.19,UPI,Returned,14205.57,1434.17,12771.4
+20bbc74d-4e05-41bf-8989-70cd8751058b,2066cda5-003e-4951-a69b-ed7db62747e4,Harish Deshpande,31,Mumbai,2024-06-28,Home Appliances,Blanditiis Books,2,5779.09,Credit Card,Cancelled,11558.18,1861.57,9696.61
+6340dc76-f6b3-47c3-8d64-4e4c549ab566,59f29d35-c7a7-48ac-a51a-b0a183aee3f0,Vasana Chahal,38,Bangalore,2025-05-01,Books,Vero Beauty,1,8410.51,UPI,Returned,8410.51,571.38,7839.13
+4a3adfe4-d21e-43aa-9fbc-25668f32e811,2c33f018-390b-4a7a-8a96-b9329047f1a2,Arya Nayak,51,Mumbai,2025-04-06,Books,Debitis Home,1,9644.49,Net Banking,Returned,9644.49,2380.14,7264.35
+ea53ebe3-1306-4c2d-bc44-c9c43a3a2d95,48b1f244-0ce8-43ca-a958-0679abf62dbb,Banjeet Prabhu,54,Delhi,2024-08-11,Electronics,Recusandae Home,4,9005.04,Debit Card,Returned,36020.16,7105.91,28914.250000000004
+abb405a6-7879-4406-ade7-7577a29e8e4c,9e57b099-2192-474f-8ec5-a08822e1ea9d,Zehaan Jaggi,57,Bangalore,2024-11-21,Clothing,Sunt Clothing,4,5990.39,Debit Card,In Transit,23961.56,4042.3,19919.260000000002
+4c1992c7-1a3c-4ce8-8bf3-0c5828abfbe6,51be7b6b-19f3-4a97-b76c-0f6dc4034d65,Ayush Sen,40,Mumbai,2024-09-08,Electronics,Voluptatem Home,4,7584.53,Credit Card,Delivered,30338.12,4922.76,25415.36
+051c71f2-4981-481c-bce3-56ba1f1b5fa1,bf0db158-a1e8-4674-a632-f60bd2d31785,Yadavi Sundaram,41,Hyderabad,2024-09-24,Books,Rerum Books,1,3974.39,UPI,Delivered,3974.39,637.55,3336.84
+dc301cf1-9ae7-4cd3-8a10-5ad8421da635,0c893342-1f37-4a09-be8a-8241ddbbad35,Saksham Khurana,43,Delhi,2024-08-27,Clothing,Cum Books,5,6612.05,Credit Card,Cancelled,33060.25,3683.84,29376.41
+5737de02-a3b0-410a-bd75-98e0542618c7,cdcc2c83-ad75-4fa2-80de-f56d1acea38f,Onkar Devan,24,Chennai,2025-01-24,Electronics,Officiis Beauty,3,2615.16,Cash on Delivery,Delivered,7845.48,1692.96,6152.5199999999995
+ced7b369-8491-4c81-8711-8bd72d5e5abd,d833e748-eaa1-4a22-97f6-01318eefd90c,Vanya Nadkarni,39,Bangalore,2024-10-23,Books,Maiores Clothing,1,4026.64,Credit Card,Returned,4026.64,994.06,3032.58
+d9ce29ff-d202-46e8-babb-6bc295098e1f,964d2de2-22e6-47d2-bda0-089f6f2cf48e,Gautam Deol,59,Bangalore,2025-04-30,Books,Inventore Electronics,1,5405.19,UPI,Cancelled,5405.19,758.71,4646.48
+1f775436-d46e-42f4-886c-3a42bd441aa9,947b21c4-8428-47cd-977c-f47f381b2fc6,Akshay Anne,46,Chennai,2024-09-01,Clothing,Eaque Books,3,8873.46,Debit Card,Delivered,26620.38,1899.59,24720.79
+b5438137-e8c1-4a92-80b4-ede65fb7e829,d99f8868-b1cd-4521-ba4a-121e28b0b987,Brinda Mane,38,Hyderabad,2025-05-07,Clothing,Occaecati Clothing,4,9572.48,UPI,Delivered,38289.92,3802.66,34487.259999999995
+c4163c18-f8c6-4919-be84-6287613693c0,b202f676-67fe-47dd-a702-a4a8bffcfe2c,Manan Sama,40,Chennai,2024-09-16,Books,Nisi Home,4,7692.87,UPI,Cancelled,30771.48,4595.52,26175.96
+7521fd03-a8ae-4060-bff5-4ecf44c28598,a04d6c43-74f0-4eb4-83f6-9b558c676ba6,Nathan Mallick,53,Mumbai,2024-09-22,Beauty,Architecto Books,3,3171.84,Debit Card,Cancelled,9515.52,1473.02,8042.5
+51d7db80-2826-486d-a7a2-1747b1928b3c,3b48b4c7-19af-41dc-b00c-aab0072881c9,Vedhika Kumer,41,Hyderabad,2024-07-11,Electronics,Commodi Clothing,1,6382.92,Credit Card,Delivered,6382.92,692.66,5690.26
+04b8af0b-0a8b-44da-b39d-87ca1501c459,cb197a49-b5d3-46e2-b1ef-857034eeb70b,Harish Munshi,29,Hyderabad,2024-08-08,Electronics,Illum Home,2,8800.51,Credit Card,In Transit,17601.02,1607.18,15993.84
+d642aa6b-623f-488c-86ba-220441b48a40,5d81b1f3-2e42-4676-8f57-84faa47df361,Gauri Upadhyay,18,Delhi,2024-11-06,Books,Qui Clothing,2,5001.98,Credit Card,Cancelled,10003.96,1215.93,8788.029999999999
+4884e99a-191e-4c95-b2b5-2e2e92a61e10,97136500-6aed-49b2-8a87-ed370dbdc45c,Vanya Raghavan,44,Chennai,2025-01-28,Electronics,Ut Clothing,1,7385.47,Cash on Delivery,Returned,7385.47,596.43,6789.04
+ef8cc700-aea8-4c35-a9bc-f8035d1a945f,14179576-0c4e-4599-b100-abbba762e2f4,Vedant Rege,41,Bangalore,2024-12-02,Clothing,Dolor Electronics,5,7115.69,Debit Card,Delivered,35578.45,4273.56,31304.889999999996
+56da9940-1568-4089-a76b-c96cfd6596fe,d43f9f41-1844-4a83-96e0-d32bcd4ee8b3,Tamanna Karan,18,Delhi,2025-01-21,Books,Dolore Electronics,5,7518.11,Debit Card,Returned,37590.55,5752.57,31837.980000000003
+1d4ae43a-89cc-48f6-b425-017022d07855,0dffe374-24ee-480a-8cc6-5a6310577ca1,Kashish Shankar,35,Delhi,2025-02-21,Clothing,Eos Books,3,2212.57,UPI,Delivered,6637.71,1338.0,5299.71
+a68ff0a1-3c0a-4b57-baf5-1bdff2a101ce,4cde12eb-1a2b-4cb3-9ad4-c1b776b4911c,Isaiah Samra,19,Chennai,2024-12-15,Beauty,Praesentium Books,2,7990.86,Cash on Delivery,Cancelled,15981.72,2870.64,13111.08
+9a033356-6a05-4fe1-ac82-0f2208ddb455,f790dca4-4ca1-4c7b-ba5f-bcd679fc7214,Chatresh Kashyap,35,Chennai,2024-11-30,Clothing,A Home,4,9708.75,Cash on Delivery,Cancelled,38835.0,7724.58,31110.42
+5e12bd96-a3db-4ef2-ba30-b6ee98882c96,94db5d64-30e7-4f0e-912b-bd6ad175b942,Hitesh Ranganathan,31,Chennai,2024-06-24,Beauty,Quos Home,1,1258.45,Net Banking,Cancelled,1258.45,69.81,1188.64
+ecd1d522-241b-4e08-8fe6-df87ced59700,c621329b-e3af-496d-8456-3ee5139ba792,Saumya Gupta,34,Bangalore,2024-11-07,Electronics,Ipsam Beauty,2,696.53,Credit Card,Returned,1393.06,267.11,1125.9499999999998
+954ec31a-1e0c-4196-888f-53cad2a1c2d3,4f062af9-c836-4108-aefc-7a7e9a3d69e9,Frado Kohli,25,Mumbai,2024-12-26,Electronics,Architecto Home,3,4632.84,Credit Card,In Transit,13898.52,3182.22,10716.300000000001
+e12ab16e-7b3b-4242-9d2a-382e93a08849,778fae93-444a-4e22-ab41-97da43d3c760,Vamakshi Tella,29,Mumbai,2024-12-22,Beauty,Architecto Beauty,3,6288.04,Cash on Delivery,Delivered,18864.12,2972.84,15891.279999999999
+e15c872e-63e8-4a71-9136-ccf65f882708,b59b96d7-a71d-497f-9c61-ca261cc17986,Agastya Mand,35,Hyderabad,2025-06-15,Electronics,Voluptas Clothing,3,8566.0,Debit Card,Delivered,25698.0,4184.05,21513.95
+6972fb03-998b-486d-9c76-d1c78a29126d,50d122ec-af63-441a-91aa-9fe080e09f8a,Wriddhish Hora,24,Chennai,2024-08-27,Books,Quo Home,4,8425.4,Net Banking,Cancelled,33701.6,2874.86,30826.739999999998
+2136ca2d-efb7-4c1d-8875-d9526c5e73e4,ee129daa-a5ee-4af2-b0e5-e7b112af61d1,Ekantika Memon,59,Bangalore,2024-12-24,Books,Minima Clothing,4,3331.01,Debit Card,In Transit,13324.04,1038.58,12285.460000000001
+ff294b51-36c9-407d-921c-8ee29ca0b978,e1590ec2-cf94-4bab-be26-b86835a8952a,Ekaja Biswas,27,Bangalore,2025-03-03,Electronics,Numquam Clothing,3,1848.01,Cash on Delivery,Cancelled,5544.03,533.02,5011.01
+52b28301-1166-42d2-bb8a-34bc18897e55,1a4ea1f8-25db-4785-87e6-7cce8bcaff8a,Theodore Ben,25,Chennai,2024-11-08,Clothing,Possimus Home,2,3238.16,Cash on Delivery,Returned,6476.32,854.19,5622.129999999999
+e8faa1f6-0b38-4e3d-a6b0-21a72bdcd43e,e1c35949-7850-46fc-8d79-eea5b5a9dd6f,Ucchal Loke,37,Delhi,2024-11-17,Beauty,Aliquid Clothing,1,8574.41,Debit Card,Delivered,8574.41,913.22,7661.19
+7cc97482-9b20-4762-94a6-9c42761f0ccd,5ac15a70-8379-4ee2-b78c-2ca4ba27e8c4,Chatresh Palla,39,Chennai,2024-11-10,Books,Expedita Books,1,5444.77,Debit Card,In Transit,5444.77,1082.61,4362.160000000001
+02c6150b-98ab-41da-93f1-aebce9876df5,8f59fe6a-dad5-4416-bda1-0bb8f4d133a7,Aarna Badami,52,Bangalore,2025-04-22,Books,Officiis Home,4,4191.33,Credit Card,Returned,16765.32,936.59,15828.73
+00123c45-4274-4c6b-a0cb-f556c6a8d765,95335266-455d-4df5-9ecd-c9d70d92fb4e,Unni Sandal,40,Delhi,2024-07-31,Clothing,Ad Home,4,8605.07,Cash on Delivery,Cancelled,34420.28,2498.49,31921.79
+16dcf184-1ae9-430d-8144-f4387225f7fa,37dc2fc0-debc-4590-b14b-c7e42499ff22,Faris Chander,22,Chennai,2025-04-03,Books,Vel Clothing,2,1271.93,Cash on Delivery,Returned,2543.86,269.5,2274.36
+08ac6871-b36f-45b4-85c2-1e2e698b2a7a,ed0e1109-8a1e-4b46-9f46-7d9eb9a11265,Faraj Agrawal,57,Delhi,2024-07-03,Home Appliances,Esse Home,2,6509.94,Credit Card,Delivered,13019.88,1026.05,11993.83
+673a290c-e3c4-4eb4-9f78-b6f9682f765c,1df50ff0-7f9e-4fc3-8867-f3d1b55c063f,Charan Mall,30,Hyderabad,2025-06-22,Beauty,Iste Clothing,5,9567.52,Credit Card,In Transit,47837.6,10887.9,36949.7
+8da44fc6-dbcb-4f9f-86ea-94867789861e,e6102667-094a-406d-8c33-a092a215c5e0,Fiyaz Singh,40,Delhi,2025-06-23,Books,Iusto Home,1,2594.06,Credit Card,Delivered,2594.06,540.12,2053.94
+21473131-8aab-49e7-bf84-9f93ab1df02c,b3a704cc-647e-4fde-acc3-2dbc88377c12,Damini Char,33,Chennai,2024-08-22,Clothing,Beatae Books,3,5508.92,Debit Card,Delivered,16526.76,2115.91,14410.849999999999
+7c2750cc-3b87-4105-9c55-9858055e2ed6,9c800e6d-d16f-48ef-a1af-27a76f0204bd,Charles Sane,42,Chennai,2025-01-04,Electronics,Adipisci Books,1,307.85,UPI,Delivered,307.85,47.16,260.69000000000005
+7e6e4fc1-f8e2-4f1b-b7e5-c651da8e4b25,f424698a-86d2-47e9-aa43-d8f8ebc0f257,Bakhshi Kadakia,56,Chennai,2024-07-16,Beauty,Qui Clothing,5,5653.74,Net Banking,Cancelled,28268.7,3928.83,24339.870000000003
+1788b872-769c-4603-8c5c-24697f1d3312,fb7ca5f4-3fff-43c2-a423-eeddc2a4a972,Omkaar Viswanathan,59,Mumbai,2025-03-02,Beauty,Praesentium Beauty,1,887.93,UPI,In Transit,887.93,203.61,684.3199999999999
+4aa1a117-b19e-4e7b-9694-4b20c3e17745,35dfd910-79a0-4758-a2a9-ed897cffebf3,Jason Sur,21,Bangalore,2024-12-04,Beauty,Rerum Clothing,1,7231.84,Debit Card,In Transit,7231.84,981.06,6250.780000000001
+bb7cfd6f-fe38-4f82-b21a-06dc07df4ac9,9c0ae13b-de44-4d76-9e0a-30d94acb8ba3,Damini Kata,42,Hyderabad,2025-05-01,Clothing,Occaecati Home,4,5136.11,Credit Card,Delivered,20544.44,3064.63,17479.809999999998
+d2b19b5d-594e-4593-9825-f2464672045c,8b8244f1-026b-4abe-98b5-1b54a558d753,Ekansh Manda,22,Mumbai,2025-01-12,Books,Consectetur Clothing,2,6457.74,Debit Card,In Transit,12915.48,1875.55,11039.93
+f8b181e8-3d58-4881-8bdf-3b61984addfc,b20d0fbf-d486-4ee4-8d88-0b6ad82992ed,Umang Raja,21,Delhi,2025-06-03,Beauty,Ullam Beauty,3,7925.65,Net Banking,Delivered,23776.95,2938.75,20838.2
+148b1e1f-0c94-44a5-b0f2-0d5e5a74ac13,c38558ce-ce58-40a7-9e33-ae0aab6866a5,Pratyush Bhalla,58,Delhi,2025-02-25,Electronics,Quos Beauty,2,561.31,Debit Card,In Transit,1122.62,257.37,865.2499999999999
+762907a6-fb1d-4850-aba6-e38246ff74c1,fd717593-06dc-401d-8b74-d06efd62e70c,Jasmit Sanghvi,56,Chennai,2025-01-09,Electronics,Cupiditate Books,4,1229.67,UPI,Delivered,4918.68,706.71,4211.97
+a5b481d2-24c6-4c0a-a0cd-16d12d2cd446,e3446469-69ba-4271-be84-b3747f804318,Yashawini More,58,Hyderabad,2025-02-28,Books,Unde Electronics,1,810.45,Cash on Delivery,Cancelled,810.45,162.45,648.0
+ba1341ab-2746-42ea-8b82-b8efef1a9f54,cc27bd5e-55c2-47bc-8039-d07415b4125b,Isaiah Dass,33,Chennai,2024-12-04,Clothing,Dicta Home,5,6072.47,UPI,Returned,30362.35,2976.27,27386.079999999998
+aef9ce36-87f2-45d1-9b6d-3ce3148665a6,65e852d8-ad07-4192-9ff7-71f3ab183c6a,Brinda Lalla,18,Mumbai,2024-11-01,Clothing,Asperiores Electronics,5,524.54,UPI,In Transit,2622.7,607.11,2015.5899999999997
+695fb8ab-2955-4c76-bbf0-b404ecca7b50,c175ed50-d4bd-4802-a4a9-eeef910a72bd,Deepa Mand,43,Delhi,2024-08-19,Electronics,Repellat Home,4,3135.12,Credit Card,In Transit,12540.48,1424.63,11115.849999999999
+2f4f2ea8-2f11-4357-ae0a-8232f8cadcfb,d21f2e65-696b-45ac-b589-71aea7d80cce,Hiral Dubey,59,Delhi,2025-04-22,Books,Id Electronics,4,9838.19,Debit Card,In Transit,39352.76,2602.78,36749.98
+eeed37fb-9af8-4189-9b44-660e0c01bd22,d7b2debe-d4c5-4607-b70c-d77d5aa9b1be,Vaishnavi Nadkarni,23,Mumbai,2024-08-14,Clothing,Eligendi Books,1,6055.46,Credit Card,Delivered,6055.46,1144.39,4911.07
+a94b29d4-5fc8-41ce-a3a9-d1a481899306,282192ac-54d2-4cbb-8232-f633629d8f1e,Jagvi Tank,19,Mumbai,2024-07-16,Clothing,Porro Beauty,2,2357.18,Net Banking,Returned,4714.36,293.97,4420.389999999999
+7bcadab3-d5d6-431c-a629-db485631697d,4cccc4ce-0db5-4c4b-a4d6-c992d94cf6d7,Sarthak Upadhyay,31,Hyderabad,2025-03-30,Beauty,Aut Books,5,3001.26,UPI,Cancelled,15006.3,3428.25,11578.05
+2489d57f-38c9-4437-b790-37b898708b1c,760cc4ed-e2da-42c8-b972-fc684e886b6b,Nikita Chatterjee,45,Delhi,2024-12-24,Books,Possimus Home,5,9829.45,UPI,In Transit,49147.25,5335.45,43811.8
+9b002080-bac2-4d39-8e76-2f45c57bcfd2,40379aa8-55b4-4757-af71-b6d0dfb3e2f0,Krish Joshi,19,Mumbai,2025-04-22,Clothing,Minima Beauty,5,882.5,Net Banking,Delivered,4412.5,826.65,3585.85
+5f2de25c-6d71-4fe2-b771-57c0d845871a,8e631a93-e848-4ede-8203-c86d366b5e0a,Amara Pillai,37,Mumbai,2024-07-10,Home Appliances,Earum Beauty,2,2174.9,Cash on Delivery,Cancelled,4349.8,1030.01,3319.79
+bee0857c-0ff5-4062-8033-90adb7af2d57,06f57a48-6433-4351-ae18-3d5939a05362,Yagnesh Mannan,32,Bangalore,2024-08-20,Books,Minima Books,4,2088.46,Cash on Delivery,Returned,8353.84,1609.45,6744.39
+934b7a96-6428-4604-a763-41dd3a61f4b0,8a5c8219-4ac3-4165-94bb-49518de9d404,Vaishnavi Hora,54,Hyderabad,2025-04-19,Clothing,Quisquam Electronics,1,434.79,Debit Card,Cancelled,434.79,47.29,387.5
+6ab4c082-66e8-403b-b312-2937c512632c,e400bcca-79d2-460f-b046-986ef66142a0,Sachi Subramanian,18,Delhi,2025-02-14,Books,Accusamus Electronics,3,7802.56,UPI,In Transit,23407.68,3248.95,20158.73
+577a896c-2039-4fef-be26-defa8f28d832,26b97249-4df9-4098-baad-be28e97e7f25,Urvi Natt,30,Delhi,2025-01-17,Home Appliances,Dolore Beauty,1,5392.63,Debit Card,Returned,5392.63,577.34,4815.29
+76c274f8-c319-47e0-ad43-1f225bcf562e,7bc190e7-1beb-463d-9af6-2810befdbe89,Niharika Narayan,36,Delhi,2025-06-10,Books,Beatae Clothing,4,2686.36,Net Banking,Cancelled,10745.44,1462.33,9283.11
+ed6cbcd1-cafe-40f3-bd17-ffca9ab82070,3516a660-8256-4305-81ca-059c07301d09,Abeer Basak,48,Hyderabad,2024-07-03,Clothing,Voluptates Books,4,606.0,UPI,Cancelled,2424.0,166.64,2257.36
+73ecbbfb-7aa7-4318-b370-0209e2380d61,5fda1f95-95f8-4d80-9a8c-695beb6ec1b5,Tara Gulati,47,Chennai,2024-10-31,Beauty,In Electronics,4,9576.37,Cash on Delivery,Returned,38305.48,7170.29,31135.190000000002
+68197e6f-74b7-4136-975c-681fefafc65c,5801a6ad-9756-45b5-95de-9e46a517f938,Amol Dora,28,Bangalore,2025-06-12,Beauty,Nulla Books,4,9743.88,Net Banking,Delivered,38975.52,3248.94,35726.579999999994
+ceeefadb-a683-4ec7-9353-5b3ae4056b42,ce3cdecc-6d9f-44f3-9eea-e393826109ed,Ronith Vaidya,30,Mumbai,2024-06-29,Beauty,Tempora Electronics,4,6073.87,Debit Card,In Transit,24295.48,4036.26,20259.22
+1efc499e-0d4b-457f-8106-a14dabc52c37,fb3416e4-c134-4aff-9e1d-16c9023f8d4d,Nakul Bedi,48,Chennai,2024-06-28,Clothing,Id Beauty,1,2617.54,UPI,Cancelled,2617.54,459.71,2157.83
+fa9d3520-6d16-4857-96a6-6e0d08981028,f155480d-56ba-4490-97a5-e70ae96618fa,Ethan Sawhney,27,Delhi,2025-06-07,Home Appliances,Commodi Home,2,1443.48,Net Banking,Returned,2886.96,466.57,2420.39
+d1a1fe84-b4eb-4fe5-b62b-a9ed793fc1f2,2d690366-55be-46f9-b1f6-9ed1126a09ac,Fiyaz Prakash,41,Bangalore,2024-10-28,Electronics,Fugit Beauty,5,6475.05,UPI,Returned,32375.25,8033.58,24341.67
+09c1ca7e-1cb3-409c-9ac0-35bcacb9972e,7993e5c7-511f-4daa-865c-082009eaf96a,Charles Gulati,52,Bangalore,2024-08-16,Books,Veniam Electronics,2,8642.73,Debit Card,Cancelled,17285.46,2654.39,14631.07
+b07b4266-b2cb-4db7-824f-b79066f0ded5,6ad6d0aa-4474-4862-8624-aa9b28655f0b,Aarnav Varughese,34,Chennai,2024-08-30,Home Appliances,Voluptas Beauty,1,1420.42,Credit Card,In Transit,1420.42,198.08,1222.3400000000001
+15b55bea-28ad-4d1c-b26f-ece15dcb7224,a3504c2c-616a-43b9-8aa6-212cd99930b0,Fariq Deo,56,Bangalore,2024-10-25,Clothing,Molestiae Beauty,2,868.33,Cash on Delivery,Returned,1736.66,402.84,1333.8200000000002
+a47a63a4-13d3-4c55-8dec-d95462efd809,1c92dc66-c056-4e09-b7d0-e51511cdb3ef,Hemani Hayre,40,Chennai,2025-05-25,Books,Quasi Electronics,2,9264.04,Cash on Delivery,Cancelled,18528.08,1920.32,16607.760000000002
+0752ca42-ccb6-4f6b-864d-2a6578638fb1,4b12efe6-16f5-4fc4-865e-6f7183ef83d2,Chakradhar Lanka,21,Mumbai,2025-01-19,Clothing,Voluptatem Beauty,2,6225.18,Credit Card,Delivered,12450.36,1408.31,11042.050000000001
+69e2aae1-42c2-4816-91a3-5bfbf819c58d,40332f84-df93-4d0e-ad3a-8eb8c2a626d4,Bina Kant,57,Bangalore,2024-07-02,Books,Qui Home,2,9358.09,Net Banking,Delivered,18716.18,2884.07,15832.11
+a21dc368-9c91-4b8a-93ae-2dde8a27c01d,42d92295-5f59-4417-a88e-d445a335765a,Vasana Chada,44,Delhi,2025-05-17,Beauty,Illo Electronics,2,2163.65,Debit Card,Delivered,4327.3,813.14,3514.1600000000003
+3d9eefb9-e6df-4ff4-b0ba-e8483f3c76de,c90651c1-cf36-4375-b65e-a663f3df300a,Banjeet Manne,19,Chennai,2025-01-25,Home Appliances,Sint Home,1,8879.26,Net Banking,In Transit,8879.26,1790.26,7089.0
+36057786-4ac4-4428-8eec-5dbbe5ab3188,346b0cf5-7dea-4abe-9503-37bdb048d312,Vyanjana Puri,22,Chennai,2025-02-17,Clothing,Dolorem Clothing,4,4933.96,Debit Card,Cancelled,19735.84,4438.88,15296.96
+f0492aee-765b-46ec-8650-3207aaa75c49,54bc824a-e26f-49fd-bab5-59eedffe29d9,Rachana Raman,49,Mumbai,2024-09-04,Beauty,Possimus Beauty,3,6599.14,Credit Card,Cancelled,19797.42,3278.31,16519.109999999997
+f0907628-0357-4f96-a777-3bc4b3a7dc13,ca0539c0-2ab8-43ff-9052-023c285b20e5,Shaurya Mani,50,Chennai,2024-11-20,Electronics,Commodi Clothing,1,1524.65,Debit Card,In Transit,1524.65,191.71,1332.94
+95396066-3140-4154-80be-a933dfc2ace6,fcc2edef-d6a0-464e-a554-54ce179e224e,Devansh Sane,45,Delhi,2024-08-12,Beauty,Provident Electronics,3,4419.74,Debit Card,In Transit,13259.22,1077.98,12181.24
+24f050bb-4b19-4652-852b-bac1f3419af5,2d272d41-cab6-4b51-9613-dcf0f6187d09,Gautam Tara,57,Mumbai,2024-07-22,Beauty,Placeat Clothing,4,2674.81,Debit Card,Cancelled,10699.24,2157.48,8541.76
+87461b72-54ea-48e9-8787-a8f5c91780c1,1c970e10-9c29-4317-b00b-d7802ef3f359,Anvi Chopra,30,Delhi,2024-07-30,Beauty,Explicabo Beauty,5,8247.21,Debit Card,Cancelled,41236.05,6159.24,35076.810000000005
+4115f74a-fca3-45b2-9b3e-ad48c47629b4,6b4278b0-b6b6-406e-af28-7cf171ebe37d,Urmi Deol,34,Hyderabad,2024-09-16,Home Appliances,Accusantium Beauty,1,5591.64,Debit Card,Returned,5591.64,1280.51,4311.13
+1973e4c3-31ce-459f-9e7c-0fba8679be63,1855bce5-41f0-4c07-a786-94277803b9ab,Inaya Hegde,24,Delhi,2024-10-07,Home Appliances,Doloremque Books,1,5193.87,Net Banking,Cancelled,5193.87,1219.85,3974.02
+61461a5d-0fda-4fb5-87e1-df8b99f28c2c,b1538758-8923-4c0d-8179-c2f0dc746845,Pushti Yogi,52,Bangalore,2025-03-21,Books,Voluptatibus Books,2,9843.91,Net Banking,Cancelled,19687.82,2373.49,17314.33
+f6c0bf54-e92d-4e52-bbf4-0694c0b061f6,21578026-5eff-4418-8b6f-3bbb3e9543cb,Tamanna Raghavan,56,Mumbai,2025-06-16,Beauty,Veniam Beauty,2,6482.08,Cash on Delivery,Delivered,12964.16,1295.35,11668.81
+f9babd20-0ad0-4965-a462-1cb19104e558,5d4852e2-50f8-419d-803e-59e105bbf76f,Nidra Shenoy,59,Chennai,2025-03-30,Electronics,Necessitatibus Clothing,1,1708.28,UPI,Returned,1708.28,235.55,1472.73
+c977a1b9-8843-45cd-b225-5b6e4c5cc6a4,79873cb6-2172-4424-91cb-8590b7f377f1,Yasti Dalal,24,Bangalore,2025-02-02,Beauty,Ab Beauty,5,3566.58,Credit Card,Cancelled,17832.9,2743.62,15089.280000000002
+ede27452-01a9-4d44-97c4-87e181111e27,e3fbe06a-ce35-4b3d-b970-c57453160ee6,Ishanvi Purohit,35,Mumbai,2025-02-07,Electronics,Nihil Clothing,2,1702.61,Net Banking,Returned,3405.22,804.68,2600.54
+5e1dd025-7e29-4f31-9db3-adcfec1829dd,db03c062-24e2-42f9-aba5-beeaea501f0e,Rehaan Warrior,46,Hyderabad,2024-07-20,Home Appliances,Quam Electronics,5,8666.9,Net Banking,In Transit,43334.5,9004.04,34330.46
+120e3c9e-6b80-4b67-8f47-96b64a71b848,99300829-d1c2-4cc5-bb5a-bd15c940c9bf,Ridhi Kala,54,Chennai,2024-09-02,Books,Nesciunt Clothing,3,8171.66,Net Banking,In Transit,24514.98,2639.11,21875.87
+2c6e3ab6-4f7b-49bd-bcc4-5345b9a9220a,d9f855e8-77a0-48af-ab53-186171e7ed73,Varenya Jhaveri,54,Chennai,2025-04-14,Home Appliances,Enim Home,4,7359.89,Debit Card,Cancelled,29439.56,5941.86,23497.7
+acedf4a0-4af2-4f93-bc22-f29a0f93a995,8100c6b4-5fb5-478d-aa56-5d8e5fd5562c,Ayush Som,19,Hyderabad,2024-07-15,Books,Ut Electronics,2,7503.95,UPI,In Transit,15007.9,1642.9,13365.0
+a6c7b8b6-bf5e-4a58-8f50-37c636ced372,714d0435-23d6-41e3-bba8-e74bfea34174,Hredhaan Sekhon,30,Chennai,2025-04-30,Books,Culpa Clothing,2,4417.89,UPI,In Transit,8835.78,1386.12,7449.660000000001
+23123d85-07ca-41e2-a0f7-d04da3c7ca51,ff31d1e2-bfd2-4a87-b549-f0ede90bc4c8,Jyoti Guha,33,Bangalore,2025-03-18,Clothing,Tempora Clothing,1,2148.61,Cash on Delivery,Cancelled,2148.61,253.05,1895.5600000000002
+88827c2f-0846-4bf8-a570-bb67953e0588,1dec2035-46d8-41c8-9b0e-8f843c773a51,Ekanta Balay,43,Hyderabad,2025-05-10,Electronics,Quasi Beauty,3,9292.08,UPI,Delivered,27876.24,3799.76,24076.480000000003
+988f0b1b-b85f-4b7f-bded-de5536426368,a96f9909-9841-47db-8275-6eb5e20e088a,Warda Tailor,39,Chennai,2025-02-12,Clothing,Ratione Books,2,6966.96,Debit Card,Returned,13933.92,2831.59,11102.33
+b3e82aea-9373-4456-9691-b61bcb8163d2,19c988dc-a086-4e05-bc36-842f8440879b,Ria Padmanabhan,20,Mumbai,2024-09-16,Home Appliances,Aspernatur Clothing,3,8736.19,Debit Card,Delivered,26208.57,2599.24,23609.33
+07f40b20-7a6a-4143-8e38-5d419e315bee,53ad7c58-1d2b-478d-85b9-b61af9dec5b4,Ekiya Balan,29,Delhi,2024-12-31,Clothing,Minima Electronics,3,7864.1,Net Banking,Cancelled,23592.3,2660.32,20931.98
+62e3d202-dbfb-43d2-9304-f7e9d2ad3f14,5fa420b0-9b71-4d51-8a64-3553f08741f5,Dhriti Kapoor,58,Mumbai,2025-02-04,Electronics,Quibusdam Books,5,873.08,Net Banking,Delivered,4365.4,641.04,3724.3599999999997
+7f98a036-0c53-4641-9393-c3475fee937d,b3f9f465-ba50-46e4-8f55-9eff89167229,Utkarsh Subramanian,20,Bangalore,2024-12-28,Electronics,Dolore Books,5,592.06,Credit Card,Cancelled,2960.3,564.71,2395.59
+5a0fa569-b16c-4579-89e4-4134312c327d,8730a574-6460-4981-8907-b2a0341cc870,Banjeet Bajaj,22,Bangalore,2024-11-16,Electronics,Vitae Electronics,3,8226.62,Net Banking,Delivered,24679.86,5680.34,18999.52
+a58e0c07-5b53-49c9-9058-817114b37aec,74efd9c6-a484-4aac-9266-c7cf8f24065d,Yuvraj Parmar,20,Chennai,2025-02-21,Beauty,Voluptates Beauty,2,3924.38,Debit Card,Returned,7848.76,480.55,7368.21
+a68dc44d-5fe2-4303-b006-cb9841163259,e0d9a687-e014-447c-a2ca-6a87b33b92a6,Gaurika Sarraf,21,Chennai,2024-10-22,Home Appliances,Ducimus Beauty,3,6050.3,Debit Card,Cancelled,18150.9,2946.17,15204.730000000001
+dbf69fd4-b497-4256-9677-b14844b3d988,c6eff15c-ddb7-48c4-98c3-c709ffee035a,Baghyawati Date,24,Hyderabad,2025-06-03,Beauty,Maxime Beauty,5,3375.81,Credit Card,Returned,16879.05,3326.16,13552.89
+1582855a-bab5-4b1c-8fd4-414a7a6d3609,6b988361-cb87-43b4-b75a-9486993d6242,Pahal Dara,31,Delhi,2024-08-07,Books,Eligendi Clothing,1,7950.48,Cash on Delivery,Returned,7950.48,747.52,7202.959999999999
+8505c421-889f-4260-b1d8-5410ceb48aad,ca851219-9ec1-4042-9b37-257dc40906ab,Raksha Karan,32,Delhi,2025-02-05,Electronics,Exercitationem Beauty,1,6622.43,Debit Card,Delivered,6622.43,795.41,5827.02
+79881980-31b7-4c1d-88ea-c7f933c92c50,750f6912-1b3f-4591-b0f3-3e215c8926ef,Jeet Chhabra,45,Mumbai,2024-10-16,Books,Ipsum Home,1,8382.0,Net Banking,In Transit,8382.0,1310.23,7071.77
+7d00f7f6-45ad-4310-9b83-e26e38a5718a,ec543338-3808-4935-aa78-65ffd858a327,Krisha Lata,45,Mumbai,2024-11-28,Clothing,Nemo Beauty,1,6980.82,Credit Card,In Transit,6980.82,1663.0,5317.82
+f5e81cbf-2b56-45fa-b8ad-3d30b04329f2,37a276f3-0a67-486d-a3ee-e8aa48b26d22,Kala Palan,26,Mumbai,2024-08-09,Home Appliances,Doloribus Electronics,4,8461.76,Cash on Delivery,Delivered,33847.04,2647.58,31199.46
+539ac107-73b2-4589-8dc6-343df1cdb1d5,15a24fd6-db8c-4159-9a85-515acf6c7d38,Victor Hayer,41,Chennai,2025-02-15,Clothing,Quia Electronics,4,7846.94,Cash on Delivery,Delivered,31387.76,7601.83,23785.93
+6bf426a5-17da-4033-8fae-4e756618df77,293eb26e-82aa-4d2c-85b6-cb87b080b72a,Krishna Kannan,49,Mumbai,2025-01-26,Clothing,Provident Clothing,2,1144.04,Debit Card,Returned,2288.08,340.76,1947.32
+2981ff90-519e-4c30-9811-fa6dd13967fc,2315353a-b565-424c-81d2-a43dbb5f84e8,Mohammed Bora,34,Hyderabad,2025-03-12,Home Appliances,Eligendi Home,3,1096.48,Net Banking,Delivered,3289.44,788.06,2501.38
+009b0566-7f7f-4d5d-9310-a4f47d14b6bf,7d33bea9-e663-4e3f-a41d-cdf7bd177e2a,Jai Kuruvilla,58,Delhi,2025-03-25,Clothing,Fuga Electronics,4,6158.38,Net Banking,Returned,24633.52,2690.05,21943.47
+60750da6-a377-4f0d-9f14-1efa9f375ff7,2c41ec0d-d0bd-46d1-aca5-8d67ba7862b1,Madhav Puri,36,Chennai,2025-04-06,Beauty,Natus Books,1,4782.86,Debit Card,In Transit,4782.86,925.02,3857.8399999999997
+28c4febb-ec32-4ec8-b3b0-923d671e5d02,04b3435f-0995-4e65-8937-a9d8ed2f7d34,Ekantika Bhandari,57,Hyderabad,2025-02-03,Home Appliances,Minima Electronics,5,944.12,Credit Card,Delivered,4720.6,1164.16,3556.4400000000005
+430dec99-96fa-44a5-9c5c-b066e420c549,37121acc-17b9-4683-a119-5935eeac160b,Ayush Chanda,55,Hyderabad,2025-06-09,Home Appliances,Voluptates Clothing,5,1277.59,Credit Card,Delivered,6387.95,806.76,5581.19
+a110d705-1e6e-475f-a30a-887d5bb92c83,75f0cf8c-bf90-4263-ae0e-28718f2d0b96,Upma Karpe,27,Bangalore,2025-05-03,Home Appliances,Labore Electronics,4,7688.95,Cash on Delivery,Delivered,30755.8,4492.74,26263.059999999998
+dc0b9218-86e3-407d-93c6-38152239adbe,f79ee9a2-5afd-4c9a-bee6-5874956c70af,Laban Wali,50,Chennai,2024-09-14,Books,Fugiat Home,1,6497.21,Debit Card,Delivered,6497.21,706.75,5790.46
+54c821e1-6203-490f-896c-0784dee244c6,2c661b84-30ec-4118-a1e2-7a585bbeae5d,Siya Deep,30,Bangalore,2024-08-22,Books,Iure Home,1,8787.56,Cash on Delivery,In Transit,8787.56,1506.94,7280.619999999999
+a31eb38a-1332-4071-b545-4c140e8712da,dc2f1e17-164a-4b20-a431-3abe78df3de6,Xalak Kalla,44,Hyderabad,2025-02-10,Home Appliances,Provident Electronics,5,3773.04,Credit Card,Cancelled,18865.2,1103.39,17761.81
+2fa387f5-3e98-4f27-b676-d6f82a07fd61,02f07d67-346e-48e9-9f64-5294a13d4418,Advay Khatri,45,Bangalore,2024-09-07,Electronics,Minima Books,1,7787.77,Debit Card,Delivered,7787.77,1693.78,6093.990000000001
+1cafb809-a10c-44b4-bfa9-aad0362484bb,e6c33289-72a6-4629-82b1-5a69746d660a,Siddharth Barman,49,Mumbai,2024-10-05,Books,Quae Clothing,4,9404.4,Credit Card,In Transit,37617.6,4677.4,32940.2
+4097af8e-34e9-4d30-a129-c1daad4d6be1,63b3ed98-4015-4b44-a31c-4e658eee895c,Tara Patil,32,Chennai,2025-03-29,Electronics,At Clothing,3,5645.35,Net Banking,Returned,16936.05,1434.15,15501.9
+79791cd2-6b8e-4a09-b2a1-9de44bf96654,9fca511a-03a1-4629-9ba7-4b6b1f85562c,Rachita Badami,38,Mumbai,2024-08-01,Beauty,Voluptatum Clothing,2,5557.63,Credit Card,Returned,11115.26,785.62,10329.64
+ab4fd405-ee90-45e5-bcbf-ae19493f7718,ab5e575c-b5de-495f-9664-3f8cd0d67423,Advaith Das,45,Hyderabad,2024-07-15,Clothing,Aperiam Electronics,5,729.15,UPI,Returned,3645.75,838.79,2806.96
+d7f85144-ef74-4ef7-9278-c126e426a1ac,b98c2051-e93e-4236-adc4-e6fba423169d,Ishani Naik,58,Bangalore,2024-07-03,Books,Suscipit Beauty,4,9681.23,Debit Card,Delivered,38724.92,4816.81,33908.11
+bfcbcd9a-1cfc-4bf0-b54e-75b78587eea3,1cfee776-2bee-49e8-b754-6e6d2d6cca51,Jasmit Swamy,34,Chennai,2025-04-14,Clothing,Provident Books,5,288.87,Net Banking,Cancelled,1444.35,93.87,1350.48
+dcbd4713-ad6d-4012-b0f9-fe00db3e2a43,49cbdd26-5382-4ca7-930d-16233dda352b,Xalak Warrior,18,Bangalore,2025-02-15,Electronics,Aperiam Beauty,1,6343.19,Net Banking,Delivered,6343.19,439.74,5903.45
+44d0cb23-6660-47e4-8e15-9880a117e85f,8a43105b-55e0-4a42-a27e-e87379be0c5b,Dev Chaudhary,32,Chennai,2024-09-15,Electronics,Nesciunt Beauty,3,7972.02,Credit Card,In Transit,23916.06,5562.86,18353.2
+2d7e5041-ff1d-4924-8c79-7e8b73e1c563,72ea6474-19e0-4f9a-9368-ee1810d5955a,Kavya Mittal,22,Mumbai,2025-06-14,Clothing,Odio Books,3,5835.21,UPI,In Transit,17505.63,4133.6,13372.03
+36ff4e64-39f4-4e39-989c-5ef8d6878d5e,53d039c5-26c9-421c-bedc-1054c0917d6c,Michael Jha,49,Bangalore,2024-12-26,Beauty,Numquam Books,3,3207.86,Debit Card,Delivered,9623.58,1842.92,7780.66
+8d310d5d-50a5-46ba-902f-2ddd429650a7,81c569df-da91-42b8-9cdc-4e1763e581c1,Ishani Baral,31,Delhi,2024-12-04,Home Appliances,Fugit Beauty,3,1942.35,Credit Card,In Transit,5827.05,592.42,5234.63
+a50b79a8-e0b1-4c2e-bb21-d80a9f6e339f,f82ebf2e-3938-4f47-b368-403db01f8801,Lakshmi Palan,44,Delhi,2024-08-14,Beauty,Eius Books,3,6435.79,Debit Card,In Transit,19307.37,1857.67,17449.699999999997
+e653444e-e4d8-4115-a9f9-6cf2173ddf25,c642ddbd-290a-475c-a834-af32d5df71f4,Qadim Oza,37,Bangalore,2025-02-11,Electronics,Assumenda Home,5,5525.91,UPI,Cancelled,27629.55,4865.87,22763.68
+aec80253-c16d-4613-ac2f-c53813416ced,eb75b03e-497a-4da2-a94c-c376c7011673,Aradhana Barman,22,Mumbai,2024-07-24,Books,Ea Beauty,3,7417.91,UPI,Returned,22253.73,5063.47,17190.26
+8a2923ae-f8d6-4028-bc9a-5c76db189a4d,9085cea3-cd14-4fcb-9cf4-40249b7cf01d,Inaya Raman,29,Bangalore,2025-01-24,Electronics,Laborum Clothing,2,8903.21,Cash on Delivery,In Transit,17806.42,2698.34,15108.079999999998
+938b3d17-4000-42cb-abd3-55038b611b80,0ce3e9bc-4f5f-4f24-81cf-2b3d3e48bc14,Rajata Cheema,59,Bangalore,2025-06-09,Home Appliances,Perferendis Electronics,5,957.78,Debit Card,Returned,4788.9,729.85,4059.0499999999997
+207b0b1b-fdee-4f2c-87be-4b563c92773b,60f07291-c793-4a5b-a7ca-e8d66d7d5d10,Zashil Sachdeva,35,Chennai,2024-09-20,Beauty,Iure Clothing,1,5188.9,Net Banking,Returned,5188.9,849.52,4339.379999999999
+6b8539d1-03aa-446e-8a06-e5d6fe2af7a3,946bdc30-9981-4063-a5bc-bf5f00d6a9a6,Urvashi Dasgupta,37,Chennai,2024-10-22,Clothing,Doloremque Electronics,2,3671.92,Credit Card,Delivered,7343.84,681.66,6662.18
+54c3221e-cb5d-4aa6-800c-9db59626d192,8de8b38e-cb19-4f2f-a4be-26275ac5c41c,Jagvi Trivedi,34,Mumbai,2024-10-08,Home Appliances,Distinctio Books,2,8615.35,Cash on Delivery,Delivered,17230.7,3273.87,13956.830000000002
+664a863e-9d23-454a-90fb-96faeb29fdda,f866fa04-52f1-4ea5-874b-c641cb355efb,Keya Parsa,22,Chennai,2024-07-01,Books,Nihil Clothing,4,230.62,UPI,Delivered,922.48,207.12,715.36
+41c10900-4ea3-4563-8d77-8266118c15ad,c950835d-6e6f-4282-af1a-5465a1150e8c,Naksh Agrawal,48,Mumbai,2025-06-22,Beauty,Laudantium Clothing,2,6268.85,Net Banking,Cancelled,12537.7,2200.05,10337.650000000001
+982be810-1b84-4fba-a945-78b030533189,0c1f3acb-8594-462e-abf0-7d8c1e9f97e8,Jai Sandhu,24,Bangalore,2024-09-09,Beauty,Est Clothing,3,2157.11,Net Banking,In Transit,6471.33,1405.57,5065.76
+1c05af06-1639-4bce-a7c6-4a7e6231fdfb,103652b8-a7ac-45f9-88aa-0fad0465af3f,Hitesh Trivedi,59,Hyderabad,2024-10-21,Electronics,Quas Books,3,4288.27,Cash on Delivery,In Transit,12864.81,2249.66,10615.15
+66d49d26-1489-42f0-9d85-f8955a10128e,87f1a085-669e-4b07-991e-928bd99b15dd,Vyanjana Thaker,50,Hyderabad,2025-06-12,Home Appliances,Voluptate Home,1,5154.55,UPI,Returned,5154.55,1278.03,3876.5200000000004
+3bae3674-5e1a-474d-8f81-c2299640fe80,0364c3ce-4681-4364-94cf-4da37b1bb866,Mason Pillay,55,Bangalore,2024-09-15,Home Appliances,Cupiditate Electronics,2,448.41,Credit Card,In Transit,896.82,124.3,772.5200000000001
+a2840c18-d78b-48f4-9b73-976ab77a3877,851edae3-ae28-44dd-a3f9-35e02c82f446,Alexander Prasad,34,Delhi,2025-05-21,Home Appliances,Voluptas Home,1,788.1,Net Banking,Delivered,788.1,88.01,700.09
+d99f740c-feee-4f41-8191-ea14b6776147,a3e89fe5-9ecf-4d9a-a20d-a066e8cdecf8,Adya Ramesh,29,Bangalore,2025-05-29,Home Appliances,Ad Beauty,3,1104.85,UPI,In Transit,3314.55,540.31,2774.2400000000002
+9fda4174-eab3-4546-b5c2-f8c19ce62efc,d4344f77-3319-49a2-a9b4-7eaeb900e174,Reva Bhasin,24,Chennai,2024-09-10,Electronics,Occaecati Electronics,5,308.77,Net Banking,In Transit,1543.85,341.31,1202.54
+051fe537-e45a-48dd-8879-05ca071e87e2,bc32041d-27f8-4500-8bef-fc353f5c7ba6,Rushil Singh,25,Delhi,2024-07-07,Beauty,Aut Home,5,2720.4,UPI,Cancelled,13602.0,2720.43,10881.57
+fb24afe2-4d4d-4ee3-a149-7a85f5e14d3d,de399361-899c-427e-ac6e-cfebb8c18e51,Tanveer Grewal,39,Chennai,2024-09-24,Electronics,Culpa Books,5,4714.62,Cash on Delivery,Cancelled,23573.1,4207.69,19365.41
+e2613ce1-7d34-496d-9f7f-8543141182f4,10b66c29-cd02-49c1-bd7f-aebe605b8569,Hemani Vala,38,Bangalore,2024-08-14,Clothing,Vel Electronics,4,9560.72,Credit Card,In Transit,38242.88,4210.9,34031.979999999996
+ef76bacb-95e9-4473-ba3f-34cf6e70ce2c,b8ec7751-02e3-4df6-8664-ebfeb3df4a42,Jeet Deo,45,Delhi,2025-05-04,Beauty,Deserunt Home,3,2325.66,UPI,Cancelled,6976.98,1127.49,5849.49
+2434dcda-797e-4760-aeb2-b63c84ca42d4,53433bae-0d9b-452a-9d6c-3cea14760ca6,Nilima Vohra,23,Hyderabad,2024-07-03,Books,Exercitationem Books,1,605.9,Debit Card,Returned,605.9,34.23,571.67
+bc5f9a4b-c408-426f-b0ba-cb52e05b1e36,8b24dabe-f994-461e-917b-c463a4dac04b,Harish Pandit,20,Hyderabad,2024-07-09,Beauty,Voluptas Home,1,4093.42,Cash on Delivery,Returned,4093.42,495.3,3598.12
+fa24c872-e070-49e3-8f65-0bd997f06cb4,a28617c2-c89e-444a-8a09-19290bf89d47,Kiaan Chadha,29,Bangalore,2025-02-02,Beauty,Nihil Clothing,5,9271.21,Net Banking,Delivered,46356.05,4979.56,41376.490000000005
+33df2065-2238-4763-8bc1-b12acdd65b1b,7e38818c-482e-46fe-b20c-89922c74355e,Yoshita Nadig,55,Hyderabad,2024-12-11,Beauty,Amet Books,4,2217.14,Credit Card,Returned,8868.56,977.29,7891.2699999999995
+d4749aba-0dd7-4c93-83dd-855b9ad25e95,003e3032-da1f-4705-af55-55267e0ca4c7,Tarak Dada,57,Chennai,2024-12-11,Electronics,Commodi Beauty,1,581.13,Debit Card,Cancelled,581.13,93.21,487.92
+1b7c5eae-9f73-486d-8b97-773b15478393,4919baaf-b3ec-43cf-81be-6b2b0b89a3d8,Indira Kota,33,Chennai,2024-07-24,Books,Facere Beauty,1,9841.17,Credit Card,Delivered,9841.17,2338.01,7503.16
+dabbcbfc-c9c9-4e86-b5c4-36b331494cd0,22b36cc6-fef8-4147-83b6-64b311212977,Meghana Koshy,22,Delhi,2025-03-09,Clothing,Tempora Beauty,5,6796.06,Net Banking,Delivered,33980.3,6075.06,27905.24
+9c8b5f7b-3d5e-4365-98c4-14f892d45c2e,98249030-fc7f-43bf-9666-5fa837fa15a1,Samesh Sood,20,Bangalore,2025-04-11,Home Appliances,Corrupti Books,2,1117.76,Credit Card,Cancelled,2235.52,133.96,2101.56
+fb056664-6a32-4522-ac20-77373ffe1397,47fe50bc-0251-40f9-b4d7-000978b3f6b4,Quincy Talwar,24,Chennai,2024-07-26,Books,Neque Beauty,3,9563.39,Cash on Delivery,Returned,28690.17,3668.48,25021.69
+b533488d-3a42-440a-b017-48a506e63056,c53a0ba2-3954-4a93-811d-9aff43b14c20,Simon Konda,53,Bangalore,2024-10-30,Electronics,Ad Books,2,3097.55,Net Banking,Returned,6195.1,1075.91,5119.1900000000005
+16d7de60-dc69-428f-9420-2274b1732254,dc9ece44-c0ea-4d23-8c76-aec6d081f013,Udant Balay,58,Mumbai,2024-07-08,Beauty,Numquam Beauty,5,2938.99,Cash on Delivery,Returned,14694.95,3610.33,11084.62
+cb57d752-2c03-4f6e-aadc-1562a1c0c892,1f65bfc3-9d58-40cf-8b12-2dee7175783a,Michael Mody,41,Mumbai,2024-11-19,Home Appliances,Eaque Clothing,5,387.99,Cash on Delivery,Delivered,1939.95,434.91,1505.04
+2bdfed11-0242-447e-bb21-f4e0d5125e4c,3e3c70a5-9516-4027-bc5e-380acca1eeff,Vivaan Sridhar,31,Mumbai,2024-12-24,Books,Et Electronics,2,5542.41,Cash on Delivery,Delivered,11084.82,1676.26,9408.56
+02972894-a191-409f-8649-b22e8c600a5b,2243ec7c-2707-4f03-b443-96b4a21c9ccb,Naveen Wali,50,Chennai,2025-03-03,Home Appliances,Non Home,3,7337.01,UPI,Delivered,22011.03,2602.35,19408.68
+2df37245-405d-4568-8d65-1b11d7ea694a,a5755e4d-152e-4c49-a53f-db7fcae3dbd4,Timothy Chaudhry,31,Bangalore,2025-03-09,Electronics,Eligendi Beauty,5,1776.52,Net Banking,Delivered,8882.6,971.19,7911.41
+a6cd1933-72c7-4bfc-9129-4216f4715a23,2d253bc8-54f3-4988-92c3-2c8d80029ab1,Yug Gade,38,Mumbai,2025-05-06,Beauty,Distinctio Beauty,2,6072.7,Net Banking,Returned,12145.4,1917.58,10227.82
+b452fe07-6403-48e9-b933-af498791e6ef,574f863c-553a-4445-8739-744bbabc6702,Jagrati Anand,43,Mumbai,2025-02-16,Home Appliances,Minima Home,1,4490.85,Credit Card,Cancelled,4490.85,724.72,3766.13
+c057bb3e-b454-4706-8585-5426810bc1f6,1b5f6e3a-85a8-46d7-9f22-2f50149cda0f,Leena Zachariah,57,Chennai,2025-06-14,Electronics,Veniam Books,5,4597.03,Credit Card,In Transit,22985.15,3191.44,19793.710000000003
+8f55571a-854c-4e83-a05a-0f88df357d63,0c8dfdd8-c129-4b5b-a1ce-2956599944e6,Samarth Salvi,42,Mumbai,2024-10-02,Books,Aspernatur Clothing,5,9900.77,Cash on Delivery,Cancelled,49503.85,11308.85,38195.0
+a147afd6-ae11-4aac-ba5b-dafaf0baed49,51c83257-6096-4697-813b-f3d1faf00830,Yochana Kade,46,Mumbai,2024-07-30,Books,Itaque Books,5,268.32,Credit Card,Delivered,1341.6,299.84,1041.76
+a273e13b-de5d-4a97-a83a-bbfb6bc70ec4,fe792666-9818-4900-b0ad-31325ccb8172,Saumya Sridhar,40,Delhi,2024-12-09,Electronics,Eaque Clothing,3,2569.35,Credit Card,In Transit,7708.05,1381.85,6326.200000000001
+b71e02b1-4d5c-47ed-9d8c-74ccb8a0b323,00280895-ae1b-4e4f-8bdd-2c14861181c6,Qarin Behl,35,Bangalore,2025-06-21,Books,Enim Clothing,1,6982.18,Credit Card,Cancelled,6982.18,1320.54,5661.64
+b548c316-42d1-4ce0-b618-26d88ae88922,62d00584-80ae-486c-8710-3d8822542cce,Upadhriti Modi,23,Chennai,2025-06-01,Beauty,Sit Beauty,4,2887.83,Cash on Delivery,Returned,11551.32,1646.04,9905.279999999999
+513a5590-d6be-4f24-af35-213a304f0bfc,5f96622d-5c4a-4859-a2b0-cbcc708abfd0,Veda Pandya,54,Chennai,2025-05-06,Beauty,Cupiditate Home,4,9152.11,Net Banking,Delivered,36608.44,3200.33,33408.11
+0309c52a-57ee-4dee-bad5-10ffbc085c5d,a9cbc1ce-b13a-44f9-a894-3e0fb94d6e12,Gaurangi Ramaswamy,32,Delhi,2025-05-29,Clothing,Iste Books,1,6958.05,Credit Card,Cancelled,6958.05,809.06,6148.99
+71c9bebb-29fa-4a15-a73a-645be29ab696,48d7cdc4-809d-4170-ad0a-a971c4a3ac3d,Anamika Nayar,32,Chennai,2024-10-31,Clothing,Quis Home,4,3713.42,Debit Card,Cancelled,14853.68,1450.44,13403.24
+9af73d31-c1a4-49d5-8bb4-7d68344fd231,a8647372-bdc1-4700-91b8-fc425afb64c2,Ojasvi Soni,31,Mumbai,2025-01-01,Electronics,Itaque Beauty,3,2148.05,Cash on Delivery,In Transit,6444.15,1146.11,5298.04
+f82e13f1-1eca-40df-9436-88612ce9c35d,24178890-3fb6-4b72-9a74-3e28253cb012,Zashil Chahal,33,Delhi,2025-02-19,Home Appliances,Eveniet Electronics,1,1070.92,UPI,Cancelled,1070.92,214.3,856.6200000000001
+40e75bb1-d55e-4b90-9217-1b4a91bf7bae,36d3db49-75a2-4ac2-94f6-50eb8460317e,Faris Salvi,28,Delhi,2025-04-27,Beauty,Ab Electronics,4,3360.44,Net Banking,Cancelled,13441.76,1910.46,11531.3
+570601b0-ff34-4577-b50b-3e89bb78333c,268da81b-c7b0-4194-b118-202aab40a36c,Neel Kapadia,29,Hyderabad,2024-08-30,Home Appliances,Fugiat Books,5,8230.98,Net Banking,In Transit,41154.9,8279.5,32875.4
+5f19189e-bd07-443a-b5df-0d4ad84c519f,b178b2d4-fe4b-45a9-95db-035ff047f1e3,Vidhi Narasimhan,41,Mumbai,2025-03-29,Electronics,Libero Clothing,2,218.9,Cash on Delivery,Returned,437.8,103.29,334.51
+727d62ff-c0aa-4fc6-af06-20162fdd73bd,320857b3-b58d-4b6a-95e9-c59677169bdc,Chasmum Cherian,50,Hyderabad,2024-08-02,Books,Accusamus Beauty,3,8689.35,Credit Card,Cancelled,26068.05,2750.8,23317.25
+0bb17a71-aa77-4e81-bed9-f4c745f6a32c,6d02ee33-b517-4e2e-afc5-9a6ed4083a81,Aachal Dash,19,Chennai,2024-08-26,Clothing,Quam Books,2,9071.49,Debit Card,Delivered,18142.98,3540.6,14602.38
+563aaaa0-a9be-4e66-8cb3-48561ce9753d,76321e21-aa30-4e0e-8f4e-e47c021393c1,Charita Raju,22,Mumbai,2025-06-11,Beauty,Sapiente Electronics,5,8256.49,UPI,In Transit,41282.45,5950.2,35332.25
+0f97b053-eca5-460b-9751-7fe421ddf2ea,8c0c120c-1448-497b-aa07-16dba384f140,Ranbir Borah,24,Delhi,2024-07-21,Electronics,Dolore Home,1,407.67,UPI,In Transit,407.67,21.39,386.28000000000003
+4aac269a-eb9f-4089-9189-d5d736637a72,eaef88f8-7fb5-4c58-a61a-fc840d8a6035,Bhavya Vora,41,Delhi,2024-12-09,Clothing,Nesciunt Home,1,8992.41,Cash on Delivery,Delivered,8992.41,1570.5,7421.91
+0dccbdae-d408-47f1-a19e-18bdf7385e59,1670c70c-2ef5-4995-9192-2c2a41ca5fa4,Thomas Atwal,59,Delhi,2025-03-05,Books,Eius Clothing,4,6069.36,Net Banking,Returned,24277.44,1565.08,22712.36
+1bd19377-afbb-4f70-ac7d-9d53b5e5309b,4220a3b6-de8d-423f-b545-64200e8ed40e,Keya Acharya,49,Delhi,2025-06-17,Beauty,Maxime Clothing,1,1581.65,UPI,In Transit,1581.65,255.75,1325.9
+0aba9c94-c434-45af-b5a4-82b08bc6d5d1,256af93c-a7bb-4d9b-b164-ad20c35b9af2,Yatin Sarma,51,Delhi,2024-10-21,Home Appliances,Nobis Electronics,5,6596.22,Cash on Delivery,Cancelled,32981.1,7798.96,25182.14
+48419054-7532-4595-8600-2e66f53a611a,d229a8fd-ffc0-41c2-b0cf-205d950e9b8e,Anamika Soni,42,Bangalore,2024-08-05,Beauty,Eveniet Electronics,3,5850.91,Credit Card,Cancelled,17552.73,1662.69,15890.039999999999
+a743bdb4-d50a-4e94-8b22-d3579dd5ca46,932a1a1c-d423-4d0e-8608-4daebd19299e,Ekani Brar,18,Bangalore,2025-01-31,Home Appliances,Fugiat Home,2,2786.44,Debit Card,Cancelled,5572.88,718.26,4854.62
+f7f02d33-ffb8-4502-bb49-4d4ae6a31d50,5a8e3f8b-de95-45d8-8ab6-f4caddb4f3a0,Balendra Kuruvilla,31,Delhi,2024-11-10,Books,Odit Books,4,2192.62,Net Banking,Cancelled,8770.48,1716.79,7053.69
+7fa0c344-b895-4a43-8748-2dd831d3b5cd,8c7965f2-6997-41d5-85d8-9bd56c97459e,Ayush Salvi,18,Chennai,2024-08-03,Beauty,Illo Books,5,9773.14,Net Banking,In Transit,48865.7,8086.14,40779.56
+01e71925-18d6-4900-b87b-b2f78ef97936,c01bdf8d-9b1c-4e94-a0c9-0ff665fe4b26,Vasudha Bali,35,Delhi,2024-08-12,Home Appliances,Eligendi Home,2,2903.82,Credit Card,Cancelled,5807.64,543.65,5263.990000000001
+b07e50fa-11e7-4c92-b329-7e5b5144b279,6affafd9-5621-4822-8d0b-963826fbfc1c,Pranit Nazareth,60,Hyderabad,2025-05-18,Beauty,Officia Books,2,8610.91,Debit Card,Delivered,17221.82,3070.96,14150.86
+28b2ddd8-e2d7-4cee-a1c4-93300463f3c3,b7c424e4-0af1-40ef-9441-2b112066323f,Benjamin Narayan,36,Hyderabad,2024-07-14,Beauty,Tempora Clothing,3,2470.43,Cash on Delivery,Delivered,7411.29,612.43,6798.86
+045f139f-b784-4718-a7bd-92194bf8002e,89bdb85b-b79e-41f4-84b9-a798ae2caea3,Rohan Nagy,58,Bangalore,2024-08-19,Clothing,Natus Beauty,1,1331.23,Cash on Delivery,Cancelled,1331.23,121.74,1209.49
+d648ff82-0a68-4389-b5b7-0c4d24375c0b,bf96a30a-2bfe-4257-837d-c660988929aa,Andrew Das,58,Hyderabad,2025-03-10,Home Appliances,Nulla Clothing,1,9169.43,Net Banking,Cancelled,9169.43,889.97,8279.460000000001
+850a1c02-ddd1-4110-970d-4204f9d47540,95183545-003d-4235-9b57-1376f24a4184,Zayyan Solanki,33,Delhi,2024-10-31,Home Appliances,Odio Beauty,5,3082.11,UPI,In Transit,15410.55,3659.74,11750.81
+aeb4d211-71a6-4381-b915-dce83ec9d637,420a0e53-c0c5-46db-8b31-45c59555a8ca,Gunbir Doctor,34,Mumbai,2025-03-29,Clothing,Et Clothing,4,8875.44,Cash on Delivery,Cancelled,35501.76,8374.51,27127.25
+57703168-77e5-4ffe-be42-ee95bf6fbb4c,006f941f-b92f-4524-88aa-a07d8057434e,Abhimanyu Din,44,Hyderabad,2025-02-12,Home Appliances,Accusamus Clothing,5,5521.4,Net Banking,Cancelled,27607.0,2590.34,25016.66
+d84f6a72-4499-46b4-b2ed-7455b54d87ee,22db66b6-11c5-41ed-b17f-91b49b83e764,Bachittar Palan,55,Chennai,2024-07-15,Beauty,Eaque Beauty,1,4803.58,Debit Card,Delivered,4803.58,1181.86,3621.7200000000003
+ae41e38c-67ba-4bdf-9cbc-01e2709e789b,0ba9fb1d-1529-4af3-aacb-77291d06f9c4,Siya Rajagopal,25,Bangalore,2024-11-05,Books,Possimus Clothing,2,7915.18,Debit Card,Returned,15830.36,1898.84,13931.52
+1c14e90f-b9f1-472e-92db-b762d8dc5727,dd2fc8b8-23d8-4962-bb75-972b759ab0ef,Dipta Mammen,54,Hyderabad,2024-06-29,Books,Distinctio Beauty,4,9285.87,UPI,Returned,37143.48,5369.05,31774.430000000004
+06810eeb-a157-48ac-8093-c4a5471d8ca1,ff0a9d0e-62f5-4bdd-8a51-9a0499f3ceef,Januja Mann,58,Chennai,2024-12-05,Home Appliances,Odit Home,3,5640.18,Credit Card,Returned,16920.54,3718.41,13202.130000000001
+9b34e639-04b0-4820-af99-2ded65825c71,1be2b6c0-26ba-402e-9e29-ab3e0814c713,Sachi Venkataraman,33,Bangalore,2024-07-08,Clothing,Quo Books,1,484.34,Credit Card,In Transit,484.34,89.0,395.34
+31122f4a-2473-4df0-bd3b-17a83cb06fe2,c958c1e3-65b3-4588-8b0a-0e00e013d71f,Siddharth Dixit,56,Bangalore,2025-01-16,Home Appliances,Architecto Clothing,1,8679.28,UPI,Delivered,8679.28,783.22,7896.06
+3fb427f2-04eb-470a-95b3-2a02bf79e931,d149ca73-7ff1-4cda-beb4-58b8885e8301,Falak Desai,27,Bangalore,2024-12-25,Beauty,Unde Home,3,3256.06,Credit Card,In Transit,9768.18,2428.19,7339.99
+82d89c3a-4013-43a6-b06a-8724a592a1a6,c24f89d9-b55e-4c66-ab0e-d6d88256a34a,Dakshesh Arora,47,Chennai,2025-01-15,Home Appliances,Ad Beauty,3,6971.09,Debit Card,In Transit,20913.27,4497.61,16415.66
+a19373b5-846e-4dc4-8bb2-f2a19026352c,4c2667c5-86eb-4f78-a535-63a30b82a04c,Yochana Loke,34,Delhi,2024-07-17,Electronics,Unde Electronics,4,2253.14,Credit Card,Delivered,9012.56,1855.74,7156.82
+00790cd7-fbec-4e9f-be1f-b4ca92d82440,153c0a45-3312-41c1-a06c-aa3022459370,David Nayar,42,Chennai,2025-05-22,Beauty,Quia Electronics,5,400.81,UPI,Delivered,2004.05,203.44,1800.61
+a62e5e83-d816-4e48-a4fa-2c61a892a186,8ba8135d-0c41-4301-94bb-61229b3f21b0,Sanya Seth,36,Mumbai,2025-06-13,Electronics,Quos Beauty,1,4371.78,Net Banking,Delivered,4371.78,506.1,3865.68
+d1137a6e-7161-494d-ae33-b5bb0519c8f6,53d2ab30-02e4-4633-9cf2-323bed0f303d,Nilima Batra,44,Chennai,2024-09-06,Electronics,Quisquam Electronics,1,7857.43,Net Banking,Cancelled,7857.43,998.43,6859.0
+2d32f8bd-be69-400d-807e-d488adffb177,b2e0d1c1-aafc-4d9e-8fbd-7bd623553dd0,Parth Chawla,37,Bangalore,2025-03-04,Electronics,Corporis Beauty,5,8089.06,UPI,Cancelled,40445.3,3593.14,36852.16
+06e908b6-d1b8-4a60-99fd-d06d9606fc86,410a4921-081d-40c3-ba88-ac2d5cf42a52,Lipika Parmar,30,Delhi,2024-11-13,Beauty,Libero Clothing,1,1460.1,Net Banking,In Transit,1460.1,155.76,1304.34
+71c9f8c4-80fa-4739-bdb2-6600578db912,24753d14-b3be-448f-b468-99762a5e6dd3,Janaki Pant,32,Mumbai,2025-03-05,Home Appliances,Fugit Books,1,2708.07,UPI,Delivered,2708.07,533.93,2174.1400000000003
+1829dc7b-2941-46d2-9591-947060ef8507,fe7fbcbb-ab72-4f6f-bbe3-93228c853036,Kamya Salvi,55,Hyderabad,2024-12-22,Home Appliances,Corporis Clothing,4,846.71,Cash on Delivery,Delivered,3386.84,557.44,2829.4
+bf24240d-2789-4e41-9d01-1622d79b531b,39c5ff0c-1bff-448b-8123-9dd0e8375a1d,Zilmil Chandra,47,Mumbai,2025-04-16,Clothing,Ipsum Home,5,6368.99,Debit Card,Cancelled,31844.95,7366.71,24478.24
+6bcf4875-8b90-437c-8bd9-c1ea65efb318,99a676bc-8fed-441a-8bca-e99911df1785,Ekanta Suri,36,Hyderabad,2025-02-20,Books,Corporis Electronics,4,924.56,Debit Card,Returned,3698.24,598.62,3099.62
+16579f1c-ca66-4be8-ae29-f05b84113ad8,c0382f8e-1a2f-4a02-9f0a-2370ef153897,Aarnav Parekh,43,Mumbai,2024-12-29,Books,Rerum Clothing,3,6686.3,Debit Card,Returned,20058.9,1398.58,18660.32
+8d7b5866-357f-44d7-bdff-68def1b6db51,7d76d041-37c8-4005-a22e-d467e0439cbf,Rajeshri Luthra,39,Mumbai,2025-03-30,Home Appliances,Esse Home,4,5582.44,Cash on Delivery,Cancelled,22329.76,1247.16,21082.6
+010ff99f-13b4-4f68-b53a-c2f3ff1a0772,49d2b832-5682-471b-8418-04b73d99064a,Meera Shenoy,23,Delhi,2025-01-14,Books,Veniam Electronics,5,4313.22,Credit Card,Returned,21566.1,1679.27,19886.829999999998
+b7893a32-7c57-4a4f-91ce-261eb2e3e694,cf1da05d-20f1-486e-beaf-96943bc66ee4,Gopal Som,18,Delhi,2024-12-10,Home Appliances,Ipsa Home,1,7362.55,Credit Card,Cancelled,7362.55,1493.24,5869.31
+657ae8cc-9d6f-4407-949d-35fcecf7fa6b,6c3a76b9-c1ba-4361-9f4d-11e589d29b87,Ekantika Iyengar,60,Hyderabad,2024-07-03,Electronics,Quibusdam Clothing,3,6942.05,Debit Card,Returned,20826.15,4827.39,15998.760000000002
+0a43a352-6e0b-4ae2-8047-bd8adee95f1a,e1c958dc-1319-43cd-82a6-9aeaf535c1af,Utkarsh Mann,30,Chennai,2024-11-05,Beauty,Dolorem Electronics,3,5452.8,UPI,Delivered,16358.4,3789.17,12569.23
+77aef04e-6fca-4b36-8872-daf48b56e761,ff50a904-e92c-4d5f-a01a-65f0318b8f56,Saumya Doctor,27,Bangalore,2024-11-22,Electronics,Id Books,3,2936.16,UPI,Returned,8808.48,816.98,7991.5
+9b3b246e-f3fc-4ef6-81c4-3a41072491b6,738841b3-0b43-4044-8314-32f3c5da161a,Janaki Mishra,43,Chennai,2024-11-02,Beauty,Voluptatum Clothing,5,5417.11,Cash on Delivery,In Transit,27085.55,3975.13,23110.42
+86bad333-4968-4ae2-ab51-1e5f89d03c71,03efaafe-37af-452d-9379-4c7ad0db12c5,Rudra Majumdar,34,Chennai,2024-10-03,Books,Voluptatum Clothing,4,4192.12,UPI,Cancelled,16768.48,3993.18,12775.3
+fb3eabfb-8983-407a-a9d9-811e6b82a2ec,d9461dfb-7d9a-4d31-bca0-616d219f54c8,Yatin Dass,22,Chennai,2024-12-02,Electronics,Aut Clothing,4,4262.68,Debit Card,Delivered,17050.72,2830.93,14219.79
+286db703-267e-4a87-8bfc-6862da1edb6b,f349fbfa-41a3-4547-aad4-74750ca74df6,Januja Sarna,27,Delhi,2025-04-12,Books,Odit Beauty,3,7479.3,Credit Card,Delivered,22437.9,1295.73,21142.170000000002
+8533cbef-2555-4a8a-a922-51594b2e55eb,4d2ed67a-4a3f-43e7-b29a-d9fcc1b66f55,Upkaar Manne,19,Mumbai,2025-02-11,Electronics,Accusamus Electronics,2,1956.99,Cash on Delivery,Returned,3913.98,910.72,3003.26
+c411c711-dad8-4f7f-9291-8d31ffdb5d96,f130dba0-19e6-40ba-8165-bb794d401f92,Umang Sinha,54,Bangalore,2024-11-18,Books,Rerum Home,3,4983.73,Cash on Delivery,Cancelled,14951.19,2137.4,12813.79
+4ca24048-c12d-4090-92ec-032302e6fc02,5cf47b4e-d7b0-4084-81a1-a92053e0316d,Finn Manda,29,Hyderabad,2025-04-26,Electronics,Quaerat Home,4,482.87,Debit Card,Cancelled,1931.48,271.27,1660.21
+38f7687f-da0a-4d10-9c15-562e42b0e6c4,f4c430ed-c473-4d2f-a588-8306ed45ef4a,Indali Dhingra,49,Bangalore,2025-02-09,Clothing,Quos Beauty,1,4302.64,Cash on Delivery,Delivered,4302.64,943.76,3358.88
+f460f1e2-e367-48e8-a5e6-a1e4d29e1d3b,4b98bf7b-113b-4001-b0de-c262e0b15d84,Saumya Lad,22,Chennai,2024-11-11,Electronics,Quo Electronics,4,6859.86,Debit Card,Cancelled,27439.44,1727.2,25712.239999999998
+8d2fe63f-c1d5-4c93-823c-b1f27876c818,ae6909d9-45d6-48c0-89bf-f62ee4c69b16,Ojas Hayer,33,Chennai,2024-12-14,Home Appliances,Vitae Electronics,4,2738.14,Debit Card,Returned,10952.56,1325.04,9627.52
+c79333c4-0d48-4d8b-9264-3eeb79775180,5a5ef063-b2ba-4125-bc56-b1baf279efe3,Amaira Barad,54,Hyderabad,2025-04-13,Beauty,Quasi Books,5,8690.4,UPI,In Transit,43452.0,4027.94,39424.06
+2071511c-08c2-4b33-9b2a-c6b7f4d9940f,12963e08-5ea1-4d94-a2f3-8298d1bc04de,Varsha Narayan,42,Delhi,2025-02-03,Home Appliances,Porro Books,2,8503.61,UPI,In Transit,17007.22,3806.31,13200.910000000002
+d484b9ef-1515-4a9a-9c0b-16bdc8525cc8,7aa720c6-7ba5-4b50-98a7-701666862203,Jairaj Chandra,22,Mumbai,2024-06-24,Home Appliances,Eos Clothing,3,1438.89,Debit Card,In Transit,4316.67,804.56,3512.11
+0907f45b-e1d5-4dba-9c0a-8aefbbf44c7c,285fadb7-e711-4ed5-a271-fabf676c611b,Praneel Mistry,29,Hyderabad,2025-05-01,Electronics,Laudantium Home,5,4645.91,Credit Card,Returned,23229.55,1807.73,21421.82
+657666d9-cd80-4910-8d92-cbe3d184d356,7f2c9fe7-e0a2-40be-9341-1413a8ba1806,Kevin Deo,55,Mumbai,2025-05-08,Home Appliances,Suscipit Home,1,1012.61,Net Banking,Cancelled,1012.61,80.88,931.73
+5347f024-ebe7-4c52-aabd-387197287c2d,cefe34c4-0378-42d5-be35-e129af5dfcc9,William Pandya,40,Chennai,2024-08-14,Books,Voluptate Clothing,1,5609.42,Credit Card,Delivered,5609.42,1007.57,4601.85
+e89dff8c-3f42-46ac-872b-9dddf578c45a,eb570594-7949-4b24-b9d0-60f78082ca48,Imaran Bera,47,Hyderabad,2024-10-26,Beauty,Impedit Books,3,2719.08,Credit Card,Delivered,8157.24,685.46,7471.78
+b5189011-97b4-471d-9b34-f956659a887d,96dea40c-7730-47b4-bb43-eee69876bd36,Faris Jain,46,Hyderabad,2024-09-26,Electronics,Numquam Electronics,4,1175.39,Credit Card,In Transit,4701.56,780.6,3920.9600000000005
+1448d166-2536-4322-901d-47dfb0a2dc4f,4e48e141-2880-4bbf-ac19-0bbdd9f84456,Abhimanyu Zacharia,53,Hyderabad,2024-07-26,Electronics,Vero Home,3,9312.74,Net Banking,Cancelled,27938.22,4606.31,23331.91
+4b2b9547-b1df-4ff5-a85a-17d2949ce2fd,66a66231-0c14-41ee-87a9-7c74e829dfff,Noah Garg,37,Hyderabad,2025-06-16,Electronics,Eligendi Beauty,2,4369.54,Cash on Delivery,Cancelled,8739.08,728.38,8010.7
+569d5a2a-2831-4007-a104-a5d62ca0838b,3e267be5-1cab-46a3-916c-2136e0cb497f,Azaan Purohit,40,Mumbai,2025-01-19,Beauty,Beatae Electronics,1,9222.13,Credit Card,Delivered,9222.13,1523.63,7698.499999999999
+e93f77a2-d0ed-4b86-8b08-d772189d2e60,8ef41cc9-1d82-47a4-854f-2628158c6801,Divya Nanda,37,Hyderabad,2025-03-30,Home Appliances,Doloribus Home,5,7211.34,UPI,Cancelled,36056.7,2767.55,33289.149999999994
+c9d1d889-c6b8-462d-b9e0-aaf0ce925f4f,27fd51dd-a7e7-4b4a-b5ef-e669b154336b,Harinakshi Hayer,58,Chennai,2025-01-05,Books,Mollitia Beauty,1,8452.97,Net Banking,In Transit,8452.97,2045.98,6406.99
+685866ec-57fd-4d08-b476-4530c92968f8,220306e1-7e8a-4775-a259-a68a8e86c6cc,Avni Murthy,28,Mumbai,2025-04-08,Home Appliances,Ab Clothing,4,7029.26,Debit Card,Delivered,28117.04,3656.39,24460.65
+859bef83-40c4-4544-9bc2-9521083d2e1c,41cee588-e897-4a37-aa7d-d116a1a7a445,Shaurya Chokshi,52,Hyderabad,2024-10-18,Home Appliances,Doloribus Books,5,3421.88,UPI,Returned,17109.4,2240.26,14869.140000000001
+7c29a034-5a03-4b0e-a012-0195be689aff,35d77f55-5c89-47af-92a8-74047bdaa6e1,Fariq Din,23,Hyderabad,2024-11-07,Home Appliances,Voluptas Clothing,4,3994.04,Credit Card,Delivered,15976.16,1332.01,14644.15
+2bc75696-1dd0-4f80-b390-71614097c743,1ed06868-f4fb-4f61-bce5-577d40d49cb4,Luke Sahota,22,Chennai,2024-07-23,Books,Optio Clothing,1,1275.31,UPI,In Transit,1275.31,111.21,1164.1
+f264fbcc-8817-41ba-a5dc-7c698a8b6378,796111c9-e048-4cf8-a1bc-b2626238d369,Dalaja Warrior,54,Delhi,2024-07-25,Electronics,A Electronics,5,3178.62,Debit Card,Cancelled,15893.1,1949.87,13943.23
+4620cf23-9e2c-4680-ba57-0aa0ef90ace2,44ab818c-8d6a-492c-ab69-887148b95e1e,Nandini Vohra,38,Chennai,2025-04-01,Beauty,Expedita Beauty,5,7063.34,UPI,Returned,35316.7,5380.85,29935.85
+0ee9d39c-cddb-4d68-b42f-3d37d04f3720,01318cb2-db57-4514-b859-3fc054bd9008,Zinal Walia,54,Hyderabad,2024-09-14,Electronics,Veniam Electronics,3,2588.71,Cash on Delivery,In Transit,7766.13,1663.73,6102.4
+548fca2f-2321-441f-8857-83e672c78d8e,f6ae97a2-bb1e-428d-89e8-8c61d1fadbce,Yuvraj Sundaram,26,Bangalore,2024-09-30,Electronics,Facere Clothing,2,2904.11,UPI,Delivered,5808.22,449.07,5359.150000000001
+e1f7e0cd-77a4-4774-8356-396d6765dd5d,152aa012-108e-4440-9bf6-e47fdf4c066c,Ojasvi Ganesh,52,Bangalore,2025-05-26,Clothing,Dolorem Beauty,1,6671.15,UPI,Cancelled,6671.15,1338.3,5332.849999999999
+e8dbbbde-1414-4bec-ad66-053cd3b04143,e7d6b467-6029-4a92-8f43-afa6ca546cb1,Jackson Kant,39,Mumbai,2024-12-01,Clothing,Repellat Clothing,4,323.06,Credit Card,Delivered,1292.24,151.25,1140.99
+30b19b5a-3789-4ee4-ac71-d636c27a502e,24aebbe3-ae73-4695-93d6-77dff55b193e,Tanay Ratti,20,Chennai,2024-09-23,Books,Nisi Books,5,5422.01,Debit Card,In Transit,27110.05,4072.07,23037.98
+25c75dfc-786b-4608-a5c3-3d9d68ead05e,f500202f-f720-44b7-8c0e-49f41a1ad76e,Harinakshi Mangat,38,Hyderabad,2025-03-29,Books,Earum Beauty,5,3262.78,Debit Card,Returned,16313.9,3300.64,13013.26
+ec399ec4-a533-4de5-b6ab-50f145c8aad5,3f587b36-baec-45bd-8c5b-10bf66241bd9,Hemani Rai,54,Chennai,2024-07-09,Clothing,Doloremque Electronics,1,6489.52,Cash on Delivery,Delivered,6489.52,1513.9,4975.620000000001
+8d3b2244-dd25-499a-881e-38c9820ddfee,7caa2d54-b2bd-4e7c-9e2a-7ed911da6f68,Radha Dixit,60,Mumbai,2024-07-14,Books,Iure Clothing,3,5835.87,Debit Card,Cancelled,17507.61,3469.22,14038.390000000001
+409b8cff-197a-41d4-bb67-96f6ddcd1a58,d685d9fc-c876-4aff-af8e-ae7f2e447e13,Yochana Nayar,18,Bangalore,2024-12-02,Electronics,Iste Beauty,5,369.66,Net Banking,In Transit,1848.3,438.17,1410.1299999999999
+1d9e24ee-2efa-4281-83c0-baf3a81443c0,0929ed23-fe3e-4401-a44c-f9be74504574,Jeevika Palla,25,Mumbai,2024-10-02,Home Appliances,Nulla Home,4,6739.65,Net Banking,Delivered,26958.6,4788.99,22169.61
+f0047f60-e6d0-4591-9ce9-456e8fbbc0bb,186ac33a-0141-4bfa-8b02-42f670de0820,Kevin Nanda,42,Bangalore,2025-01-20,Beauty,Dolores Clothing,2,1300.55,Credit Card,Returned,2601.1,639.78,1961.32
+809a7660-026c-4e22-a5b2-5b0acb222ece,ec57d090-6da2-4fdd-b291-240bbb81be72,Yashoda Mani,25,Mumbai,2025-03-28,Home Appliances,Nesciunt Clothing,4,6940.25,Debit Card,Cancelled,27761.0,3381.99,24379.010000000002
+f09982f0-fc6c-4494-915a-5e37aa3000c0,cba532f8-c36a-4a14-8beb-b7c8788a3ec1,Ishani Dhingra,42,Delhi,2025-01-07,Home Appliances,Quos Clothing,1,8494.6,Debit Card,Returned,8494.6,1798.25,6696.35
+9be0f4fd-487a-44b3-844b-21e6ec358ec7,d3fd7e11-786f-4cf8-b9d6-a1f34a96d5a4,Imaran Bhasin,40,Delhi,2024-07-24,Clothing,Rem Beauty,1,3943.99,Debit Card,In Transit,3943.99,349.13,3594.8599999999997
+fa092e32-93aa-4005-ab5a-cfb90f02244b,ac26d416-02c1-454a-99e6-20bfbd9278fe,Devika Merchant,37,Hyderabad,2025-01-12,Electronics,Laboriosam Clothing,1,6959.8,Net Banking,Returned,6959.8,1241.79,5718.01
+ecd58970-fed2-4aee-9fa5-50346cd7a251,b5c627da-6a9e-442d-84db-f4805ce65150,Bhavna Balay,28,Bangalore,2024-07-04,Clothing,Velit Clothing,2,6222.68,UPI,Delivered,12445.36,2099.19,10346.17
+8a46149c-8623-4fcd-8379-f8afce472242,fd341162-980e-4870-9be5-61f615954a16,Max Pai,35,Chennai,2025-05-26,Books,Repellendus Books,3,8827.78,UPI,Returned,26483.34,1345.13,25138.21
+71fb5d0a-5989-49a3-95d7-76e934233a65,bef2cce3-c3cd-4105-b1a1-bfe1a1bff12a,Bimala Mander,52,Delhi,2024-11-02,Electronics,Eos Home,5,6609.88,Cash on Delivery,In Transit,33049.4,1926.03,31123.370000000003
+8e6d4bcb-eae6-4327-8472-986753339fcb,f22a18e0-8dff-4235-85ef-77c049ed1473,Leela Narula,20,Mumbai,2025-06-19,Electronics,Corporis Clothing,3,2140.61,Credit Card,In Transit,6421.83,1142.91,5278.92
+eead3fab-3102-448c-8af1-15ceb78c2d4c,96249245-8ec4-4586-b9e9-504dc1df10d2,Lakshmi Vora,37,Chennai,2024-07-31,Electronics,Deleniti Electronics,4,1354.97,Credit Card,Returned,5419.88,768.54,4651.34
+9aa09f78-a585-40d9-b326-b4d7814765ea,e9835f97-dac5-4784-a923-d0423f45bba2,Rachit Singhal,54,Delhi,2025-02-26,Home Appliances,Unde Electronics,5,2856.1,Net Banking,Returned,14280.5,2399.52,11880.98
+4d090174-b80e-4c2a-a758-c536642de8fd,14895326-940f-4d01-978a-3b06b6d36aef,Kevin Raja,45,Hyderabad,2024-07-06,Books,Neque Books,4,4269.94,Net Banking,Delivered,17079.76,899.85,16179.909999999998
+43ebbf2e-982e-487e-982e-a7b52246adfe,93ffcdd4-d24f-4f18-a529-9ecd4015c91d,Gauri Savant,31,Chennai,2025-05-30,Electronics,Repudiandae Books,1,671.24,Net Banking,Returned,671.24,71.5,599.74
+98bbc3e3-5476-4cb0-ad62-28b23184f74f,5a3d7a71-0520-48d5-80b9-470877ddc7ff,Ayaan Varkey,30,Delhi,2024-06-24,Books,Eveniet Clothing,5,4308.88,Debit Card,In Transit,21544.4,4815.87,16728.530000000002
+8378ceaa-f2b8-41e1-bcbc-45a09e26aacc,c81ae79b-1508-4330-89b3-89c1df6f4526,Indira Subramaniam,49,Mumbai,2025-02-21,Books,Corporis Books,2,8870.41,Credit Card,Delivered,17740.82,3897.13,13843.689999999999
+029a7c47-c471-440e-9077-3f2d6db198e4,45e618b4-8f16-4fd5-8b86-e8f9d4ec8ac8,Girindra Dhar,32,Chennai,2025-02-17,Clothing,Est Beauty,1,2475.34,UPI,Cancelled,2475.34,128.55,2346.79
+76d226ce-d63d-4915-bd86-d7572f5e2c2d,0333bd63-439f-4f1a-a29c-915aca11107c,Anay Balay,51,Mumbai,2025-05-18,Home Appliances,Labore Home,5,6227.33,Credit Card,Delivered,31136.65,5447.46,25689.190000000002
+2437f3f7-2672-4e2f-9ed3-b0ee6dae2422,27003ee3-ca4f-4d61-8dc8-ecd0225e4c15,Advaith Andra,55,Delhi,2025-05-07,Home Appliances,Ducimus Electronics,1,2350.43,Debit Card,Delivered,2350.43,472.71,1877.7199999999998
+83601621-0ae7-4b6a-a840-1c31d0959ed1,0c999119-38ec-4b11-bc88-3686bc281197,Ranbir Pathak,47,Delhi,2024-07-11,Electronics,Itaque Electronics,3,2004.59,Net Banking,Delivered,6013.77,1353.39,4660.38
+10f8a1f7-deed-45fc-9327-2796268c4e98,2cd5b843-3f81-45ed-aeef-c14279a55dbb,Lucky Rajagopalan,23,Mumbai,2025-06-22,Clothing,Labore Home,4,849.7,Cash on Delivery,In Transit,3398.8,749.28,2649.5200000000004
+4dda7f3b-a15f-4637-b40b-6175246bcffd,582094ae-aabe-42a3-ae9a-7da26c9a241a,Yug Nayak,42,Delhi,2024-10-20,Home Appliances,Odio Clothing,1,8542.36,UPI,Delivered,8542.36,526.74,8015.620000000001
+f5f6ea41-ec03-4b7d-99e9-46ac381c781c,a1f2d001-7664-4047-84d9-13aea6ae01d4,Aarnav Varghese,21,Bangalore,2025-02-26,Books,Non Beauty,4,1483.25,Net Banking,Cancelled,5933.0,860.61,5072.39
+ee7b9585-640f-4bc7-a2c8-22fb7617c8e1,ce40af22-6fe5-4069-8f07-74050c31bcab,Anirudh Dewan,49,Chennai,2025-03-27,Books,Unde Books,3,2535.97,Net Banking,Cancelled,7607.91,514.26,7093.65
+f6b4ec0e-9b6c-49a0-ac55-fc239103fbd3,7fc4ad97-3880-4a98-b76b-976459cdd5c0,Kalpit Patel,53,Delhi,2025-03-11,Home Appliances,Eum Clothing,4,1135.81,UPI,Returned,4543.24,877.34,3665.8999999999996
+96724df8-4969-4cb4-aed4-54ecfa77e6e7,408e5626-f321-49a4-8876-0911a5ef5196,Gautam Naidu,60,Mumbai,2024-11-19,Home Appliances,Autem Home,2,7136.08,Net Banking,In Transit,14272.16,1399.83,12872.33
+af75fc23-6360-4d8e-9276-35805e659c85,eabe6a23-df5e-41cd-893c-7c64b9976da0,Jhalak Andra,18,Hyderabad,2025-01-13,Electronics,Minus Beauty,1,9252.66,Credit Card,Delivered,9252.66,2058.41,7194.25
+0885a4de-6c22-4032-9c7d-5b43774a4152,c5c3fc88-8496-4d30-b275-a165f5ce6755,Charvi Kamdar,42,Delhi,2024-12-19,Home Appliances,Aliquam Electronics,3,1336.49,UPI,Returned,4009.47,675.17,3334.2999999999997
+491afd88-9e65-4aae-a600-0ad17de7f08b,17e01657-a3f7-4149-9a0c-da3447740cd4,Aahana Dayal,52,Hyderabad,2025-01-13,Beauty,Temporibus Clothing,5,2725.47,Debit Card,Cancelled,13627.35,1348.48,12278.87
+1883050d-ee77-4d2d-8420-776e6c776b33,79a2b5ef-c7e5-4d34-9e89-13cb60d389dc,Chavvi Balay,44,Mumbai,2024-09-10,Electronics,Repellendus Beauty,2,8617.0,Credit Card,Delivered,17234.0,3255.5,13978.5
+3623b22b-7277-4538-aaa3-b456986293ac,84556c0c-84a9-4814-821d-52500b21c1b4,Ronith Mahajan,53,Mumbai,2024-09-13,Books,Asperiores Electronics,3,9379.13,Cash on Delivery,In Transit,28137.39,4534.69,23602.7
+19e33bae-b12d-4d69-a5b5-809a9202832c,8de7e89f-f8c4-496d-8fc1-a0f85f260156,Darika Basak,20,Hyderabad,2025-05-01,Beauty,Voluptates Home,2,6074.82,Credit Card,Delivered,12149.64,1708.82,10440.82
+1c712e5d-c74b-4073-9724-cf442fc6657a,e85f5faf-f1e0-4f05-ac73-1322261c3661,Jairaj Kapur,51,Mumbai,2025-01-27,Beauty,Doloremque Clothing,1,7024.81,Cash on Delivery,Returned,7024.81,1109.4,5915.41
+e8c52ce8-11ad-45d9-ab40-5ba629325c95,a5b0b1f1-3a75-4393-a979-f75a6e1f5cc3,Jagvi Deol,57,Chennai,2024-06-26,Beauty,Quasi Home,2,8808.03,Cash on Delivery,Cancelled,17616.06,4222.65,13393.410000000002
+e0289402-a8ec-41ed-a55b-10125513da00,6952072e-7f20-444e-a1c2-8e50cf0b88ec,Patrick Agrawal,33,Bangalore,2025-03-15,Beauty,Itaque Clothing,5,776.52,Debit Card,Returned,3882.6,771.85,3110.75
+0bff3c20-2715-4e5d-b609-06e3b07e386b,7f9081fe-e9c4-4885-91a4-84bfdf9353eb,Krish Nair,19,Bangalore,2024-07-05,Books,Alias Clothing,1,9894.69,Cash on Delivery,Cancelled,9894.69,1172.24,8722.45
+d5a25b5e-0be0-4004-93d7-7a7e0dfc8a1e,5edbd887-bc7d-4709-939c-8bfcd8d0c936,Umang Dar,31,Mumbai,2025-04-27,Books,Nesciunt Books,2,8124.72,Net Banking,In Transit,16249.44,2938.95,13310.490000000002
+b09f900b-02ce-403f-b362-8872047f6700,bbc04756-8f00-4b01-a32b-8601b229cada,Chaitanya Karnik,24,Hyderabad,2025-05-31,Beauty,Doloribus Home,2,9550.37,Credit Card,Delivered,19100.74,3730.29,15370.45
+c704eafb-42f8-4f1b-a235-b2ffda62999a,366a1a2e-7449-4839-952d-707033c3bc29,Dhruv Bobal,55,Mumbai,2025-02-13,Beauty,Tempora Beauty,2,4544.41,Debit Card,In Transit,9088.82,2220.42,6868.4
+e1dfe478-c599-4bc9-b3fd-8bcbbccf75aa,655a203b-4421-4508-afc8-4909ff1cade4,Alexander Gulati,60,Mumbai,2024-09-21,Electronics,Omnis Clothing,1,4627.96,Credit Card,Delivered,4627.96,1113.19,3514.77
+f6f6933e-4706-4e5f-9ab6-d9fbda656501,45e753b5-a11c-4df5-b246-1f9ac9c96545,Samar Chada,59,Delhi,2025-05-25,Beauty,Temporibus Home,5,2392.05,Cash on Delivery,Cancelled,11960.25,1690.71,10269.54
+15b775d0-11eb-40cd-b443-c02bbdc691a7,64f99878-c463-4a65-8cf7-6c4a82f19103,Pratyush Subramanian,35,Hyderabad,2024-09-05,Beauty,Omnis Clothing,1,6466.82,Net Banking,Delivered,6466.82,654.75,5812.07
+6368e2bf-a1b6-485f-87c8-5d3e613f69db,7595b06d-b9a3-4b82-ba7a-66b443005dfd,Urvashi Batra,21,Mumbai,2024-10-15,Beauty,Et Clothing,2,3439.52,Net Banking,Delivered,6879.04,1395.24,5483.8
+c4308bac-c8d9-4ead-98db-bd68879b2953,10e66be5-80af-47cf-8df9-ee0d4dc67e93,Vritti Sule,19,Delhi,2025-02-11,Home Appliances,Reiciendis Electronics,3,3346.06,Debit Card,In Transit,10038.18,576.69,9461.49
+1c0321b0-6d99-4344-8c9d-48a774327f59,302ef847-3ba1-4606-9533-5bad1369d0bf,Qushi Dubey,45,Hyderabad,2025-05-30,Beauty,Ipsa Clothing,2,8078.37,Cash on Delivery,In Transit,16156.74,965.29,15191.45
+6f14c48b-122a-4426-b04c-d5867c93eb44,4188a8f8-5a7a-4a2d-b2b2-d22e78bf16a8,Banjeet Andra,59,Mumbai,2025-04-12,Clothing,Ipsam Books,2,3552.67,Net Banking,Cancelled,7105.34,1288.6,5816.74
+4ef3f7d7-2e95-49a1-8f2b-71bc7ce1a8cb,67c68dc1-fea4-4e8d-abee-221c0575191f,Qadim Ram,50,Mumbai,2024-08-10,Books,Distinctio Clothing,3,3560.05,Debit Card,Cancelled,10680.15,883.9,9796.25
+7977b657-a2b8-42fe-8755-57abc410ee98,906509bb-04da-4d0c-8693-7181ff5858b9,Finn Chakraborty,33,Hyderabad,2024-12-17,Books,Enim Beauty,4,3950.54,UPI,Delivered,15802.16,1868.87,13933.29
+9c9e8ce7-fb89-49af-a4a7-bbb3ad70805b,f1f06866-efa6-47e4-a9d9-e4a69df60f64,Sanaya Balasubramanian,53,Hyderabad,2025-04-28,Clothing,Adipisci Home,2,5259.12,Debit Card,Returned,10518.24,2372.93,8145.3099999999995
+2d04e8db-7b3d-4942-bc04-98d2f5fc53f0,59cf1833-b196-4c01-9201-bab242b238ad,Sanaya Hans,41,Bangalore,2024-09-22,Beauty,Alias Clothing,1,5346.44,Net Banking,Delivered,5346.44,1169.78,4176.66
+1fe1f8ac-3ed7-422d-9207-2f7fcf178146,b7d2dbb5-55a3-4545-a370-32666457b096,Rayaan Dhingra,45,Delhi,2025-06-11,Beauty,Odio Clothing,2,5209.5,Cash on Delivery,Returned,10419.0,1373.67,9045.33
+7350fc73-23e1-4984-bd2c-96fbc5dc6933,bf45aa40-1e2c-4a99-b5cd-e7c662425081,Azad Bumb,31,Mumbai,2025-02-16,Books,Ratione Home,1,5731.82,Cash on Delivery,In Transit,5731.82,1213.87,4517.95
+be962a2e-c83e-4f5c-9c1e-8cd8c3a33b5d,0d8e88b8-c048-4c77-b214-e26ead8beb3d,Yagnesh Brar,26,Delhi,2025-04-04,Home Appliances,Quo Clothing,5,1860.85,UPI,In Transit,9304.25,1522.9,7781.35
+e41c77d9-90b3-4bf6-9976-a493a0a3e844,b37adfc4-63bf-48e6-a14d-143d7ab86c6a,Omisha Nair,29,Mumbai,2025-05-28,Home Appliances,Ipsum Beauty,3,7259.72,Debit Card,Returned,21779.16,3975.44,17803.72
+3fc4adfa-1483-47f4-8c54-15552eea873b,371cb769-df4b-4cc9-bb40-ae8fff1c7a7f,Reva Mital,40,Hyderabad,2025-05-24,Books,Ea Electronics,3,2846.92,Net Banking,Cancelled,8540.76,454.93,8085.83
+895e2f78-cd1c-4af1-b696-d6d50b7b74d9,2c81c418-86c7-4dff-bcae-1dc312e096ca,Faraj Maharaj,27,Bangalore,2025-04-27,Clothing,Ut Books,2,6185.98,Credit Card,Returned,12371.96,1203.39,11168.57
+8fe65106-936b-44c4-9464-2bf0b258c3c0,4b4c80ce-68a4-46f4-8da3-3660dcfb28ab,Wazir Zacharia,24,Mumbai,2024-11-12,Books,Mollitia Clothing,3,9129.46,Cash on Delivery,In Transit,27388.38,2642.78,24745.600000000002
+6188198e-af9e-4e1b-8b3e-cd7d18d5f3f4,b5fd9239-b476-4cee-b824-08ce0f66ef41,Chakradev Tak,30,Delhi,2024-12-14,Electronics,Et Books,4,2052.68,Cash on Delivery,In Transit,8210.72,2031.82,6178.9
+ad53f554-1fe7-4a24-b899-26530af69aae,7e178271-5d58-4478-a468-dbfc0931cee9,Ranveer Shankar,20,Chennai,2025-05-14,Home Appliances,Mollitia Books,2,9417.0,UPI,Returned,18834.0,2156.44,16677.56
+e2d65ef2-4e6f-48ef-964f-3cc7c70c7406,7bde1fdb-e8d3-404c-8c22-60a792039e33,Ria Lad,38,Bangalore,2024-11-27,Home Appliances,Hic Home,1,7575.77,Cash on Delivery,In Transit,7575.77,1541.43,6034.34
+5e7e74c3-f12a-4006-8917-9c1066ddc1ba,4f3b60c4-53cc-4fb4-aeab-b8a94d0b14ef,Hamsini Dara,56,Chennai,2025-03-07,Beauty,Distinctio Home,1,2274.96,Cash on Delivery,Delivered,2274.96,404.43,1870.53
+707b5c88-e165-4dcd-97f6-0db30e94255e,c8f566c2-565a-4041-9b01-7a4b930f7f4a,Rajata Narayanan,26,Chennai,2024-12-04,Clothing,Quo Home,3,8101.63,UPI,In Transit,24304.89,2043.13,22261.76
+7eda3117-9cf9-43a5-8583-03e47037d153,83c3df38-2e14-4cec-9ab3-22f6d5be0952,Nicholas Sunder,37,Mumbai,2025-03-01,Electronics,Delectus Books,2,2528.91,Credit Card,In Transit,5057.82,1072.75,3985.0699999999997
+ba4641db-fdc0-48d5-9a3e-4b64d4efd8f4,ec59dac9-7495-42d0-a724-d88be7dd86b6,Nachiket Bawa,56,Mumbai,2024-09-24,Clothing,Perspiciatis Electronics,1,9741.82,Net Banking,Returned,9741.82,1819.02,7922.799999999999
+e5879ba0-b514-479a-8fe7-86f23b5a5027,1237171d-51e0-4c3a-954e-ae518c29b8c0,Devansh Zachariah,57,Chennai,2024-09-26,Clothing,Odit Books,5,5967.04,Cash on Delivery,Cancelled,29835.2,1931.71,27903.49
+474ed350-de40-4e9c-8509-9a9b99091ef1,6659b244-3b9b-4648-a06e-faaebce3a640,Akshay Rau,54,Chennai,2025-05-18,Books,Accusantium Clothing,4,8488.38,Credit Card,Cancelled,33953.52,8405.37,25548.149999999994
+80c1715f-5b81-4824-9fc0-629a8787391c,062a118f-6686-4585-bbc3-c53f6c6d3275,Kavya Dubey,34,Mumbai,2025-03-03,Electronics,Minima Electronics,4,3169.5,Net Banking,Cancelled,12678.0,2522.12,10155.880000000001
+80ddb8d3-5a50-4934-9ff1-04194b918211,bab66087-90a0-431b-b623-7edf022353e1,Diya Joshi,22,Chennai,2024-07-17,Clothing,Repellat Home,4,4613.52,Debit Card,Returned,18454.08,2975.67,15478.410000000002
+856badd8-f336-4810-bb18-8a8106da9727,0031a6d6-6c2e-4f7f-98a8-21ec83feee2b,Lila Sandhu,59,Hyderabad,2025-01-17,Books,Iusto Books,1,9846.17,UPI,Delivered,9846.17,2408.87,7437.3
+70d15834-e532-406a-b8b6-c18c0145047a,3db80fca-3dfa-4376-9935-4360ae483e7b,Hamsini Wason,33,Bangalore,2024-11-10,Home Appliances,At Books,5,2254.3,Cash on Delivery,Cancelled,11271.5,2098.95,9172.55
+aef4c77d-8190-4eb2-aff0-bb2322cab1b0,2ffa310b-96af-4b98-b42a-aa2c6708db6e,Chakradev Bawa,35,Bangalore,2024-09-09,Clothing,Facilis Clothing,1,8394.76,Cash on Delivery,In Transit,8394.76,1178.24,7216.52
+804c08cb-b910-46da-b95e-8b2db0309ee2,87698db6-1c6b-466c-b0f7-ba51b7b43c17,Niharika More,25,Delhi,2024-07-01,Books,Pariatur Electronics,5,7168.09,Cash on Delivery,Cancelled,35840.45,3345.99,32494.46
+78e83313-30dd-4b87-8587-d25e085f7266,e46d4409-c568-4d39-aa43-9351565c8834,Ekaja Sarin,53,Mumbai,2025-03-02,Electronics,Tempore Books,3,2708.05,UPI,In Transit,8124.15,1612.69,6511.459999999999
+fd354203-36b1-428c-b152-5581d31d2efa,b82e2d0d-9fc9-4a89-a27c-8e2dbd4524bf,Rayaan Mani,35,Delhi,2025-04-26,Books,Repellendus Books,2,4771.3,UPI,Cancelled,9542.6,1210.56,8332.04
+49a29688-115d-40ff-a6ff-bf9c4eaed552,0c2c7dea-7258-455a-894d-5aa8d52f1252,Mason Deo,40,Mumbai,2024-08-26,Electronics,Quibusdam Home,1,1119.25,UPI,Delivered,1119.25,231.26,887.99
+0311aebd-595a-4571-a808-f356b501c4c4,e6ed66f5-da35-4fbf-b973-540b82238338,Dipta Sha,59,Hyderabad,2025-06-20,Home Appliances,Cumque Books,5,8414.68,Credit Card,In Transit,42073.4,10213.73,31859.670000000002
+0811f7cb-1a59-4b35-86f9-66566522f864,5ff5c258-94cc-44f6-9e49-12b65d53ef07,Amara Dubey,58,Bangalore,2025-02-23,Clothing,Eligendi Clothing,2,4562.01,Net Banking,Returned,9124.02,1893.26,7230.76
+2b916deb-a454-47d8-94c8-a9015841ca04,1005d669-f0b8-4f96-90e1-a7a293c44b7f,Girindra Chana,45,Bangalore,2025-03-27,Home Appliances,Possimus Home,3,1432.92,UPI,Returned,4298.76,790.49,3508.2700000000004
+5666f8c1-38b4-44ad-a993-dd02733048b9,526de071-f324-4e0b-8118-986c503979b5,Anirudh Tak,38,Delhi,2025-04-01,Clothing,Et Home,3,4852.95,UPI,Cancelled,14558.85,3379.02,11179.83
+2bd70988-e9b7-41d4-8642-3857ce7657b0,2218b0ac-c820-401c-821e-752dfe4ca904,Anjali Arora,52,Chennai,2025-01-09,Beauty,Quo Beauty,1,7551.66,Debit Card,In Transit,7551.66,1572.96,5978.7
+90c76b1e-3b04-4df9-a400-7016c7e7957d,b4e6de0d-961e-498e-8e14-f714345b036a,Kiaan Shan,49,Bangalore,2024-08-31,Books,Fuga Home,1,5800.01,Net Banking,Cancelled,5800.01,1020.91,4779.1
+8c22afbd-e590-47b9-8cac-ee74b8b6f366,4d9bd762-4645-47e6-bf40-493462457ed6,Raksha Swaminathan,54,Hyderabad,2025-01-29,Electronics,Nesciunt Beauty,4,2297.39,Credit Card,Returned,9189.56,1502.01,7687.549999999999
+a721787b-d654-4ffd-9213-0f0d27fe0e7e,5f379e6b-ea48-4810-9b1e-78e65757fcca,Krish Yohannan,59,Bangalore,2025-01-08,Books,Odio Books,2,2068.49,Net Banking,Returned,4136.98,596.33,3540.6499999999996
+350560ba-949d-4d37-8522-1e716bb2a0fa,1c6ac8f4-715e-43e1-a179-8b4160a6da79,Lekha Dara,53,Delhi,2025-05-17,Home Appliances,Delectus Electronics,3,7437.02,Net Banking,Cancelled,22311.06,3104.95,19206.11
+98178149-727f-484b-bdb7-a545f3a6f9c0,884b42d6-e8f6-4fa7-ae70-8df65350d686,Amaira Dalal,18,Hyderabad,2025-01-15,Clothing,Est Electronics,4,5018.86,UPI,Cancelled,20075.44,2603.52,17471.92
+8e4aa35b-acc0-457f-aae0-500d1322cb9d,6c6220ad-cd28-40ab-8c36-e0ea44b3c1c5,Diya Dora,29,Delhi,2024-10-12,Clothing,Temporibus Electronics,5,3812.1,Credit Card,Delivered,19060.5,3910.15,15150.35
+fbdfa1b5-c194-4387-9c2b-ff89e157f3df,73b76ddf-aa38-4749-b2a4-89b18434e473,Upkaar Bhatnagar,19,Delhi,2025-04-30,Books,Sit Electronics,2,4128.06,UPI,Returned,8256.12,1576.81,6679.310000000001
+f2629a04-53a1-4526-98b3-f48bca646859,89200c32-e30d-4a7a-a97a-d852d8f2e083,Qabil Kadakia,36,Delhi,2024-12-30,Home Appliances,Perferendis Books,4,669.93,Cash on Delivery,Cancelled,2679.72,404.46,2275.2599999999998
+8e806695-2090-4f6c-85c6-b968505420bb,8bfb661a-dec2-419e-abb1-9be66f2bebb4,Vrinda Ghose,27,Chennai,2024-07-18,Electronics,Corrupti Beauty,3,2250.33,Debit Card,Cancelled,6750.99,1287.5,5463.49
+c81d3072-3571-44f7-bb0b-bf717f56dc78,1ef769ec-7f85-4043-a334-fa3efedf9b13,Dakshesh Virk,21,Delhi,2025-05-14,Electronics,Quam Beauty,1,3053.2,Debit Card,In Transit,3053.2,538.35,2514.85
+5350a565-47cf-41d3-b74e-e559a0bed6e1,7d857502-4aed-42b3-8756-ec2655e39b13,Oeshi Dugar,35,Bangalore,2024-09-18,Clothing,Consequuntur Clothing,5,9033.36,Credit Card,In Transit,45166.8,4971.79,40195.01
+049f95d2-ca76-4e1e-b3fb-8bec99beb63a,51592161-2a71-40d1-962d-317cae88f9e9,Turvi Kala,47,Mumbai,2024-09-30,Electronics,Rerum Electronics,4,1491.07,Credit Card,Returned,5964.28,674.89,5289.389999999999
+097fb8d5-d075-4137-be32-713c46479d4f,78d5c4d3-e5dd-420d-956a-87c4a771442d,Aayush Bala,22,Chennai,2024-07-16,Books,Esse Clothing,2,4934.24,Net Banking,Cancelled,9868.48,1307.24,8561.24
+fa3c9943-f25e-4c22-a257-e0f4523aa4bb,29a0fdb5-5072-4194-8b7e-6fab5664bd74,Rudra Sachdeva,23,Chennai,2024-11-20,Electronics,Nemo Beauty,2,6848.7,Net Banking,Returned,13697.4,2804.27,10893.13
+c07bf1de-7fa4-482c-ad3b-6de5e9dca4be,74a3f1d2-b894-4939-b255-07f1641d9f3a,Pranit Krish,37,Hyderabad,2025-06-09,Books,Animi Clothing,2,9588.22,Credit Card,Cancelled,19176.44,2415.22,16761.219999999998
+30e4d927-bbac-4c77-9fd7-f07878ce06da,50e5e6ba-73f7-419b-85d4-a60307bbd9a5,Gautam Dhar,18,Mumbai,2025-02-24,Electronics,Minus Electronics,3,1471.9,Debit Card,Cancelled,4415.7,535.03,3880.67
+d417aa18-8c42-46fd-bb8c-7f0be9ff9b38,bac06000-3d23-451e-84b8-317df644c303,Amrita Kothari,42,Delhi,2025-03-09,Electronics,Neque Books,4,6682.12,Credit Card,Delivered,26728.48,3208.21,23520.27
+c1a38d68-49ec-42fb-81fa-dce57f76dd40,be5925ab-5bce-4c24-8243-3a960b211956,Yachana Bera,27,Mumbai,2025-01-27,Home Appliances,Voluptates Home,1,8751.01,Debit Card,Returned,8751.01,465.58,8285.43
+721a164d-6f0c-4c2c-9797-2f9a66a26ff6,f8de5ef2-855d-4768-b0ce-f7226e26979e,Aarush Cheema,31,Delhi,2024-12-25,Books,Voluptatem Electronics,5,7597.92,Debit Card,Returned,37989.6,8137.53,29852.07
+f727bd89-c845-4376-95f9-917c1d29ca6b,35076f7e-52d5-498b-a99c-f16faa7cf123,Omya Sahota,23,Mumbai,2024-07-14,Home Appliances,Animi Books,4,8929.11,UPI,Cancelled,35716.44,8117.63,27598.81
+7e358a72-2b98-499a-8bfc-834492102985,741e5ffb-778f-4735-932d-a6490c856be8,Advika Sachdev,28,Delhi,2024-08-17,Books,Ab Books,3,7416.89,Debit Card,Cancelled,22250.67,4391.6,17859.07
+5812ffe7-0867-4801-b6a3-cc358b84f41b,e57b1f63-da59-4410-b727-3da015f97ef7,Ranbir Shere,58,Delhi,2025-06-08,Electronics,Inventore Beauty,4,1032.74,UPI,In Transit,4130.96,568.03,3562.9300000000003
+c0def085-adf6-49c3-ab4d-05332ee50cf1,29c69ebb-1591-40d4-b748-e031705d927d,Zansi Bali,60,Hyderabad,2025-03-26,Electronics,Atque Beauty,3,2626.88,Cash on Delivery,Cancelled,7880.64,1773.87,6106.77
+f5cbc808-9f15-4c69-85ce-c474758d5984,33eb7aee-0f4d-49a7-9483-5065b5be5a0a,Christopher Bahl,23,Bangalore,2024-09-04,Beauty,Odio Books,5,331.72,Credit Card,Delivered,1658.6,335.16,1323.4399999999998
+47687009-8797-4015-940f-c67f21610a45,3c85e7bb-4b41-4a36-93de-ee64ceb933d7,Hemang Mand,52,Chennai,2024-11-20,Beauty,Soluta Beauty,3,4676.89,UPI,Delivered,14030.67,1684.48,12346.19
+c6c5b551-6dff-4e29-9c0d-4a066fc5d793,0a07fbaf-f267-44c1-89a5-3e2f8ed5b094,Lopa Parmar,47,Bangalore,2024-10-13,Electronics,Dicta Home,2,577.24,Debit Card,Returned,1154.48,117.31,1037.17
+8c3b476a-44d6-49a7-9149-551859753c13,99ae431f-b348-42a9-a8c6-670a968c03c9,Maanas More,44,Delhi,2024-08-17,Beauty,Voluptatibus Electronics,2,5943.0,Debit Card,In Transit,11886.0,852.68,11033.32
+35c43a3d-4cfb-4526-ae2b-22a7af574519,520b3636-9a7b-4741-b0b9-5bd253a23cd3,Bahadurjit Suresh,56,Delhi,2025-06-09,Beauty,Molestias Electronics,4,3724.04,Net Banking,In Transit,14896.16,1121.52,13774.64
+d3267b22-905f-43d6-a385-32bbc58aabef,6292191f-85e5-474c-bd94-5d8c661b24a8,Daniel Wable,27,Hyderabad,2024-08-16,Home Appliances,Ratione Home,5,9775.76,Credit Card,Delivered,48878.8,10435.76,38443.04
+561cf89a-a653-46c1-8b86-656840a11564,f8d1e8d3-d477-4ffd-a6e8-03a0a711013b,Harinakshi Garg,56,Bangalore,2024-10-04,Books,Ipsa Beauty,3,7556.59,UPI,Delivered,22669.77,1723.79,20945.98
+19f3564a-9818-4327-b842-ee1ec743a8d8,82bb5f07-6c0f-4cfd-8459-682149425b53,Chameli Buch,48,Hyderabad,2025-06-05,Electronics,Eum Electronics,5,390.63,UPI,Delivered,1953.15,314.95,1638.2
+9c849606-1f31-413a-8b50-5c57950d9a98,757eb58b-6322-4d6b-8ebd-ff05217d8881,Vyanjana Sethi,43,Delhi,2025-01-05,Clothing,Inventore Beauty,3,8085.46,Credit Card,Delivered,24256.38,5924.27,18332.11
+5254d350-d710-444a-9720-bf5ecebd8f9f,1341b196-a214-448f-9e51-8c806896d326,Nimrat Panchal,45,Delhi,2025-02-06,Clothing,Architecto Home,2,2479.79,Cash on Delivery,Returned,4959.58,1115.34,3844.24
+8952ac83-7ef3-48ce-87a8-91e5790debc3,e00d55e5-8952-45ea-affd-351074b9946d,Peter Gade,33,Mumbai,2025-03-04,Clothing,Iste Books,4,4178.01,Credit Card,In Transit,16712.04,1491.68,15220.36
+2fe9aa78-739c-4abc-91da-211c44b4a71c,45e213cd-5d9e-4a72-bb0a-de204f986ce4,Urishilla Oak,45,Delhi,2025-04-10,Beauty,Sunt Clothing,3,8199.98,UPI,Delivered,24599.94,6124.72,18475.219999999998
+2a7344a7-7c83-48cf-937c-1523a55322b4,74535853-7828-44dd-acd9-0bb413d752bd,Upasna Hans,37,Hyderabad,2025-04-26,Electronics,Et Beauty,1,8823.77,Cash on Delivery,Cancelled,8823.77,1021.13,7802.64
+2b3205c4-81f3-47ea-bcc3-1e3784b954e8,b5e73395-d735-49c4-930a-f7e0df43391d,Geetika Som,46,Delhi,2024-08-31,Electronics,Nesciunt Beauty,3,8819.86,UPI,Returned,26459.58,1898.07,24561.510000000002
+6d29656c-a9b6-4abc-98bc-606c1404c4e6,e7b742b0-4bb6-4348-9d60-6150140a7b36,Hiral Puri,44,Delhi,2024-09-27,Home Appliances,Quidem Books,5,6903.88,Debit Card,Cancelled,34519.4,3898.01,30621.39
+61c7ef37-fc96-4655-9a84-75bde320348e,d5c4c311-0f09-450a-b474-47a666863de0,Warjas Dass,33,Bangalore,2025-05-16,Home Appliances,Vel Home,4,408.66,UPI,In Transit,1634.64,338.33,1296.3100000000002
+04459119-3c81-465b-9464-69b69ce42c2c,f64e72b3-0f6b-4fe3-9de4-b9ca607205d8,Ekapad Batta,27,Mumbai,2024-09-06,Beauty,Dolorem Electronics,1,946.99,Net Banking,In Transit,946.99,202.93,744.06
+969e3489-b8fc-4339-8b0f-bbe79bf0b4cc,fbc37664-d59f-4800-a3b8-42d8be97da83,Gagan Dhingra,54,Mumbai,2025-04-06,Clothing,Porro Home,1,9759.13,Cash on Delivery,Returned,9759.13,2073.84,7685.289999999999
+09606cec-30b5-42ce-a186-a1a005eea076,f8405e30-682c-4afc-a217-c0055ee96ae2,Kalpit Suri,19,Chennai,2024-09-12,Electronics,Quis Electronics,1,8836.13,UPI,In Transit,8836.13,1373.2,7462.929999999999
+0cbb3bf0-adc8-4bb0-a0c5-1411a5e3ac56,b5b06da0-6955-4630-b651-269369f91a10,Aarna Handa,24,Bangalore,2025-01-26,Books,Suscipit Books,2,2482.82,Net Banking,In Transit,4965.64,1227.13,3738.51
+695a0d32-6ce3-4312-b03a-da7ebb5be17d,af9e5d84-1935-4fa1-82e3-b741012f5e41,Priya Srivastava,23,Chennai,2024-06-26,Beauty,Eaque Clothing,1,9611.54,Debit Card,Cancelled,9611.54,513.42,9098.12
+6203a597-1bfb-452a-87c5-fe28c2d241b7,80c08c14-e902-429f-a574-ec5238127ecf,Yashawini Shukla,32,Hyderabad,2025-05-13,Clothing,Quibusdam Books,5,9123.56,Debit Card,Returned,45617.8,3020.53,42597.270000000004
+934b4e81-e402-48dc-9ec1-73d2fdf437b0,252baabf-17fe-45b8-a6ad-c421f4fc3f61,Tanveer Lall,18,Chennai,2024-07-18,Home Appliances,Nisi Beauty,2,5057.35,Credit Card,Delivered,10114.7,749.47,9365.230000000001
+594d9f2d-1921-4496-8fbb-33875b8e4bb5,72487eb8-b6e2-4a2b-aaee-a55c4e153db1,Hemani Dhaliwal,33,Delhi,2024-11-10,Electronics,Quo Home,3,4878.63,Debit Card,Delivered,14635.89,1766.0,12869.89
+7f63565b-bba8-4428-b9b2-f507f40d60d3,0a6fa13a-f9ad-4cdc-9394-86e2dd0bd2ff,Yash Saraf,36,Chennai,2025-05-23,Electronics,Nisi Electronics,1,8910.13,Cash on Delivery,Cancelled,8910.13,651.78,8258.349999999999
+14cc3627-4fd3-430b-ba02-189f22ce3c09,42607208-78b3-42eb-b801-752281591e76,Chandran Walia,58,Chennai,2025-04-20,Books,Vel Home,3,4143.34,Net Banking,Delivered,12430.02,2996.21,9433.810000000001
+ab6d03dc-7459-41a1-be6a-bf3d5d6b35bd,f21c0c65-5239-4a09-b235-01a44d6097ce,Zilmil Karpe,43,Bangalore,2024-07-13,Clothing,Eos Books,1,7682.12,UPI,Cancelled,7682.12,1053.22,6628.9
+a20c97a8-ea81-437a-a4ba-ec146b543a6a,2691d446-2764-442e-9503-df69dc1bfc92,Madhavi Korpal,50,Delhi,2024-09-02,Home Appliances,Magni Home,3,1713.94,UPI,Cancelled,5141.82,1059.98,4081.8399999999997
+26f83c3e-f0c9-4cce-a2b2-940936e55846,118a744b-9a31-4ab1-9d0b-18e51a4f7ef4,Isaac Rajagopalan,52,Delhi,2024-07-16,Electronics,Veritatis Home,2,6669.47,Debit Card,Delivered,13338.94,893.3,12445.640000000001
+ef63f789-cf48-4a84-86e9-e8fdee948c61,3d83eeb7-8816-47a7-8be5-303f91768a1f,Finn Chawla,32,Chennai,2024-12-09,Beauty,Sequi Home,1,4153.02,UPI,Cancelled,4153.02,985.45,3167.5700000000006
+e68a6b36-cb5f-4384-a31d-b40d1aa74b92,8dcc9f62-cba8-4033-8759-0f85a68166c6,Jagat Luthra,51,Delhi,2025-05-14,Home Appliances,Provident Electronics,4,7174.49,Credit Card,In Transit,28697.96,2088.73,26609.23
+57b957f7-e437-43d8-88c0-c0e5841eb19f,6288b16d-1ff2-4516-8797-fe7e32207867,Chaman Oommen,35,Bangalore,2024-12-23,Books,Iusto Clothing,1,3261.71,Credit Card,Delivered,3261.71,731.53,2530.1800000000003
+07ac9dfd-1943-47fe-a736-2c7d1065525f,177c7677-4e36-4b8d-a0fe-25d0e24e994c,Om Muni,51,Delhi,2024-11-01,Electronics,Atque Beauty,5,4936.28,Net Banking,Delivered,24681.4,5222.82,19458.58
+0e11ab59-fd1e-459f-89d3-b8c8384cdf8d,671b6a0e-f564-4e3a-b884-1b5c1b73387f,Yachana Sood,18,Bangalore,2024-09-23,Electronics,Non Home,5,7397.01,Cash on Delivery,In Transit,36985.05,4190.35,32794.700000000004
+0ad4bf7f-3caa-4fc3-a618-55860f81567a,4a03c202-db6e-46f8-bd2b-62a59b8ae1e8,Neel Bains,29,Delhi,2025-02-16,Electronics,Commodi Beauty,1,1781.65,Credit Card,Cancelled,1781.65,398.09,1383.5600000000002
+1bf03e1d-549d-4959-99af-87f58c4f86fc,415108f8-d35d-422d-8ceb-bcdc394672e5,Siya Dugar,37,Mumbai,2024-07-27,Beauty,Labore Electronics,5,4620.84,Debit Card,In Transit,23104.2,1429.73,21674.47
+1a40886b-f94f-46ed-b9b2-ab27fa4c1b48,e83e4e2f-e4db-4a09-a79c-d2b63b3d0ea1,Zansi Din,40,Mumbai,2025-01-17,Beauty,Quaerat Clothing,3,9824.48,Debit Card,Cancelled,29473.44,4863.33,24610.11
+4ba3145e-a60f-4aa8-ab8f-7a338405f8ed,0ced8942-c80b-4fa9-ac9b-9ba2a53189fb,Eiravati Sha,42,Hyderabad,2025-06-06,Home Appliances,Blanditiis Beauty,5,4249.83,Net Banking,Returned,21249.15,2191.04,19058.11
+aaf7d561-dbdd-44ae-97b9-ed29c5cc78bc,078b5712-a242-4f6d-a240-95e293d48691,Aachal Jhaveri,54,Bangalore,2024-07-21,Books,Possimus Books,5,9797.99,Cash on Delivery,Delivered,48989.95,7165.39,41824.56
+e7ccf398-ace2-48b2-b7a3-2275a7cc08a5,8e085a34-04e7-4f51-a049-2516be532468,Irya Natt,43,Bangalore,2024-09-19,Books,Repellat Clothing,2,7106.84,UPI,In Transit,14213.68,731.28,13482.4
+01f542e0-590c-4f89-a181-c410a1dd608f,fff96186-32de-4da7-8008-ef32843d6b6f,Sathvik Ganesan,19,Bangalore,2025-01-11,Books,Minus Electronics,4,2407.86,Debit Card,Cancelled,9631.44,561.47,9069.970000000001
+ab39a9f9-925b-400d-9071-56b4dcd774bb,f4b2a563-e14b-4e94-bd73-00c0659c836b,Advika Nadig,46,Bangalore,2025-03-19,Home Appliances,Debitis Home,5,1905.58,Cash on Delivery,Cancelled,9527.9,1480.61,8047.29
+e40f89d3-5d4e-47c2-83f4-5793678853cc,2052231e-565f-494a-9869-f9a5e29bb9f3,Farhan Johal,39,Delhi,2024-11-15,Home Appliances,Ipsam Clothing,3,1115.82,Cash on Delivery,Returned,3347.46,824.02,2523.44
+c39460ed-7daa-46eb-83b2-75df2e73f552,bf25cf09-cacc-4ebe-8175-260873e1fc60,Nihal Singhal,26,Chennai,2024-08-07,Electronics,Velit Home,1,5695.56,Cash on Delivery,Delivered,5695.56,717.09,4978.47
+83de9c7b-c261-4e6b-82e3-5cb452d1276d,a53df546-c50c-4e36-8757-e70bcf82391f,Aachal Nazareth,60,Mumbai,2025-02-19,Clothing,Totam Electronics,3,9244.5,Credit Card,Returned,27733.5,6474.88,21258.62
+fd90cddc-abdc-45ba-bd84-b851f1c4595c,6be234b9-5441-4389-9c1e-2208330e3457,Gayathri Sani,40,Bangalore,2025-04-06,Clothing,Vero Home,3,3920.02,UPI,In Transit,11760.06,2260.12,9499.939999999999
+fb2acc42-467f-4eb3-9f46-1d0cda9b007f,fdba82a3-6a86-4272-94b8-a2d4f51979ea,Anjali Sachdeva,23,Hyderabad,2024-07-13,Electronics,Deserunt Beauty,1,6172.62,Net Banking,Cancelled,6172.62,1426.0,4746.62
+d30981ff-7b1b-413c-a7a4-ee0270152d77,fc90dc8c-c790-4aa8-9ba1-bfe810eca2e5,Charles Talwar,47,Hyderabad,2024-11-03,Electronics,Eum Electronics,1,5028.35,Debit Card,Returned,5028.35,395.72,4632.63
+c1a9f882-acc4-418f-9ed4-aed5c0c8b58f,00869402-beb7-4113-9185-817a2a3523d6,Yatan Mandal,37,Bangalore,2024-11-11,Books,Praesentium Beauty,1,9051.95,Net Banking,Returned,9051.95,2025.74,7026.210000000001
+ba35207e-4bc0-42bd-99cd-1df45325df8b,911c3095-26b7-4f69-b792-4cce854cadf1,Zinal Bhardwaj,55,Hyderabad,2025-06-01,Home Appliances,Consectetur Electronics,1,6953.8,Net Banking,Cancelled,6953.8,1034.63,5919.17
+aeb61102-a579-4546-bc3c-191e09ece3e3,40d2e943-7f37-42f9-8a0d-7a8a1280c19e,Zayan Venkatesh,55,Mumbai,2025-02-04,Books,Mollitia Home,5,5508.69,UPI,Returned,27543.45,3491.0,24052.45
+19726969-820b-4c03-a58c-d7b628034269,52e51e36-0b19-4d5d-981f-9b6d557febb6,Krishna Hora,53,Chennai,2024-10-12,Books,Dicta Home,1,4532.26,Credit Card,Cancelled,4532.26,889.75,3642.51
+cd3feed8-e068-486f-b102-20e41f671275,325ded61-b602-4ce6-a321-6e4bd8b956f0,Chakrika Chopra,38,Chennai,2025-01-26,Home Appliances,Quis Home,3,3926.53,Net Banking,Returned,11779.59,640.96,11138.630000000001
+019314e1-9432-46ee-89ed-a91719eb3092,c9a03e38-f8be-4adc-a190-1ae1228882ba,Maya Chand,19,Bangalore,2025-05-17,Electronics,Voluptatum Books,3,9567.24,Debit Card,In Transit,28701.72,1503.78,27197.940000000002
+f6ed6180-443a-418e-9fcb-24a8fc4a5081,b7ee694b-1a40-46c7-a9c5-2128d9a2411c,Upkaar Halder,44,Mumbai,2024-11-24,Books,Reiciendis Clothing,3,4822.21,UPI,In Transit,14466.63,3110.61,11356.019999999999
+d6c0f714-0397-44f1-a6da-7550f12df191,a9cb1cc6-4dee-4870-abfd-47427e6b078d,Nachiket Dani,57,Delhi,2024-12-30,Electronics,Labore Electronics,2,9649.88,Net Banking,In Transit,19299.76,2731.42,16568.339999999997
+6b6bbd48-1247-4324-82c3-cacf70836329,964bae3c-e87d-4872-8029-124c08e447c0,Qasim Sundaram,40,Bangalore,2025-05-23,Electronics,Qui Clothing,4,3425.1,Debit Card,Delivered,13700.4,1629.24,12071.16
+93c2d3ca-b72a-47d6-8612-7dcf0ee3e026,93c9fcc4-8a21-44f5-9403-20093db750d7,Ridhi Dutta,47,Chennai,2024-10-25,Books,Molestiae Clothing,2,4264.51,UPI,In Transit,8529.02,1773.15,6755.870000000001
+688b412b-41a6-490c-a945-ce310c1d1d7e,221f3fbe-00a1-4f9c-88ff-a31425c7746e,Vincent Mitra,30,Delhi,2025-05-15,Beauty,Atque Clothing,2,8431.91,Debit Card,Delivered,16863.82,1549.01,15314.81
+5247c876-8795-49d1-91b2-89e2230e3fb3,2f400684-0530-4f18-9126-934d2a1d8b87,Wakeeta Chahal,21,Chennai,2024-10-21,Electronics,Nam Clothing,1,4263.77,Net Banking,Cancelled,4263.77,624.72,3639.05
+8fce46fc-7f9f-4a40-a29b-a71a22840c0c,123a4e77-fa20-48de-a3b1-abc49616a028,Zansi Chakrabarti,52,Hyderabad,2024-09-25,Beauty,Quam Books,4,3332.71,Credit Card,Delivered,13330.84,3120.13,10210.71
+cc683f5a-259e-456c-b10e-f67444e56ffa,a3de69d3-4dde-441a-800d-45cc0042aa2f,Qushi Rajagopal,49,Delhi,2024-11-25,Electronics,Minima Electronics,5,5580.6,Net Banking,Cancelled,27903.0,4341.87,23561.13
+9df730e8-3565-4175-8cef-6e780107dea2,fb9e1e18-e6be-4dcf-abcb-f46024d0a92f,Ojasvi Dhawan,32,Bangalore,2025-05-04,Electronics,Quibusdam Books,3,2678.42,Debit Card,Delivered,8035.26,453.76,7581.5
+ced5bf61-1cc3-4f12-a1b3-3e969fa5c44e,a53e3ace-e231-410a-8ca2-3f3ba08ea073,Gayathri Batta,29,Delhi,2024-09-22,Electronics,Debitis Electronics,5,9248.78,Net Banking,Returned,46243.9,2715.15,43528.75
+a342f52e-5cf1-4c15-9906-78dcb272a94d,cb3c35a9-4185-47cc-92f9-335a1287e6b9,Gautami Bassi,50,Bangalore,2025-03-09,Electronics,Delectus Electronics,5,9105.69,UPI,In Transit,45528.45,9636.91,35891.53999999999
+3a7aebba-f4b1-4652-b4ec-427db35ac1a3,f04224ab-39f8-43c9-8057-18cb3b931a01,Rohan Sundaram,36,Delhi,2025-06-18,Home Appliances,Rem Home,4,4589.01,UPI,Returned,18356.04,4491.76,13864.28
+185d6872-0d5c-4148-964d-f2a063090e1e,6b842e50-22b1-4c24-979b-ec35cdb901a1,Tarak Soni,57,Mumbai,2025-01-18,Beauty,Iste Beauty,2,6584.84,Debit Card,Cancelled,13169.68,1714.83,11454.85
+212f2cf0-a379-4cce-9235-cfe6343f9134,689732d8-dfad-43c5-8e67-06d89a6a409e,Diya Murty,50,Mumbai,2024-09-11,Books,Rem Electronics,1,216.01,UPI,In Transit,216.01,47.96,168.04999999999998
+8a684ef5-5623-4d38-b715-ba2938c165d0,1ade24bb-5b6f-4c1f-a6d2-a04f407f19a6,Diya Ghosh,52,Delhi,2025-01-04,Beauty,Modi Beauty,1,5037.88,Cash on Delivery,Cancelled,5037.88,748.86,4289.02
+ee67dc9c-0592-486a-8bd7-a58e539318fd,fd5baff2-4596-4ff1-b81e-031792bac404,Osha Nadkarni,55,Chennai,2025-03-20,Clothing,Eius Books,1,4644.72,Debit Card,Cancelled,4644.72,375.91,4268.81
+4970250e-1bd4-449b-9db1-0e773953214e,950d3375-7d9c-4730-bb60-47734ce09e2f,Victor Nath,24,Bangalore,2024-09-13,Books,Illum Electronics,3,1393.04,UPI,Delivered,4179.12,295.15,3883.97
+dbfe881e-6b33-484c-8a13-26312d6b5bfe,416f0ecc-afdf-4c2c-82ea-a3300e090acf,Widisha Sibal,53,Chennai,2024-06-28,Books,Quod Books,4,3570.91,UPI,In Transit,14283.64,2322.26,11961.38
+ded3b6f3-01f9-4d03-a926-d31505b6c6ad,bc2d9624-27a9-466a-98c0-225cbc9a314b,Hredhaan Prabhu,28,Delhi,2024-07-14,Electronics,Molestias Beauty,1,6212.51,Net Banking,Cancelled,6212.51,1097.6,5114.91
+b7dfa88d-d020-460d-97b4-2e1d5fb6016c,0d4ec8b9-c667-4a53-81be-bb64ca3a95aa,Patrick Agarwal,40,Mumbai,2025-05-03,Beauty,Earum Clothing,1,8977.98,Net Banking,In Transit,8977.98,945.23,8032.75
+3be0e3fc-ad11-4e28-9f2a-62f15f3578b7,9867c1a2-1a10-4287-9939-5d9f829ba4d4,Ekanta Kamdar,23,Mumbai,2024-07-28,Electronics,Iste Beauty,3,1160.72,Cash on Delivery,Delivered,3482.16,488.13,2994.0299999999997
+4710656b-4bd6-4999-824b-fffd9e81df87,534dae4f-423e-4843-9c01-29da7693379c,Amara Thakur,45,Mumbai,2024-10-15,Electronics,Ab Books,4,9228.59,Debit Card,Delivered,36914.36,8332.29,28582.07
+8abc87de-34f6-49de-ac42-fe5180c25b54,c70fbded-b373-4cc0-99d9-d475e8dc589b,Atharv Palla,28,Delhi,2025-05-30,Home Appliances,Blanditiis Clothing,3,8232.92,Net Banking,Delivered,24698.76,4933.08,19765.68
+64f0d9cb-c3f9-4c6f-ac61-00beb3fbb7ee,a906d677-7c5a-4937-bb58-bfa95a9ebe1d,Omkaar Cherian,50,Mumbai,2025-04-29,Home Appliances,Temporibus Home,2,3149.66,Cash on Delivery,Returned,6299.32,536.57,5762.75
+d1636852-cbd1-41bb-bf9b-b937b49e796a,12946e01-8927-49c2-a850-9bd4d42d1e10,Garima Pillay,58,Hyderabad,2025-03-20,Beauty,Repellendus Clothing,4,3171.94,Credit Card,Delivered,12687.76,2528.04,10159.720000000001
+bdc3cd41-b6f9-40f3-ab60-0a7ee0dac622,e0f4c8a6-5b92-41bd-a247-55e5fa1b170f,Atharv Rajan,35,Mumbai,2025-06-17,Home Appliances,A Home,3,7237.38,Net Banking,In Transit,21712.14,4049.7,17662.44
+6ab54190-bd72-4d4f-ad8f-9fa60f523f34,874133ad-e38b-4cbf-b408-da4e47809055,Anya Dora,48,Delhi,2025-02-26,Beauty,Tempora Home,4,4242.52,Net Banking,Cancelled,16970.08,3867.54,13102.54
+ae8baaca-0440-4b7e-ba74-4b1f32ae70f6,4931f006-3393-499e-99ab-91e902a58d59,Samesh Hayer,41,Chennai,2025-01-03,Clothing,Officia Beauty,5,5314.79,Credit Card,Delivered,26573.95,3261.82,23312.13
+18377fa9-bad0-4a66-8544-026dffd801b1,65fbbe43-b193-44af-a5f9-39ca88d57410,Yashoda Chandran,35,Mumbai,2024-08-17,Books,Recusandae Home,2,9289.76,Debit Card,In Transit,18579.52,2255.94,16323.58
+6a4306ba-a576-4e8f-8d83-61c8af4f7549,3ebf47ea-53e4-4ae9-9100-8c8465d16a76,Ridhi Mitra,28,Hyderabad,2025-04-06,Books,Placeat Books,2,9620.85,Cash on Delivery,Delivered,19241.7,4253.87,14987.830000000002
+8395aa59-6533-4de8-a8d3-0089e462c642,917715c7-b461-4e60-9a88-a42bf1a4bf22,Reyansh Pandya,46,Mumbai,2024-07-28,Books,Voluptatibus Electronics,1,3717.25,Net Banking,In Transit,3717.25,887.95,2829.3
+d5e09be2-b6e7-4829-b564-82f5b3f92822,a6cb20e3-895c-4431-8bbf-3d6f68f6984a,Gopal Mody,55,Bangalore,2025-02-01,Electronics,Iusto Books,1,1143.65,Debit Card,Cancelled,1143.65,282.47,861.1800000000001
+9e210a0c-48ff-4e03-898a-a9822125a002,b7273d68-401d-4afb-81e0-d77900f80b5f,Jagrati Mallick,50,Delhi,2025-01-04,Home Appliances,Cum Clothing,5,5158.95,Net Banking,Returned,25794.75,5867.84,19926.91
+615af81f-279f-48ab-88aa-47664f67f817,c3be5175-4539-4c5d-9004-08447f059c5b,Sanaya Hegde,47,Chennai,2024-12-17,Books,Dolores Beauty,4,8053.56,Cash on Delivery,Cancelled,32214.24,5751.85,26462.39
+d9601eb1-0fa4-460c-acf5-70ed0199c3e7,d2ba83c4-f85c-4f9b-8763-1b9a4b319eae,Meghana Sura,51,Chennai,2025-01-20,Home Appliances,Vel Electronics,2,1755.29,Net Banking,Cancelled,3510.58,343.17,3167.41
+82aea6ae-1cf8-4614-80b1-69dc42b8b4c1,773fa8be-d374-45bd-a1d6-0d1ba673c577,Pushti Deol,18,Mumbai,2024-07-28,Electronics,Unde Books,5,7414.66,Net Banking,Delivered,37073.3,5269.26,31804.04
+abdcfb0c-a5d7-4024-9c43-efd1814e573f,f2e7aef9-b2b4-4a95-b8b8-ddaea2c94187,Janya Anne,53,Mumbai,2024-12-07,Beauty,Labore Beauty,3,888.33,Net Banking,Delivered,2664.99,199.38,2465.6099999999997
+f63ed82f-9c85-4ab7-a73f-5e4b8bbce3c1,fd2efd98-9878-48c2-bcc9-bb70c2042f61,Harita Memon,51,Delhi,2025-03-04,Clothing,Non Books,5,4877.19,UPI,In Transit,24385.95,3006.31,21379.64
+d62afb96-f548-41fa-b95b-86ea58c6c557,5d2c8e57-8c6b-428a-acbe-cb93809c701c,Hemangini Chaudhry,47,Bangalore,2024-08-18,Clothing,Vitae Electronics,3,8584.84,Debit Card,Cancelled,25754.52,5294.95,20459.57
+569d9272-74f4-4f45-a753-4c4c2020a21d,02e13acb-51c3-454a-8114-fe19d17ffe95,Idika Loke,41,Chennai,2024-12-08,Beauty,Sunt Electronics,1,5492.89,Credit Card,Returned,5492.89,916.62,4576.27
+c9546939-d7b7-4fea-8644-c9582240ecef,8ba46980-eefa-498d-8bba-aebe57bc9da9,Eta Venkataraman,19,Delhi,2024-06-29,Books,Temporibus Clothing,4,309.27,Net Banking,Delivered,1237.08,64.2,1172.8799999999999
+852756e0-2b8f-4e75-aed8-276607c9d22f,c2b0f95d-bf6b-450e-9baf-6ba268421f8b,Zehaan Ghose,27,Hyderabad,2024-09-23,Clothing,Deleniti Beauty,2,1227.4,Debit Card,Returned,2454.8,443.53,2011.2700000000002
+560b5735-fbe5-4b08-8979-24f61358d384,53f0efbd-7e3c-4b56-8122-e603d9a6611e,Oeshi Khanna,46,Delhi,2024-10-04,Electronics,Nam Home,2,8762.11,UPI,Delivered,17524.22,4340.48,13183.740000000002
+857ca1dc-00fe-4195-9807-0ed0dda6637f,789270ea-a8f5-4031-a386-a4ba95cffc0c,Omisha Kala,18,Chennai,2025-02-13,Electronics,Excepturi Beauty,5,3426.55,Net Banking,In Transit,17132.75,3783.35,13349.4
+ff88d9a3-46ef-4b8a-bf8d-2c9421af2641,aab4d8db-6f1d-4037-b8ca-233ee52393cd,Devika Dixit,49,Delhi,2024-12-27,Books,Modi Books,3,1112.73,Credit Card,Delivered,3338.19,751.03,2587.16
+334e882f-28d6-4d81-9a43-6c2c809edf0a,222c7160-2bcf-401f-9e62-5f3ff7bffa49,Bhavya Sehgal,55,Mumbai,2025-02-20,Beauty,Suscipit Electronics,1,7132.15,UPI,In Transit,7132.15,1280.8,5851.349999999999
+391019bc-2be4-4924-a489-2138134ac482,5783236c-1973-40a7-a6cb-3f5e495fb4f4,Qarin Agrawal,55,Hyderabad,2025-06-06,Clothing,Dolore Beauty,3,8748.98,UPI,In Transit,26246.94,3892.74,22354.199999999997
+ad0831bd-d3bd-4ffe-8132-a7e958f1880e,51bf66b5-415f-4f24-adb0-aa4e12663214,Netra Majumdar,32,Chennai,2025-05-04,Electronics,Expedita Books,1,8512.25,Net Banking,Cancelled,8512.25,666.38,7845.87
+debdbe23-aeed-4bd4-93ed-e6581998047e,ca149dc2-351a-480b-82ba-edfa5fa3ad8e,Wyatt Ahluwalia,18,Delhi,2024-11-07,Electronics,Error Electronics,5,7221.23,UPI,Returned,36106.15,4548.29,31557.86
+fd9a709d-cc31-4b2f-ac23-2753abc1c55a,5935fffb-0111-46e9-bbf2-8420cf392c87,Lajita Deep,35,Chennai,2024-12-26,Clothing,Ex Beauty,2,4463.85,Credit Card,Cancelled,8927.7,703.61,8224.09
+5417758d-8776-46f5-9352-d0956304065b,d045b0e4-1ce0-4dac-a246-78448764de92,Chaman Rajan,37,Mumbai,2024-10-10,Electronics,At Books,1,9380.04,Net Banking,In Transit,9380.04,1067.98,8312.060000000001
+53573f13-3dd1-48b0-9ed4-8983d8d24789,c6fd0e51-3e10-495e-8b2e-9b68249d2d36,Ishaan Konda,59,Mumbai,2024-07-24,Books,Quia Beauty,5,8413.72,Cash on Delivery,Delivered,42068.6,10235.1,31833.5
+77b51639-59ea-4040-9c4d-2a4649992f5e,71f1f3fb-a3a2-435b-bd9a-671279b6d4f9,Meera Pradhan,44,Bangalore,2024-11-12,Books,Ad Beauty,3,651.85,Cash on Delivery,Delivered,1955.55,333.85,1621.6999999999998
+99d2cab4-7fec-449e-8fb8-e9d54caa0b92,dc1ec133-7d11-4647-8958-48309c34e375,Banjeet Pal,56,Hyderabad,2025-02-10,Books,Sint Electronics,2,4643.74,Net Banking,Returned,9287.48,1389.99,7897.49
+9011bfd8-111f-487e-a2d1-9310cbf90227,44fa577d-f336-4702-9b70-48a062d3255b,Zehaan Deol,27,Chennai,2024-06-26,Home Appliances,Numquam Books,1,7585.08,Credit Card,In Transit,7585.08,1722.96,5862.12
+8f7533f8-35d3-4eec-b4f2-8d1bc9049b01,5a7a0ff4-7b7f-4b7a-ab19-5b31ac9255f6,Aarush Upadhyay,58,Bangalore,2025-01-19,Electronics,Illo Books,4,2197.38,UPI,Cancelled,8789.52,734.09,8055.43
+674a33fb-c64c-49f4-80b4-4a057ebed714,7449ace1-4b26-4859-9048-d6a8d6ed7867,Pushti Bandi,45,Bangalore,2024-10-23,Beauty,Nisi Books,3,9574.79,Credit Card,In Transit,28724.37,1510.14,27214.23
+8cc704fd-3506-422c-a873-58149b02eceb,8119421c-3ff7-4453-a2c9-b8506e4559ab,Nandini Dugal,58,Mumbai,2025-02-15,Clothing,Ut Electronics,4,3138.19,Debit Card,In Transit,12552.76,2664.06,9888.7
+e45e5392-ca4e-4e5f-b361-770e24be4140,f28ad4a5-331f-4f9b-a3e5-3aa134e7918d,Balhaar Bhattacharyya,22,Delhi,2024-11-05,Clothing,Eveniet Clothing,4,4343.13,Credit Card,Delivered,17372.52,2278.93,15093.59
+1e78c689-8d29-455d-baf6-e93801351cd6,66f7b130-3127-4722-8a52-419018576b41,Januja Grover,39,Mumbai,2024-08-01,Beauty,Et Electronics,5,5192.72,Debit Card,Cancelled,25963.6,3412.64,22550.96
+912caec3-6ccc-4b36-8b0b-207866027718,8afedd6a-76c4-4353-85b7-cb3850629ad0,Isaiah Chada,29,Hyderabad,2025-02-24,Clothing,Quia Clothing,5,3224.23,Cash on Delivery,In Transit,16121.15,1534.16,14586.99
+1ac93465-fd32-463d-b69a-2d111336fe70,c816925e-95e1-4a75-910f-3e9c697950d6,Devika Shroff,45,Delhi,2024-08-20,Electronics,Eligendi Home,3,8002.54,Cash on Delivery,Cancelled,24007.62,2795.95,21211.67
+e9ee77e2-2097-46b7-bb2c-b7a84029fd13,cf51fcc5-9080-450c-a167-fbdf385c87bc,Jeremiah Konda,38,Mumbai,2024-10-20,Electronics,Blanditiis Home,2,9578.75,Cash on Delivery,Returned,19157.5,1823.27,17334.23
+badadb5b-4079-4e4c-aa76-f6182fa4d18a,96731708-399d-4bf3-a747-377355ee5815,Ucchal Cherian,47,Bangalore,2025-05-12,Books,Dolores Home,2,2354.76,UPI,Cancelled,4709.52,976.45,3733.0700000000006
+adbf579a-a95f-407a-b01f-eab352305576,17a69499-7f69-4eac-a659-a164037fc89e,Yashodhara Acharya,29,Hyderabad,2024-08-17,Beauty,Animi Beauty,4,6235.99,Credit Card,In Transit,24943.96,5353.38,19590.579999999998
+ce4d1862-332d-4deb-9f09-8e601043e0eb,08290298-0dc5-481d-8f6a-6d099a04a571,Brijesh Narang,41,Chennai,2024-07-24,Electronics,Quod Electronics,1,5916.41,Cash on Delivery,Returned,5916.41,306.8,5609.61
+bbb62856-3bf0-4501-906a-74bc1902f61f,23b95716-ea33-4320-a47d-2fed5fe0231f,Bina Keer,28,Delhi,2025-05-19,Home Appliances,Doloribus Home,2,9245.09,Cash on Delivery,Cancelled,18490.18,4309.28,14180.900000000001
+a1d1c838-09cd-40f9-9384-a8fd9ea9de80,b6659eca-5875-44a7-bdae-94ab26ce6be2,Odika Choudhry,47,Chennai,2024-09-16,Clothing,Corporis Books,3,6952.26,Debit Card,Returned,20856.78,1323.11,19533.67
+1bddf34f-03df-4af1-b516-c240abb3523f,3e1fc536-c51d-427f-a4ab-4569e190e850,Baljiwan Sridhar,44,Chennai,2025-04-29,Home Appliances,Iure Electronics,3,7227.6,Debit Card,In Transit,21682.8,2020.17,19662.629999999997
+e8c2a7b1-e6cc-434c-8713-976e86364929,cda29c44-57f8-47b3-95f6-26912ccd824f,Frederick Malhotra,45,Delhi,2025-05-01,Books,Consectetur Clothing,1,1749.64,Cash on Delivery,In Transit,1749.64,434.45,1315.19
+5ac4e7bb-17d8-461c-a12d-0617dba46d44,63366671-7b5b-4ac0-9a59-1a4f752271e0,Michael Kannan,23,Bangalore,2024-07-27,Books,Eligendi Electronics,5,7687.15,Net Banking,Returned,38435.75,3564.49,34871.26
+9722367b-5cde-45a2-9b6d-b89c74518c68,0f1eb533-631e-4ff6-b286-6d2eaea3d2e1,Utkarsh Sahni,27,Chennai,2025-03-26,Electronics,Tempore Clothing,3,1961.7,Debit Card,Cancelled,5885.1,557.54,5327.56
+bbf92ec7-c0e9-4399-b761-5bfbc03a9746,f9d4e390-1f9c-44be-92a0-651265c9c7f8,Banjeet Chanda,55,Bangalore,2025-06-11,Books,Ea Clothing,2,6331.06,Cash on Delivery,Cancelled,12662.12,1310.9,11351.220000000001
+fd9be77a-6860-4e6e-aff3-aecac3f6f865,baedd494-fa72-44a3-b63f-9648b4ea93b0,Matthew Golla,50,Hyderabad,2024-11-12,Clothing,Nobis Clothing,2,9376.93,Debit Card,Returned,18753.86,4167.6,14586.26
+ed85281a-546a-476c-b679-76a59997c6e3,a3bef268-7455-46c2-8955-3236dfcbc444,Chasmum Sathe,20,Bangalore,2025-05-24,Electronics,Pariatur Clothing,4,281.62,Debit Card,Returned,1126.48,170.4,956.08
+941a9a50-0319-4eaf-82d8-b277bb404d68,bd246a58-16f1-4ef2-8ba2-1fd953a55366,Yutika Bhat,51,Delhi,2024-09-01,Beauty,Debitis Home,4,2389.58,Debit Card,Cancelled,9558.32,1736.18,7822.139999999999
+c9620939-4720-4df5-ac65-558517068e55,e2503c12-304a-4262-a2c3-d94f482aa1ba,Yachana Hegde,37,Delhi,2024-08-23,Home Appliances,Nulla Beauty,2,5560.94,Cash on Delivery,In Transit,11121.88,1824.91,9296.97
+c85e5a97-151b-40ac-81eb-9b2fbbb84036,d79dd834-3b83-4aad-8273-68eadd6ab6da,Urmi Roy,29,Mumbai,2025-01-17,Beauty,Hic Books,2,9392.12,Cash on Delivery,Cancelled,18784.24,3721.61,15062.630000000001
+e3f44b65-85a0-41f0-a13a-4af1f8c2b13d,98bf0d18-ca60-44cb-9779-b89380ece15e,Isaiah Vohra,49,Hyderabad,2024-07-12,Beauty,Id Books,2,5923.85,UPI,Delivered,11847.7,2594.21,9253.490000000002
+505eea08-f308-4c4e-86ea-aa566093168b,a7e58627-0c2f-402f-bd04-558024060142,Aadi Kumer,50,Delhi,2025-06-10,Home Appliances,Vero Clothing,2,2207.24,Cash on Delivery,In Transit,4414.48,956.37,3458.1099999999997
+8ae006c8-9925-4d8f-8f08-ac4e8493df92,2cde733b-e1b4-489a-a7a6-df31311d41ac,Fitan Kurian,58,Hyderabad,2024-10-30,Books,Deserunt Electronics,3,6693.12,Net Banking,In Transit,20079.36,4099.29,15980.07
+1217bf26-1f9d-482f-aa04-33ca7c220f9c,fb81b6d1-5842-4523-aa76-9986b1a07fd2,Upadhriti Pant,41,Chennai,2025-02-25,Home Appliances,Fugit Clothing,5,2063.99,UPI,Delivered,10319.95,1909.91,8410.04
+f8d0e687-d2a3-49e6-92d9-3a2027354e61,b30288f3-3fc7-4f6b-92b5-79cc1d79e0ec,Baghyawati Walia,31,Mumbai,2024-06-28,Books,Ab Beauty,3,4158.79,Net Banking,Returned,12476.37,1989.08,10487.29
+ccc380a4-573a-4833-9a7a-5633280b7288,d0e607f0-41cc-455b-be74-f4ff24e18d9d,Dalaja Sahota,35,Chennai,2024-10-08,Beauty,Magni Clothing,4,973.82,Credit Card,Returned,3895.28,899.18,2996.1000000000004
+da67df2a-d0d3-4008-859b-a65a609ae49b,4be89504-aa21-4f7c-acfd-0b62916d716e,Shivansh Kara,50,Bangalore,2025-02-14,Electronics,Ipsum Electronics,1,2885.85,Debit Card,Cancelled,2885.85,718.07,2167.7799999999997
+2d3ac60f-4335-4052-aba5-c9d33df35fd2,938d9a0b-42f2-4b2f-9cbf-c6b187adb18b,Anjali Taneja,23,Chennai,2024-07-16,Clothing,Porro Beauty,3,3439.01,Net Banking,In Transit,10317.03,2247.09,8069.9400000000005
+02ca1ece-0b38-4933-aa56-551f3379d245,5ac01a25-423f-4d3f-8ba2-e54f1456bf98,Zinal Boase,32,Bangalore,2025-06-04,Home Appliances,Labore Electronics,3,9325.68,Debit Card,Delivered,27977.04,3359.69,24617.350000000002
+f95dbd9f-180e-411c-bd2a-84cceab9845a,b983a676-bfde-41f9-8f75-8d86d1d83b15,Chaitaly Wali,44,Mumbai,2024-10-09,Home Appliances,Modi Clothing,5,6895.7,Debit Card,In Transit,34478.5,5819.64,28658.86
+7dcc66b2-0eac-4eef-9045-2843cd042e02,9e6751b2-b1f5-4c2a-a307-4169079dd529,Bhanumati Dhillon,20,Hyderabad,2024-06-28,Books,Quod Clothing,5,9451.45,Net Banking,In Transit,47257.25,4943.16,42314.09
+87259cbb-88be-434d-b1ee-48732508fbd1,252d33ee-8726-4907-b572-372af93b56f1,Nidra Kapoor,50,Hyderabad,2024-11-06,Home Appliances,Nam Electronics,2,3698.42,Debit Card,Delivered,7396.84,987.35,6409.49
+4706a33f-9556-4995-ac22-10d9c089a3ab,9ef9df81-fd87-4690-8ff9-f2d7f42b38db,Nitara Sridhar,42,Mumbai,2024-06-25,Electronics,Similique Clothing,5,1566.83,Credit Card,In Transit,7834.15,1046.97,6787.179999999999
+8d95915f-5d0b-4f86-938c-a24df6c0e7ce,9de6827c-ff1b-49e5-a4d7-a33e5c8d04eb,Bina Mohanty,52,Hyderabad,2024-09-20,Electronics,Necessitatibus Clothing,1,9971.72,Net Banking,Returned,9971.72,945.6,9026.119999999999
+e962819c-550f-4f3c-b24d-0c4e133d00ab,b40f5da9-de32-4529-8cc5-0361d1bdf9ce,Manthan Yogi,35,Delhi,2025-04-12,Home Appliances,Vel Clothing,3,5796.97,Cash on Delivery,Delivered,17390.91,3215.81,14175.1
+846f77f3-bab2-496f-9a4c-7d3c84140d53,636e4827-afd3-424d-a117-97fb3ccc8a6a,Tarak Choudhry,23,Mumbai,2025-03-02,Home Appliances,Vero Clothing,4,1288.56,Cash on Delivery,Returned,5154.24,1036.59,4117.65
+801adc04-f716-4976-bcce-a8dae3eebe77,9f88157d-1dd3-47d0-855a-1de71ac46a49,Gagan Pandya,57,Hyderabad,2025-02-10,Clothing,Id Beauty,2,3800.55,Credit Card,In Transit,7601.1,1185.86,6415.240000000001
+59f29321-36dd-4ad1-90c3-14875a04b289,fac69a3b-0610-4fe7-a6ba-b0f815bbe786,Luke Shroff,52,Chennai,2024-08-11,Beauty,Iure Home,3,9462.47,Credit Card,Returned,28387.41,5394.57,22992.84
+4a9e5995-53bc-4aca-b139-8c29a60c32ed,9ecd7fbc-06ce-413b-bdd9-957981d15a29,Ayushman Chaudry,36,Delhi,2024-12-03,Beauty,Assumenda Books,3,5223.04,UPI,Cancelled,15669.12,2737.83,12931.29
+a38f534f-23bf-4bd4-aac2-d9d20173d7ab,1ff292bf-f705-43ec-b5c5-772e776a73d0,Isaac Sinha,58,Hyderabad,2025-05-26,Clothing,Deleniti Home,3,6435.16,Debit Card,In Transit,19305.48,4034.32,15271.16
+8a263d9e-2eec-478b-8fdc-1d73e6941567,47d0455e-c02e-4421-9189-9b58f51b8fc4,Luke Karnik,45,Hyderabad,2024-10-12,Beauty,Enim Books,4,2578.13,Cash on Delivery,In Transit,10312.52,1108.63,9203.89
+4db90fab-f2bb-42bd-b9fc-bed89f838113,86546ed4-1624-4421-83be-3139d3fdcc58,Naksh Halder,27,Mumbai,2025-02-04,Beauty,Enim Books,4,463.13,Debit Card,Returned,1852.52,104.82,1747.7
+9d3f7e3c-9a36-4b30-a859-4e0b3abfc8d2,b1e46f39-5777-496c-a9fe-dfcf1e5a2eb0,Falan Pradhan,28,Hyderabad,2024-09-13,Electronics,Saepe Home,2,9454.38,Net Banking,Returned,18908.76,4656.32,14252.439999999999
+c031bfd1-c848-4c8e-bfe3-51668e7deaae,b9d011e4-c3d9-4470-9b1a-0e98024dc74e,Damini Aurora,59,Mumbai,2025-04-01,Clothing,Quidem Electronics,4,6350.01,Cash on Delivery,Returned,25400.04,3728.63,21671.41
+e4e7c6af-aea0-40ea-856a-f686136977bf,20a49f5f-cb97-4e85-bf1c-daf4cf47e8dd,Chanakya Madan,34,Bangalore,2024-10-14,Home Appliances,Repellendus Home,3,7323.27,Debit Card,Delivered,21969.81,4880.44,17089.370000000003
+a8ef5e4f-11ec-4f3e-845e-9dac1a758d3c,a26b1715-e75a-401c-bdd0-1e64db0b6f7a,Rajeshri Handa,56,Hyderabad,2024-12-08,Books,Impedit Electronics,4,8354.79,Cash on Delivery,Cancelled,33419.16,4729.05,28690.110000000004
+843b0744-6776-40b5-b001-cd3aa073ee7e,285a8cbd-5280-4a30-b590-5f0a4180b8f1,Baljiwan Bose,34,Delhi,2024-09-23,Beauty,Iusto Clothing,3,8885.17,Net Banking,In Transit,26655.51,5640.77,21014.739999999998
+f1d6677d-f4a1-40fb-8f37-f78063930e76,09edca43-40a2-4d8f-aed4-03cfaf58b4ab,Girish Chada,51,Mumbai,2024-09-29,Books,Provident Electronics,1,1333.15,UPI,In Transit,1333.15,149.21,1183.94
+ecb3719b-8042-4795-886a-21dc5594c544,908d0ca4-19f9-4dac-b873-2e17fe99fec9,Umang Behl,44,Mumbai,2024-09-30,Electronics,Quos Electronics,2,5615.38,Debit Card,Returned,11230.76,1706.06,9524.7
+90fe0f0e-95c8-4c13-a881-f5758f1a8757,1c2d8244-0c47-4b3b-940a-0f21b94a69ac,Zarna Jayaraman,24,Chennai,2025-01-02,Books,Accusantium Clothing,2,3846.8,Net Banking,Returned,7693.6,1279.34,6414.26
+dc9c28e9-a4fd-430c-88c7-bd67832880da,52383b43-2b3e-41b4-a987-56b6368609af,Andrew Murty,23,Hyderabad,2025-06-16,Home Appliances,Sit Books,4,9051.73,UPI,Cancelled,36206.92,6161.39,30045.53
+d469fb09-fbc5-4921-ac72-3ecbc4f287e8,c9fffede-87b8-4a94-a180-f4dc497b7813,Mason Mishra,56,Hyderabad,2024-11-30,Electronics,Quos Beauty,2,1390.61,Debit Card,Returned,2781.22,269.6,2511.62
+093493b6-e1ad-402b-bfb3-ca7d72944fe9,808b69d5-6f46-48fc-9bea-487a00c14104,Jai Edwin,22,Hyderabad,2024-09-08,Beauty,Reprehenderit Beauty,4,9508.72,Cash on Delivery,Cancelled,38034.88,8182.39,29852.489999999998
+576918c8-a561-4564-96ff-f628e512283c,77d04c57-95ff-43d3-ac44-fef13f2df9c8,Zilmil Swamy,28,Mumbai,2024-11-06,Clothing,Consequuntur Home,3,4342.9,Credit Card,Cancelled,13028.7,1707.63,11321.07
+456626a2-7ef9-4fcf-a48e-c717ad12c62b,ec0cc8c0-3479-4d9b-973a-b39611a54a11,Hemal Chadha,50,Delhi,2024-12-31,Electronics,Error Beauty,5,1530.18,Net Banking,Cancelled,7650.9,1676.92,5973.98
+170c610f-3553-4ae7-9d36-2b473fb748af,b5151165-5f00-409a-81a6-0c306b88ff0a,Chasmum Ramaswamy,32,Hyderabad,2025-06-14,Home Appliances,Dolorem Clothing,3,2606.04,Debit Card,In Transit,7818.12,1949.83,5868.29
+baf98449-f908-4cbc-87ec-6285929ac540,49a19caa-db50-4f45-acd8-86917bced01e,Isaiah Vasa,44,Hyderabad,2024-08-14,Home Appliances,Veniam Home,5,1920.6,Debit Card,Cancelled,9603.0,1622.75,7980.25
+511fdd14-8fc8-42ca-b795-6dd45ecefc98,51f924bc-2b99-4024-aaaa-9d53b09d4d8e,Upma Narain,56,Bangalore,2024-12-06,Electronics,Qui Books,4,2020.53,Debit Card,Delivered,8082.12,1733.88,6348.24
+43799c62-fc5a-4649-ad2d-8fb7e8f4d3b1,289beda3-b488-4cd1-8a41-d2fe5b7dc979,Raksha Sehgal,24,Chennai,2025-03-08,Electronics,Sequi Electronics,2,1171.41,UPI,Cancelled,2342.82,198.0,2144.82
+475b1a26-24c0-4d2d-8f35-9c692ab844e2,c2f04a55-8dd1-4ff0-bbfd-053e9c4ed0dd,Sara Ratti,59,Mumbai,2025-05-26,Books,Assumenda Home,3,7447.82,Credit Card,Returned,22343.46,2471.21,19872.25
+6be752aa-3594-4694-a8be-7162bb6ae49c,0978fefe-69aa-4741-a708-e4db9514ea14,Bhavna Kara,41,Mumbai,2025-03-13,Books,Nobis Clothing,2,9830.0,Credit Card,In Transit,19660.0,2282.29,17377.71
+8db80277-002c-4307-a4ae-8ddfc68c01ce,9c114141-7582-40a7-a4a2-9cfb6e58e6dc,Champak Sharaf,35,Mumbai,2025-06-06,Electronics,Saepe Electronics,4,6874.2,Credit Card,Cancelled,27496.8,4809.67,22687.129999999997
+9ccbf2ab-7b9c-499e-b15d-4af1a6bf6c37,c759d0f1-955d-461f-973a-e8f8e5647621,Suhani Dhar,28,Bangalore,2025-05-06,Beauty,Libero Home,5,2464.88,Credit Card,Delivered,12324.4,1058.71,11265.689999999999
+aeeca6e0-a973-4e01-bd23-f43588e97763,68040683-7b31-4c3a-b0b3-e7d4b3af1764,Oviya Venkatesh,49,Delhi,2024-08-22,Books,Amet Home,5,7891.55,UPI,In Transit,39457.75,3980.52,35477.23
+9a35651c-0538-4e74-86f1-0ed9b12ff45f,80913e9e-e04b-41bf-8330-01122dde1be8,Bimala Sha,45,Bangalore,2024-07-13,Electronics,Quos Home,3,3475.48,Net Banking,Returned,10426.44,1148.04,9278.400000000001
+5e45b422-f06d-4036-8bb1-c2faefa256a7,e376e987-deb1-4fc4-918a-e894e8e59dbb,Damyanti Kamdar,59,Bangalore,2024-11-27,Home Appliances,Nostrum Books,2,5522.45,Net Banking,Cancelled,11044.9,1903.45,9141.449999999999
+b0c32615-2560-4c20-80ac-a0954bbef28f,5ca97ad7-0bb4-46c7-b4e1-f46332dd44d7,Hemangini Lala,49,Mumbai,2025-05-30,Clothing,Doloribus Books,5,9727.21,Credit Card,Cancelled,48636.05,8673.98,39962.07000000001
+4b3a4856-bdd6-46da-9be4-8852ccc83376,4c6f945b-5d1b-4ddb-b50a-547d741d6c76,Nakul Saran,21,Hyderabad,2025-02-10,Electronics,Non Clothing,4,3580.72,UPI,Returned,14322.88,2447.67,11875.21
+7347e7fe-4fe9-4d25-b480-8ce650a7cf12,160d4480-53c1-4a98-81d8-ada55dd8ab33,Kala Mani,38,Hyderabad,2025-04-30,Clothing,Vero Beauty,2,1408.75,Cash on Delivery,In Transit,2817.5,426.38,2391.12
+095b42d9-b48d-455e-b21c-bd4ad4650c99,b77f30b6-c255-4c42-82ac-443a7472889f,Saanvi Bera,54,Delhi,2024-10-08,Books,Repudiandae Clothing,5,1605.77,Credit Card,Cancelled,8028.85,1139.15,6889.700000000001
+790b5835-fd93-4104-9aba-fd9cc817c17f,702b6347-64b9-4ec8-97fd-90b7ba7ec16e,Agastya Chaudry,28,Hyderabad,2025-03-03,Home Appliances,Accusantium Books,2,8179.44,UPI,In Transit,16358.88,1194.07,15164.81
+246033d4-2af9-47c9-8d71-6fc6c8b2e513,4a4bc4fc-a031-4a28-a427-35fdfc9f2b7e,Vyanjana Kurian,28,Chennai,2025-02-28,Beauty,Placeat Clothing,3,6510.3,Credit Card,In Transit,19530.9,1442.76,18088.140000000003
+22c51d44-869f-4259-b1c8-74f7586c10dd,d6358ea7-6a8a-4399-b58f-32086000a1ec,Hitesh Gala,52,Hyderabad,2024-08-14,Books,Dolores Beauty,2,5393.14,Cash on Delivery,Returned,10786.28,795.18,9991.1
+c378f73e-6c21-474b-9bc6-7fc9a9b235a2,c6849db1-8333-475b-9b79-964cbc12a4b3,Ishani Mani,44,Hyderabad,2024-08-01,Beauty,Non Books,1,6339.95,Debit Card,Returned,6339.95,1033.12,5306.83
+9ea48f31-3fc9-43f2-a5b8-0e45fef2576d,169de5ad-35ef-443d-83a2-7bdaffbf959a,Nitesh Kadakia,26,Chennai,2024-09-24,Books,Inventore Books,2,9567.75,UPI,In Transit,19135.5,2491.98,16643.52
+5c893d37-213d-4f31-a0c6-8a2ebc61e746,efa3187d-8bf7-4078-9988-78ff6fab793f,Ekapad Palla,33,Delhi,2025-05-19,Beauty,Asperiores Electronics,2,3945.44,Debit Card,Returned,7890.88,925.58,6965.3
+d06f1ac9-df0a-4317-b3e2-8fe2840c6614,0a0a3c15-50a8-4be9-9511-d2522a2a9831,Rachita Kala,57,Hyderabad,2024-11-22,Electronics,Impedit Books,5,9060.5,Cash on Delivery,Returned,45302.5,6070.26,39232.24
+55302240-f5b1-4483-bab1-d78ff94eb854,01ef2e53-e548-448e-bf59-e77feb2d24a4,Chakradev Ghose,39,Mumbai,2024-06-26,Clothing,Commodi Beauty,4,9219.41,UPI,Cancelled,36877.64,4213.06,32664.579999999998
+9b5e7095-6efd-4288-be45-b3d82d78a611,087d3a3a-79d0-467b-b9e8-7142c485a3f5,Widisha Prasad,53,Bangalore,2025-02-16,Beauty,Temporibus Books,2,7611.91,Debit Card,In Transit,15223.82,2071.54,13152.279999999999
+401a12f0-3f6b-4324-a378-d9fac8ffaeb0,897503d4-1272-48ad-a5c1-30f483affa2a,Zayyan Mitter,33,Hyderabad,2025-02-28,Clothing,Repellendus Home,2,9201.27,Debit Card,Delivered,18402.54,1806.96,16595.58
+408eda08-b2a6-4c07-bc0a-51b609ef6f7c,81404c5a-25d2-47f0-8e2c-3600851ffc2a,Quincy Luthra,33,Mumbai,2024-12-10,Books,Vel Home,2,7708.8,Net Banking,In Transit,15417.6,2477.65,12939.95
+787be280-2edc-4243-ab61-6f04d696294d,ee7bb9c7-8557-4ee5-a641-cf7a49a6137b,Bishakha Kapadia,56,Mumbai,2025-02-22,Beauty,Amet Electronics,4,503.44,Credit Card,Cancelled,2013.76,267.25,1746.51
+8fd643d5-4a18-4084-aa74-7562f7c1bb9a,6704a1f0-f0f0-446a-b0e7-8247be7a35d6,Girindra Chawla,26,Chennai,2024-10-01,Home Appliances,Labore Clothing,2,9916.66,Net Banking,Returned,19833.32,4657.8,15175.52
+5fff0690-2644-47ac-aa71-6dd2497e415f,e0321479-b757-4a7c-bf3f-3bd01fd554cf,Nidhi Srinivasan,30,Bangalore,2024-08-26,Books,Quis Beauty,5,5243.55,Debit Card,Cancelled,26217.75,5671.94,20545.81
+6b584fad-38cd-46eb-83a0-111e39d0128f,0ee8a686-d088-4400-9cf0-96abc156b8de,Zilmil Dhillon,33,Bangalore,2024-12-12,Electronics,Modi Home,3,4267.39,Debit Card,Cancelled,12802.17,2812.51,9989.66
+59704672-adce-4051-aa15-c2130b43be28,1a59192a-1506-49af-82e5-a3e395fe18a4,Samarth Gopal,28,Delhi,2025-01-24,Books,Perferendis Electronics,5,8067.03,Net Banking,Delivered,40335.15,6158.82,34176.33
+6e62099d-1bac-4831-b538-543ee0a6e9af,e083c0fc-7dae-46a2-8cb4-c6eba78f4ab9,Ishanvi Bath,58,Mumbai,2025-03-24,Home Appliances,Tempora Electronics,2,7708.65,UPI,Returned,15417.3,1408.27,14009.029999999999
+6d3ada44-c5b3-44da-937c-07cf42054278,009b6caf-94c3-4828-8a5b-a59d3a3eeea1,Arya Chaudhary,59,Mumbai,2024-10-10,Beauty,Voluptate Home,1,3543.66,Cash on Delivery,Delivered,3543.66,447.38,3096.2799999999997
+a1f9e9fb-79c5-457b-ab4b-dc8a600784c0,05adfffb-a539-4360-a649-9a2c172d48cb,Aashi Rao,35,Mumbai,2025-02-19,Books,Inventore Beauty,2,6961.13,Credit Card,Cancelled,13922.26,3279.48,10642.78
+5ca5b8fa-4e13-4341-95f6-c5725b079a3f,5d7a4377-5988-45cc-9531-4b51009584b4,Ladli Varma,20,Hyderabad,2024-11-05,Clothing,Cumque Electronics,2,9757.65,Net Banking,Returned,19515.3,3682.25,15833.05
+d7c8449f-3ec7-4a3a-96ce-729551ccd268,95c174e7-0ac4-43ce-94eb-d09bb7f59481,Bina Thakur,35,Mumbai,2024-10-09,Books,Nemo Books,2,2107.48,Credit Card,Delivered,4214.96,296.57,3918.39
+c6c05b42-8390-42de-878c-16a23e0d8cd7,bc029f0f-7a08-4c9f-8402-e18d22c927da,Ikbal Shetty,47,Bangalore,2025-01-27,Clothing,Ipsa Books,2,2399.25,UPI,In Transit,4798.5,1177.24,3621.26
+d57059c5-0cd7-4e62-ad9e-960901a7984d,aa62cb40-ebef-4666-8651-0bb3f21272db,Samar Pandit,39,Delhi,2025-01-30,Home Appliances,Ratione Home,2,3756.19,Credit Card,Returned,7512.38,623.07,6889.31
+052c845b-c14b-459d-879e-940acf15499f,368b9fcd-9a17-475d-87be-47728bdc5e9a,Baghyawati Kari,35,Bangalore,2024-12-11,Beauty,Veritatis Beauty,5,4937.87,Net Banking,Delivered,24689.35,5145.52,19543.829999999998
+1251a59d-6d01-45a5-a14c-26fa5d9eaf33,06d5abe0-3c8f-45e0-8069-5d25a0f35081,Jackson Jhaveri,33,Mumbai,2024-12-15,Beauty,Quaerat Clothing,1,4265.19,Credit Card,Returned,4265.19,1061.63,3203.5599999999995
+f00ff398-45e7-4c65-ad15-0e6db9e08efa,7872b7fa-2f1c-40ce-a2d5-9264be700f3f,Darsh Kurian,26,Bangalore,2025-03-23,Electronics,Id Beauty,1,2816.86,Net Banking,In Transit,2816.86,394.09,2422.77
+66943346-bcf2-4522-b110-9592577a557b,f89f71ae-4b3c-4478-96d8-325a29814167,Vinaya Wali,27,Mumbai,2025-03-10,Clothing,Explicabo Books,4,8056.28,Debit Card,Delivered,32225.12,3897.46,28327.66
+3241e228-44e0-4482-ba95-5cd08f9b3b73,8d4af82e-6668-427d-8e3b-f3663744eed9,Shivani Chad,50,Chennai,2025-01-29,Electronics,Voluptates Clothing,3,2572.43,Debit Card,Cancelled,7717.29,1092.0,6625.29
+8d8f3e8f-2afc-4942-a404-e85ab006835a,308da250-5049-469b-884e-8ea5d6e85cf6,Falan Luthra,30,Mumbai,2024-07-06,Clothing,Voluptate Electronics,5,6928.05,Net Banking,Returned,34640.25,7639.98,27000.27
+7b880163-8b3c-4940-8b54-f0787df3020c,e5aa166c-802b-4d4c-a4ce-ca035042c293,Advay Bera,32,Mumbai,2025-04-12,Clothing,Laborum Clothing,1,5450.56,Debit Card,Returned,5450.56,1138.61,4311.950000000001
+21a71391-7934-426d-857b-04f790bf3aeb,814dc7c2-a8d9-4247-ab67-9c16bf56dbe1,Samesh Goswami,35,Chennai,2025-02-06,Electronics,Nam Books,3,4107.52,Credit Card,In Transit,12322.56,1593.78,10728.779999999999
+9da10e2d-e154-4814-a7c0-e26a789339be,9d2299d9-de01-49b7-8ed9-4241eff063f0,Jatin Deshpande,35,Bangalore,2025-04-04,Beauty,Suscipit Books,3,9767.94,Net Banking,Delivered,29303.82,1905.93,27397.89
+020189cb-fd00-493a-94e9-f2483687e44a,05937799-8945-4380-9090-615f205c0fdc,Tejas Karnik,39,Mumbai,2025-02-14,Beauty,Repellendus Electronics,1,2454.7,Net Banking,In Transit,2454.7,590.68,1864.02
+afb09b51-8f4c-4427-8726-a7f15543cb6b,aa0876d5-86ec-4ef5-80da-73c49ea113cf,Anay Mohan,35,Delhi,2024-09-03,Beauty,Pariatur Home,5,7869.19,Net Banking,Returned,39345.95,9389.07,29956.879999999997
+12de85cb-7611-4577-9729-e5c8d7e1bba2,6ed71188-669c-485d-82c4-6ecf105429d7,Nathan Bassi,47,Bangalore,2024-12-15,Clothing,Officiis Home,4,1293.22,UPI,In Transit,5172.88,573.79,4599.09
+dcb336e3-8d18-4491-8e6a-e8fe4ef69d45,31ba64e6-408b-4d8b-b3bd-afb79767e695,Chaitaly Banik,42,Chennai,2025-01-18,Beauty,Commodi Clothing,1,2750.0,UPI,Cancelled,2750.0,347.64,2402.36
+4e9ee820-d30a-41a1-a620-910f1a7abbb2,f0f91232-aa3b-4327-b001-9f061c764d23,Chanakya Kaul,57,Delhi,2025-01-21,Clothing,Ex Electronics,2,7805.36,Credit Card,In Transit,15610.72,3758.17,11852.55
+b0a1eed3-ee34-4c49-8e55-c3e48de76c36,419a2447-af6b-4a2d-8404-fbe712923483,Pranav Bala,43,Chennai,2024-09-25,Electronics,Cumque Electronics,4,9011.71,UPI,Cancelled,36046.84,3311.27,32735.569999999996
+6e0ef4c0-dfd3-40d4-832c-9b22e9b04392,5ae52272-620f-4af4-823b-89a516a99fad,Jalsa Balan,37,Bangalore,2025-02-14,Beauty,Est Electronics,2,2015.97,Cash on Delivery,Delivered,4031.94,948.26,3083.6800000000003
+b7a75177-f1aa-4fab-b3cb-bc49e109e8ea,7044d8e2-50ca-49d3-9f91-641683b40c15,Liam Kale,44,Delhi,2025-05-09,Beauty,Perspiciatis Books,4,1889.97,Debit Card,Returned,7559.88,391.54,7168.34
+43002538-59ea-4b1c-b047-01052f76eb6b,7e12b27a-39e6-47f3-bc33-7eb74b7dfbec,Yug Banik,21,Mumbai,2024-10-08,Beauty,Odio Home,5,5374.62,Credit Card,Cancelled,26873.1,1571.06,25302.039999999997
+6a535df9-dfa9-4d9b-91b9-3c86e8489b75,cfa06baa-4955-4623-847f-eec5a56e1db7,Viraj Thaker,48,Mumbai,2024-10-11,Clothing,Mollitia Clothing,1,8776.67,Net Banking,Cancelled,8776.67,1698.83,7077.84
+a0777d04-0f44-4d5c-978b-aa8bfc105a64,2d183946-1814-4864-b27b-afbe42d525ec,Sarthak Sule,49,Hyderabad,2025-01-12,Books,Repellat Books,4,5732.32,Credit Card,Delivered,22929.28,4776.24,18153.04
+65819e86-c59f-4350-92c2-9f9c704780ce,46c6e088-f56c-48be-88e8-8f469539d3b2,Jagvi Naidu,41,Mumbai,2025-06-14,Home Appliances,Similique Books,2,3424.5,Net Banking,Delivered,6849.0,564.44,6284.5599999999995
+e1d5b712-10aa-4b15-bd9d-b2c55ac93b87,399fa701-83a5-48ae-8369-dce0c41473de,Ishanvi Palla,30,Bangalore,2025-02-04,Home Appliances,Tempore Clothing,2,1812.6,Cash on Delivery,Delivered,3625.2,623.21,3001.99
+93ae5937-b15f-4086-b54a-7da87fec5332,1deb8240-f34d-4eb7-96a4-3fff017724a0,Lavanya Chanda,38,Bangalore,2025-03-30,Home Appliances,Quisquam Clothing,2,1521.23,Credit Card,Delivered,3042.46,499.53,2542.9300000000003
+4cb2b0e9-bbcd-4933-a140-487ca37d24b6,1c1b6f9a-000a-4c79-b961-4ff796aadc80,Chandresh Badal,51,Chennai,2025-04-07,Home Appliances,Autem Electronics,1,1186.88,Cash on Delivery,Delivered,1186.88,243.14,943.7400000000001
+1c1a10f7-2ef7-4ac1-8c37-44f8bd52470d,ee608553-26ee-4c16-a209-3e4c6d950ac4,Yauvani Mani,45,Mumbai,2024-11-05,Home Appliances,Occaecati Beauty,5,5569.87,Debit Card,In Transit,27849.35,6753.79,21095.559999999998
+d2ef90ca-c672-43ca-9433-f17cd46786c3,c4486268-eff4-4fe4-a486-56b76a56cb15,Harinakshi Bhakta,23,Hyderabad,2025-01-09,Books,Vitae Clothing,5,8282.53,UPI,Delivered,41412.65,7840.08,33572.57
+ea0c02a4-82bb-4dcf-ac12-7068bb22fe17,09f4c109-27c3-4648-8098-ecb9be1dc72f,Saanvi Bera,49,Bangalore,2024-09-18,Clothing,Voluptas Books,4,6555.74,Net Banking,Cancelled,26222.96,5568.07,20654.89
+a83f8dfc-2864-4799-9bb8-c063d6b300e8,3f60209d-23ad-4bb7-96f9-0c06290fc990,Xavier Nayak,30,Chennai,2024-12-22,Clothing,Impedit Clothing,5,1198.26,Net Banking,In Transit,5991.3,1050.45,4940.85
+be9c6e95-198f-4acd-a760-92bfb0d77e2d,e2e58ccd-32dd-4505-8285-dabe644df5b7,Mitesh Dugar,21,Chennai,2024-09-25,Electronics,Laudantium Books,3,6974.1,Net Banking,Delivered,20922.3,4080.61,16841.69
+9b99871e-38b7-4573-8e07-8861bfa5cbd0,573d5ab8-ca99-422f-8787-5a9176971833,Sai Sastry,22,Mumbai,2025-06-18,Books,Ab Books,2,2333.22,UPI,Returned,4666.44,980.48,3685.9599999999996
+53e1e27a-e9cc-4008-b0cb-0117b06d7c53,db5c4c52-d9f6-4f36-9240-2494277b097c,Abdul Mukherjee,57,Bangalore,2024-12-12,Books,Aspernatur Clothing,3,1703.04,Cash on Delivery,Delivered,5109.12,1253.35,3855.77
+c1e3222a-1c03-4aed-85c6-b89a80879513,af2a90c1-6083-4f58-90ef-bfcfd309bb15,Chatresh Bal,29,Mumbai,2024-11-16,Books,Numquam Electronics,2,7433.54,Net Banking,In Transit,14867.08,3479.98,11387.1
+4805dbf0-d452-4091-a889-f43ae7e86dde,50102d55-d670-4c13-aba5-33f67d39b644,Harinakshi Deshmukh,54,Mumbai,2024-07-08,Electronics,Aliquam Beauty,3,6493.03,Cash on Delivery,Cancelled,19479.09,2866.02,16613.07
+0c08f77b-a72d-4797-b033-ce908e12a883,c14ec528-9eba-474a-bcf3-4386389eab38,Shivani Puri,29,Hyderabad,2025-06-03,Beauty,Optio Books,2,1689.85,UPI,Cancelled,3379.7,726.73,2652.97
+5c583a43-86c8-4074-9539-6b7eb8fe476c,814309a1-7ead-48ed-9a24-0b97277419dd,Kala Ganesh,43,Bangalore,2024-12-27,Books,Occaecati Home,5,2998.68,UPI,Returned,14993.4,1065.56,13927.84
+ef7b9e23-b440-4434-b13e-6626c78e9882,601157cf-5cc2-4524-bf14-27baa93bba3e,Kamya Doshi,36,Delhi,2025-06-18,Books,Esse Home,4,9373.98,Cash on Delivery,In Transit,37495.92,4294.03,33201.89
+ba8a334a-150e-418f-b259-e9be4485bc2d,a9f5494d-e31c-4eca-b1f5-5f74db3a3380,Chanchal Thaker,35,Hyderabad,2024-11-26,Electronics,Dolorem Home,3,3341.62,Cash on Delivery,Returned,10024.86,2428.02,7596.84
+69e7e975-6e83-493f-ac28-fe169a3b0314,4dae33fe-064e-4ffc-a19d-a0914626094a,Pushti Upadhyay,25,Mumbai,2025-06-15,Books,Perferendis Clothing,3,9000.6,Debit Card,Cancelled,27001.8,2291.48,24710.32
+64ad618e-9e1e-4d60-a7c5-6965b1e8ebad,4bec1eff-b614-4c64-97c0-f28e165c27c2,Ekiya Nigam,33,Chennai,2024-12-25,Books,Facere Electronics,5,9034.0,Cash on Delivery,Cancelled,45170.0,5375.58,39794.42
+28fba65f-826c-4484-a555-3d8113838817,e5f2dc15-89e4-4571-9585-f030432493ab,Edhitha Baria,33,Delhi,2024-09-30,Beauty,Blanditiis Home,1,796.16,Credit Card,Returned,796.16,93.12,703.04
+6175f23f-c42f-4386-8f3a-73d584f8d131,dc472fbd-126f-4467-91df-c9fcd7c06b92,Zayan Dey,42,Delhi,2025-04-11,Home Appliances,Quam Books,5,5421.55,Net Banking,Delivered,27107.75,2264.18,24843.57
+33c6c18f-93c4-4e70-9cc9-8546393eca2f,31063efc-4f09-4ae1-845d-0878ec4d3516,Ekalinga Mistry,52,Mumbai,2025-01-29,Books,Praesentium Home,2,8094.94,UPI,Cancelled,16189.88,4009.71,12180.169999999998
+7b4e6b63-f8df-4da8-b641-270725328c53,774ea83a-67e7-412b-9a96-849ae7b7e725,Wriddhish Pall,44,Hyderabad,2025-05-27,Books,Impedit Beauty,4,9041.79,Debit Card,Delivered,36167.16,3107.62,33059.54
+195f2414-1c6a-4ecf-b782-b38d770dc40b,b81471c8-f3fd-417b-8de9-6726366b0add,Forum Dhaliwal,24,Delhi,2024-07-07,Clothing,Nostrum Electronics,2,3309.27,UPI,In Transit,6618.54,1421.19,5197.35
+8b9cbb14-938a-4d64-be8c-e397364c4333,7adb6a1b-0c98-41bd-aa04-b1a02a1782d3,Harsh Walla,46,Hyderabad,2025-01-28,Electronics,Veritatis Beauty,4,3452.58,UPI,In Transit,13810.32,2581.57,11228.75
+49f152ae-b53d-45be-b8a3-5be30d7815eb,a3c22d2b-cbff-4748-923c-1904809d9115,Lavanya Balay,42,Hyderabad,2024-07-28,Home Appliances,Omnis Beauty,3,4294.31,Cash on Delivery,Cancelled,12882.93,1175.83,11707.1
+75a89a33-054a-4f50-bf86-c92c495a3b68,2663fcb8-a104-4e52-bb84-b562996305d1,Zilmil Choudhry,47,Bangalore,2025-03-03,Books,Praesentium Books,4,8494.73,Debit Card,In Transit,33978.92,2116.5,31862.42
+f718a0ab-3693-4963-93f5-f15191d510bd,78837f8f-a4f6-4138-9f76-a52d072a3984,Vedika Dasgupta,36,Chennai,2024-10-12,Electronics,Illo Home,5,5970.87,UPI,In Transit,29854.35,4134.52,25719.829999999998

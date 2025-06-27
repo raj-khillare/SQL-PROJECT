@@ -1,0 +1,445 @@
+CustomerID,Rating,FeedbackText,FeedbackDate
+b7ee5317-7c13-449f-bed0-45395624dfc0,3,Could be better,2025-05-16
+6c1b3db2-1c10-4574-ac84-fd59ab4415be,4,Late delivery,2024-10-06
+76e5238e-990b-4fb2-8cef-c34a3061cf79,3,Late delivery,2025-05-01
+1a20c1fa-a243-4b62-8d69-3dfafc4f8901,4,Could be better,2024-08-12
+efcf5e1e-9278-4e67-95eb-3790b032c5ea,4,Good service,2025-06-05
+4f587f6c-a848-49d8-af5f-6f44c99ea302,1,Late delivery,2024-10-28
+8d9c2b5e-3dbb-43a6-8a75-bdd082d083d1,3,Could be better,2025-06-01
+96af2053-e90c-4941-a6a2-aaafbefe04b2,1,Could be better,2024-07-04
+dc3313fe-8259-40b0-97cd-f7646244e95b,1,Great experience,2025-01-27
+f7fa363a-0103-4e2f-b03f-b61415bd7983,2,Very satisfied,2024-08-23
+6522ecdd-798d-49d1-99bd-aa280db5ee40,5,Late delivery,2025-02-04
+426cb3f1-3bf8-4a95-9504-36d6ad4cbd49,3,Fast shipping,2024-08-23
+37b44191-bc2b-4f26-ac7e-ede36a634a17,3,Great experience,2025-04-13
+4724ed39-5f9a-43d7-957b-91594d1ac115,4,Late delivery,2024-11-03
+e0f81ab9-7060-4797-a068-7a15e1d047aa,5,Very satisfied,2024-10-20
+3af7aff5-f2ef-4035-9636-72370b11e7ae,2,Late delivery,2025-04-16
+e21de685-6abd-4b6d-9214-0178c083a6ab,2,Late delivery,2025-02-18
+d7ba8101-7377-40d2-964d-43af328015b7,4,Very satisfied,2024-10-22
+bdabe227-670a-429c-9c7e-9b60611dd843,5,Product was damaged,2025-01-18
+b07b6d54-63ee-4d95-bffb-b637782da06e,3,Excellent product,2025-01-09
+a0a89549-c823-4509-beb2-8d33aac909fb,1,Great experience,2025-04-11
+e6a9107c-e63b-49f7-a973-cd1513f75929,1,Fast shipping,2025-06-05
+9e3268f2-00ae-4eba-adc6-f4543f2604dd,4,Very satisfied,2024-12-21
+ed400354-3e58-4c7f-8a6d-21ed3bff86f7,5,Good service,2024-07-05
+04130f50-a2c2-404d-bc45-89487245b2f0,5,Late delivery,2024-11-07
+d0472fb9-354a-41bd-ba7b-dd447f00ea11,5,Very satisfied,2024-09-30
+d86c2fc6-8f16-447f-80f6-6ebd3499e2c7,4,Very satisfied,2025-02-07
+60225afa-5305-4ae2-a743-0252f5b6ce73,1,Excellent product,2024-10-18
+1736d9a8-634e-4463-950e-5f30a244beb8,3,Great experience,2024-07-05
+1aa3ee0c-0c25-470d-a8b8-598e7584636d,2,Could be better,2025-03-31
+199da8c0-ca7a-40a7-b41a-3d4a3923966c,1,Late delivery,2024-07-08
+381e52e2-c686-4c7d-a5a1-c41922393ef9,2,Late delivery,2024-09-11
+53f0e028-68b4-4620-b443-3de20f758cc4,4,Product was damaged,2024-08-09
+9821f6a8-5028-4ce0-83a4-ab24f69d6f62,5,Great experience,2024-08-09
+94d7ac99-c4b4-43b9-a921-c744c7d0d0f9,4,Great experience,2024-11-27
+6e97079e-10c8-4569-88f3-d23dd0369af3,3,Could be better,2024-07-05
+a79199e7-a153-4167-8c89-118ee7a66c03,3,Great experience,2025-01-05
+67080a96-c9e6-40e0-9c00-7e59fd3dcf07,3,Product was damaged,2025-02-07
+66dc0524-f231-4145-91a3-4c8d62a9ac6d,1,Fast shipping,2024-08-29
+1e2e45b6-6335-45f8-b0f8-b8b6324076da,4,Very satisfied,2025-03-09
+b00e8205-3b81-44eb-bb35-619dddbcbc09,1,Late delivery,2024-11-16
+6fff3a19-c32b-4aa8-885d-0c522c2848e3,1,Product was damaged,2025-02-28
+69fdc21f-eb3f-4a33-9960-5d5306a3a1d5,3,Late delivery,2025-04-07
+e2572b1e-0561-42e3-9456-8401eab96249,1,Excellent product,2024-07-31
+98a11033-5651-4639-a628-c4a07ba8d0c4,2,Could be better,2024-08-27
+2f759fd0-a9d7-499a-b558-796ba0ca3448,1,Great experience,2024-08-21
+e8efed83-ed5b-4702-969b-037b65ae201e,4,Could be better,2024-07-28
+435e6b3b-13a5-48e4-bf20-7adbb236b518,4,Product was damaged,2024-12-24
+b8e1e448-3982-44df-a1a7-044618835808,2,Very satisfied,2024-08-17
+77d7e714-4f84-45d1-be0c-6b7234b1a2d7,4,Very satisfied,2025-01-28
+c9e9cf3e-c699-4e38-a194-c84e33fd904b,3,Good service,2024-10-28
+e6b69bbb-7842-45f7-9e1d-e17a0f2d3ed9,1,Excellent product,2025-05-02
+c72f3b83-f32a-452a-81bf-4be40cf25a87,4,Could be better,2025-04-04
+1103d67f-a5c7-4337-a846-7a0a5d5aed0d,3,Could be better,2024-07-21
+1a457ee7-790b-4f04-b002-c3b0330482df,2,Excellent product,2025-01-14
+91e4e8ae-b337-4ac9-a097-8ee08c0cfe05,3,Could be better,2025-01-01
+1b6335b0-9aeb-4816-9d6a-d12a4282a84d,3,Fast shipping,2024-08-02
+a84d68b8-e06f-4318-af49-26c0fa539468,4,Product was damaged,2024-12-25
+5c545db2-8627-48a6-9760-ff49958a3d80,4,Excellent product,2024-08-21
+a97d629a-6992-43f0-912d-0191665945d3,3,Could be better,2025-05-03
+c90b98b9-0a1f-488e-87aa-82a8f4e3fbdb,2,Fast shipping,2025-06-14
+1362d9e5-ff20-49f6-ae03-3e8b553b455d,5,Could be better,2024-08-07
+8033fda9-a556-4165-b283-890134b476c4,4,Good service,2025-05-05
+6a6ae20d-3501-43a3-86f0-8582c3a4af75,4,Late delivery,2024-11-19
+70d88cf7-7ffd-4820-bbd9-4841ee42d89a,5,Fast shipping,2024-08-02
+be306fbd-d3d3-4e33-856d-f836976a0c75,2,Very satisfied,2024-09-16
+24571638-fada-4d34-9bb4-a105d16578d4,2,Great experience,2024-11-11
+9b88cc56-af00-4dff-9880-3deb7acb6f80,3,Fast shipping,2024-08-20
+05afbb1e-31d9-4fac-ae2a-7b5211acaa41,4,Excellent product,2024-10-03
+ebd1dbf8-d5f5-4d63-a0c5-dbcb1d07bc96,1,Good service,2025-05-08
+d5d894fd-3057-41a6-814e-5caeee995a0b,1,Excellent product,2024-12-27
+d115a9eb-8885-475b-b9af-46519fb12af6,1,Very satisfied,2024-12-16
+59f29d35-c7a7-48ac-a51a-b0a183aee3f0,2,Late delivery,2024-11-24
+2c33f018-390b-4a7a-8a96-b9329047f1a2,2,Could be better,2024-08-03
+9e57b099-2192-474f-8ec5-a08822e1ea9d,3,Good service,2025-03-02
+bf0db158-a1e8-4674-a632-f60bd2d31785,5,Very satisfied,2025-06-02
+cdcc2c83-ad75-4fa2-80de-f56d1acea38f,3,Excellent product,2025-06-06
+a04d6c43-74f0-4eb4-83f6-9b558c676ba6,2,Fast shipping,2024-11-04
+3b48b4c7-19af-41dc-b00c-aab0072881c9,4,Great experience,2024-08-26
+cb197a49-b5d3-46e2-b1ef-857034eeb70b,3,Good service,2025-05-06
+5d81b1f3-2e42-4676-8f57-84faa47df361,1,Fast shipping,2024-12-02
+97136500-6aed-49b2-8a87-ed370dbdc45c,5,Product was damaged,2024-11-14
+14179576-0c4e-4599-b100-abbba762e2f4,1,Good service,2025-01-28
+d43f9f41-1844-4a83-96e0-d32bcd4ee8b3,3,Good service,2024-12-13
+0dffe374-24ee-480a-8cc6-5a6310577ca1,1,Product was damaged,2024-06-24
+f790dca4-4ca1-4c7b-ba5f-bcd679fc7214,2,Excellent product,2025-04-12
+c621329b-e3af-496d-8456-3ee5139ba792,5,Very satisfied,2025-04-05
+b59b96d7-a71d-497f-9c61-ca261cc17986,2,Good service,2025-02-06
+ee129daa-a5ee-4af2-b0e5-e7b112af61d1,3,Very satisfied,2024-08-24
+e1590ec2-cf94-4bab-be26-b86835a8952a,4,Excellent product,2025-05-22
+1a4ea1f8-25db-4785-87e6-7cce8bcaff8a,5,Very satisfied,2024-08-30
+5ac15a70-8379-4ee2-b78c-2ca4ba27e8c4,2,Could be better,2024-10-07
+95335266-455d-4df5-9ecd-c9d70d92fb4e,5,Fast shipping,2024-09-20
+37dc2fc0-debc-4590-b14b-c7e42499ff22,1,Great experience,2024-09-15
+1df50ff0-7f9e-4fc3-8867-f3d1b55c063f,1,Fast shipping,2024-10-05
+b3a704cc-647e-4fde-acc3-2dbc88377c12,4,Very satisfied,2024-10-03
+9c800e6d-d16f-48ef-a1af-27a76f0204bd,5,Product was damaged,2024-08-08
+f424698a-86d2-47e9-aa43-d8f8ebc0f257,3,Good service,2024-10-02
+fb7ca5f4-3fff-43c2-a423-eeddc2a4a972,5,Could be better,2025-01-09
+35dfd910-79a0-4758-a2a9-ed897cffebf3,5,Excellent product,2024-07-27
+9c0ae13b-de44-4d76-9e0a-30d94acb8ba3,5,Very satisfied,2024-10-06
+8b8244f1-026b-4abe-98b5-1b54a558d753,5,Late delivery,2024-07-08
+b20d0fbf-d486-4ee4-8d88-0b6ad82992ed,2,Could be better,2025-01-24
+fd717593-06dc-401d-8b74-d06efd62e70c,1,Product was damaged,2024-11-28
+cc27bd5e-55c2-47bc-8039-d07415b4125b,1,Very satisfied,2024-08-23
+4cccc4ce-0db5-4c4b-a4d6-c992d94cf6d7,3,Excellent product,2024-09-12
+26b97249-4df9-4098-baad-be28e97e7f25,2,Could be better,2024-11-01
+3516a660-8256-4305-81ca-059c07301d09,3,Could be better,2025-01-09
+5fda1f95-95f8-4d80-9a8c-695beb6ec1b5,5,Very satisfied,2025-06-14
+5801a6ad-9756-45b5-95de-9e46a517f938,3,Good service,2024-09-02
+ce3cdecc-6d9f-44f3-9eea-e393826109ed,5,Excellent product,2025-02-22
+fb3416e4-c134-4aff-9e1d-16c9023f8d4d,3,Very satisfied,2025-03-01
+7993e5c7-511f-4daa-865c-082009eaf96a,1,Excellent product,2025-01-29
+6ad6d0aa-4474-4862-8624-aa9b28655f0b,4,Late delivery,2024-12-29
+1c92dc66-c056-4e09-b7d0-e51511cdb3ef,3,Excellent product,2024-12-30
+4b12efe6-16f5-4fc4-865e-6f7183ef83d2,5,Good service,2024-08-21
+42d92295-5f59-4417-a88e-d445a335765a,3,Good service,2024-07-21
+346b0cf5-7dea-4abe-9503-37bdb048d312,5,Excellent product,2024-11-09
+54bc824a-e26f-49fd-bab5-59eedffe29d9,2,Excellent product,2025-06-19
+ca0539c0-2ab8-43ff-9052-023c285b20e5,4,Could be better,2025-05-19
+fcc2edef-d6a0-464e-a554-54ce179e224e,2,Good service,2024-08-09
+2d272d41-cab6-4b51-9613-dcf0f6187d09,4,Product was damaged,2024-11-03
+1c970e10-9c29-4317-b00b-d7802ef3f359,2,Fast shipping,2024-07-28
+6b4278b0-b6b6-406e-af28-7cf171ebe37d,5,Great experience,2025-05-27
+1855bce5-41f0-4c07-a786-94277803b9ab,5,Excellent product,2024-11-30
+b1538758-8923-4c0d-8179-c2f0dc746845,5,Fast shipping,2025-03-08
+5d4852e2-50f8-419d-803e-59e105bbf76f,1,Fast shipping,2024-09-13
+e3fbe06a-ce35-4b3d-b970-c57453160ee6,1,Could be better,2024-10-10
+db03c062-24e2-42f9-aba5-beeaea501f0e,1,Fast shipping,2024-09-13
+99300829-d1c2-4cc5-bb5a-bd15c940c9bf,2,Excellent product,2024-10-22
+d9f855e8-77a0-48af-ab53-186171e7ed73,4,Great experience,2025-03-11
+8100c6b4-5fb5-478d-aa56-5d8e5fd5562c,4,Fast shipping,2025-03-30
+714d0435-23d6-41e3-bba8-e74bfea34174,3,Product was damaged,2024-12-27
+ff31d1e2-bfd2-4a87-b549-f0ede90bc4c8,4,Could be better,2024-09-03
+1dec2035-46d8-41c8-9b0e-8f843c773a51,1,Product was damaged,2024-09-17
+a96f9909-9841-47db-8275-6eb5e20e088a,2,Late delivery,2024-12-11
+5fa420b0-9b71-4d51-8a64-3553f08741f5,5,Good service,2025-03-30
+c6eff15c-ddb7-48c4-98c3-c709ffee035a,3,Good service,2024-08-29
+6b988361-cb87-43b4-b75a-9486993d6242,1,Late delivery,2024-11-24
+15a24fd6-db8c-4159-9a85-515acf6c7d38,3,Late delivery,2025-02-05
+7d33bea9-e663-4e3f-a41d-cdf7bd177e2a,4,Fast shipping,2025-05-13
+2c41ec0d-d0bd-46d1-aca5-8d67ba7862b1,2,Product was damaged,2024-10-06
+04b3435f-0995-4e65-8937-a9d8ed2f7d34,3,Fast shipping,2024-11-28
+37121acc-17b9-4683-a119-5935eeac160b,3,Very satisfied,2025-06-16
+75f0cf8c-bf90-4263-ae0e-28718f2d0b96,3,Could be better,2025-02-27
+dc2f1e17-164a-4b20-a431-3abe78df3de6,2,Could be better,2024-08-19
+63b3ed98-4015-4b44-a31c-4e658eee895c,2,Good service,2024-11-29
+9fca511a-03a1-4629-9ba7-4b6b1f85562c,4,Could be better,2024-11-28
+ab5e575c-b5de-495f-9664-3f8cd0d67423,1,Fast shipping,2025-05-24
+49cbdd26-5382-4ca7-930d-16233dda352b,2,Very satisfied,2025-03-22
+72ea6474-19e0-4f9a-9368-ee1810d5955a,5,Good service,2024-08-03
+53d039c5-26c9-421c-bedc-1054c0917d6c,1,Fast shipping,2025-02-11
+f82ebf2e-3938-4f47-b368-403db01f8801,3,Great experience,2024-10-16
+c642ddbd-290a-475c-a834-af32d5df71f4,5,Fast shipping,2024-10-11
+eb75b03e-497a-4da2-a94c-c376c7011673,2,Very satisfied,2025-02-04
+9085cea3-cd14-4fcb-9cf4-40249b7cf01d,3,Very satisfied,2025-05-22
+60f07291-c793-4a5b-a7ca-e8d66d7d5d10,1,Product was damaged,2024-11-11
+8de8b38e-cb19-4f2f-a4be-26275ac5c41c,3,Good service,2025-06-23
+f866fa04-52f1-4ea5-874b-c641cb355efb,3,Excellent product,2024-07-19
+103652b8-a7ac-45f9-88aa-0fad0465af3f,2,Very satisfied,2025-01-13
+851edae3-ae28-44dd-a3f9-35e02c82f446,3,Great experience,2025-05-08
+d4344f77-3319-49a2-a9b4-7eaeb900e174,1,Great experience,2024-09-22
+bc32041d-27f8-4500-8bef-fc353f5c7ba6,3,Good service,2024-09-24
+de399361-899c-427e-ac6e-cfebb8c18e51,3,Excellent product,2025-01-17
+53433bae-0d9b-452a-9d6c-3cea14760ca6,2,Late delivery,2024-08-12
+8b24dabe-f994-461e-917b-c463a4dac04b,1,Great experience,2025-04-02
+a28617c2-c89e-444a-8a09-19290bf89d47,2,Good service,2025-02-06
+7e38818c-482e-46fe-b20c-89922c74355e,4,Very satisfied,2024-08-04
+003e3032-da1f-4705-af55-55267e0ca4c7,5,Could be better,2025-04-03
+4919baaf-b3ec-43cf-81be-6b2b0b89a3d8,1,Good service,2025-03-01
+c53a0ba2-3954-4a93-811d-9aff43b14c20,2,Late delivery,2024-12-27
+dc9ece44-c0ea-4d23-8c76-aec6d081f013,5,Fast shipping,2025-01-21
+3e3c70a5-9516-4027-bc5e-380acca1eeff,3,Good service,2024-07-24
+2243ec7c-2707-4f03-b443-96b4a21c9ccb,5,Good service,2024-10-04
+a5755e4d-152e-4c49-a53f-db7fcae3dbd4,2,Very satisfied,2024-07-27
+2d253bc8-54f3-4988-92c3-2c8d80029ab1,5,Fast shipping,2024-10-08
+1b5f6e3a-85a8-46d7-9f22-2f50149cda0f,5,Could be better,2025-03-12
+0c8dfdd8-c129-4b5b-a1ce-2956599944e6,3,Good service,2025-03-30
+00280895-ae1b-4e4f-8bdd-2c14861181c6,3,Very satisfied,2025-06-18
+62d00584-80ae-486c-8710-3d8822542cce,1,Late delivery,2024-11-04
+5f96622d-5c4a-4859-a2b0-cbcc708abfd0,5,Late delivery,2024-06-30
+a8647372-bdc1-4700-91b8-fc425afb64c2,3,Very satisfied,2024-09-07
+24178890-3fb6-4b72-9a74-3e28253cb012,4,Great experience,2025-03-12
+268da81b-c7b0-4194-b118-202aab40a36c,2,Good service,2025-02-28
+d229a8fd-ffc0-41c2-b0cf-205d950e9b8e,2,Product was damaged,2025-04-02
+932a1a1c-d423-4d0e-8608-4daebd19299e,5,Good service,2024-12-14
+5a8e3f8b-de95-45d8-8ab6-f4caddb4f3a0,1,Great experience,2024-09-01
+c01bdf8d-9b1c-4e94-a0c9-0ff665fe4b26,1,Great experience,2024-10-28
+6affafd9-5621-4822-8d0b-963826fbfc1c,5,Fast shipping,2024-08-03
+b7c424e4-0af1-40ef-9441-2b112066323f,2,Product was damaged,2025-06-22
+bf96a30a-2bfe-4257-837d-c660988929aa,3,Fast shipping,2025-02-19
+22db66b6-11c5-41ed-b17f-91b49b83e764,4,Great experience,2024-07-24
+0ba9fb1d-1529-4af3-aacb-77291d06f9c4,4,Very satisfied,2024-07-30
+dd2fc8b8-23d8-4962-bb75-972b759ab0ef,1,Good service,2024-12-08
+ff0a9d0e-62f5-4bdd-8a51-9a0499f3ceef,4,Very satisfied,2024-11-16
+1be2b6c0-26ba-402e-9e29-ab3e0814c713,5,Excellent product,2024-11-13
+d149ca73-7ff1-4cda-beb4-58b8885e8301,2,Great experience,2024-12-01
+410a4921-081d-40c3-ba88-ac2d5cf42a52,5,Excellent product,2024-12-18
+24753d14-b3be-448f-b468-99762a5e6dd3,5,Late delivery,2024-11-11
+fe7fbcbb-ab72-4f6f-bbe3-93228c853036,2,Late delivery,2024-10-01
+39c5ff0c-1bff-448b-8123-9dd0e8375a1d,1,Could be better,2024-10-18
+99a676bc-8fed-441a-8bca-e99911df1785,1,Great experience,2024-10-16
+c0382f8e-1a2f-4a02-9f0a-2370ef153897,5,Could be better,2025-05-15
+49d2b832-5682-471b-8418-04b73d99064a,1,Great experience,2025-03-19
+cf1da05d-20f1-486e-beaf-96943bc66ee4,1,Late delivery,2024-07-03
+6c3a76b9-c1ba-4361-9f4d-11e589d29b87,2,Late delivery,2024-11-29
+e1c958dc-1319-43cd-82a6-9aeaf535c1af,4,Good service,2025-02-12
+738841b3-0b43-4044-8314-32f3c5da161a,3,Product was damaged,2025-06-24
+03efaafe-37af-452d-9379-4c7ad0db12c5,3,Good service,2025-02-03
+d9461dfb-7d9a-4d31-bca0-616d219f54c8,2,Excellent product,2024-11-16
+f349fbfa-41a3-4547-aad4-74750ca74df6,5,Excellent product,2024-11-18
+5cf47b4e-d7b0-4084-81a1-a92053e0316d,1,Could be better,2024-11-01
+f4c430ed-c473-4d2f-a588-8306ed45ef4a,5,Good service,2025-01-15
+4b98bf7b-113b-4001-b0de-c262e0b15d84,5,Could be better,2024-12-28
+ae6909d9-45d6-48c0-89bf-f62ee4c69b16,4,Could be better,2024-10-26
+cefe34c4-0378-42d5-be35-e129af5dfcc9,1,Late delivery,2024-10-12
+eb570594-7949-4b24-b9d0-60f78082ca48,5,Great experience,2025-01-29
+66a66231-0c14-41ee-87a9-7c74e829dfff,3,Fast shipping,2025-03-29
+8ef41cc9-1d82-47a4-854f-2628158c6801,3,Product was damaged,2025-05-01
+220306e1-7e8a-4775-a259-a68a8e86c6cc,3,Fast shipping,2025-02-10
+1ed06868-f4fb-4f61-bce5-577d40d49cb4,2,Late delivery,2024-12-04
+796111c9-e048-4cf8-a1bc-b2626238d369,1,Fast shipping,2024-10-21
+01318cb2-db57-4514-b859-3fc054bd9008,2,Late delivery,2025-06-10
+f6ae97a2-bb1e-428d-89e8-8c61d1fadbce,5,Great experience,2025-03-15
+24aebbe3-ae73-4695-93d6-77dff55b193e,2,Fast shipping,2024-07-31
+d685d9fc-c876-4aff-af8e-ae7f2e447e13,2,Product was damaged,2025-01-13
+0929ed23-fe3e-4401-a44c-f9be74504574,2,Fast shipping,2025-04-16
+186ac33a-0141-4bfa-8b02-42f670de0820,1,Product was damaged,2025-01-19
+cba532f8-c36a-4a14-8beb-b7c8788a3ec1,2,Excellent product,2024-08-30
+d3fd7e11-786f-4cf8-b9d6-a1f34a96d5a4,4,Great experience,2024-07-03
+ac26d416-02c1-454a-99e6-20bfbd9278fe,4,Great experience,2024-09-17
+b5c627da-6a9e-442d-84db-f4805ce65150,2,Great experience,2025-05-14
+fd341162-980e-4870-9be5-61f615954a16,5,Very satisfied,2024-11-27
+bef2cce3-c3cd-4105-b1a1-bfe1a1bff12a,4,Excellent product,2025-02-18
+f22a18e0-8dff-4235-85ef-77c049ed1473,4,Great experience,2025-04-11
+5a3d7a71-0520-48d5-80b9-470877ddc7ff,5,Could be better,2024-09-28
+c81ae79b-1508-4330-89b3-89c1df6f4526,4,Late delivery,2024-10-04
+45e618b4-8f16-4fd5-8b86-e8f9d4ec8ac8,2,Late delivery,2024-11-18
+0c999119-38ec-4b11-bc88-3686bc281197,4,Great experience,2025-05-11
+582094ae-aabe-42a3-ae9a-7da26c9a241a,3,Late delivery,2024-11-05
+a1f2d001-7664-4047-84d9-13aea6ae01d4,1,Excellent product,2025-05-30
+eabe6a23-df5e-41cd-893c-7c64b9976da0,1,Fast shipping,2024-08-21
+17e01657-a3f7-4149-9a0c-da3447740cd4,3,Product was damaged,2024-10-08
+79a2b5ef-c7e5-4d34-9e89-13cb60d389dc,4,Very satisfied,2025-04-26
+84556c0c-84a9-4814-821d-52500b21c1b4,2,Excellent product,2024-11-22
+8de7e89f-f8c4-496d-8fc1-a0f85f260156,5,Late delivery,2024-12-06
+e85f5faf-f1e0-4f05-ac73-1322261c3661,5,Fast shipping,2024-12-14
+6952072e-7f20-444e-a1c2-8e50cf0b88ec,1,Great experience,2025-05-02
+5edbd887-bc7d-4709-939c-8bfcd8d0c936,5,Product was damaged,2024-11-28
+366a1a2e-7449-4839-952d-707033c3bc29,3,Very satisfied,2025-02-08
+655a203b-4421-4508-afc8-4909ff1cade4,3,Great experience,2025-05-01
+45e753b5-a11c-4df5-b246-1f9ac9c96545,3,Fast shipping,2025-01-28
+64f99878-c463-4a65-8cf7-6c4a82f19103,5,Product was damaged,2025-02-15
+10e66be5-80af-47cf-8df9-ee0d4dc67e93,5,Good service,2024-12-05
+302ef847-3ba1-4606-9533-5bad1369d0bf,4,Fast shipping,2025-04-22
+4188a8f8-5a7a-4a2d-b2b2-d22e78bf16a8,3,Could be better,2024-09-05
+67c68dc1-fea4-4e8d-abee-221c0575191f,1,Could be better,2025-04-16
+f1f06866-efa6-47e4-a9d9-e4a69df60f64,1,Could be better,2024-09-12
+b7d2dbb5-55a3-4545-a370-32666457b096,5,Could be better,2024-09-05
+0d8e88b8-c048-4c77-b214-e26ead8beb3d,5,Could be better,2024-12-10
+b37adfc4-63bf-48e6-a14d-143d7ab86c6a,3,Very satisfied,2025-06-08
+b5fd9239-b476-4cee-b824-08ce0f66ef41,1,Excellent product,2024-08-16
+7bde1fdb-e8d3-404c-8c22-60a792039e33,4,Product was damaged,2024-12-18
+4f3b60c4-53cc-4fb4-aeab-b8a94d0b14ef,2,Fast shipping,2025-04-21
+83c3df38-2e14-4cec-9ab3-22f6d5be0952,2,Product was damaged,2025-01-08
+1237171d-51e0-4c3a-954e-ae518c29b8c0,3,Could be better,2025-02-20
+6659b244-3b9b-4648-a06e-faaebce3a640,4,Excellent product,2025-01-15
+bab66087-90a0-431b-b623-7edf022353e1,1,Excellent product,2024-10-28
+3db80fca-3dfa-4376-9935-4360ae483e7b,3,Great experience,2024-08-19
+2ffa310b-96af-4b98-b42a-aa2c6708db6e,5,Good service,2024-08-12
+87698db6-1c6b-466c-b0f7-ba51b7b43c17,1,Great experience,2025-04-16
+e6ed66f5-da35-4fbf-b973-540b82238338,1,Late delivery,2024-12-18
+1005d669-f0b8-4f96-90e1-a7a293c44b7f,4,Fast shipping,2025-02-27
+526de071-f324-4e0b-8118-986c503979b5,2,Very satisfied,2024-12-05
+2218b0ac-c820-401c-821e-752dfe4ca904,5,Good service,2025-03-29
+b4e6de0d-961e-498e-8e14-f714345b036a,4,Product was damaged,2025-02-21
+4d9bd762-4645-47e6-bf40-493462457ed6,1,Great experience,2025-05-19
+5f379e6b-ea48-4810-9b1e-78e65757fcca,4,Product was damaged,2025-05-01
+1c6ac8f4-715e-43e1-a179-8b4160a6da79,3,Great experience,2024-10-13
+884b42d6-e8f6-4fa7-ae70-8df65350d686,5,Late delivery,2025-05-26
+73b76ddf-aa38-4749-b2a4-89b18434e473,5,Great experience,2025-06-06
+89200c32-e30d-4a7a-a97a-d852d8f2e083,3,Great experience,2024-10-24
+1ef769ec-7f85-4043-a334-fa3efedf9b13,5,Could be better,2024-10-29
+51592161-2a71-40d1-962d-317cae88f9e9,2,Very satisfied,2024-10-07
+78d5c4d3-e5dd-420d-956a-87c4a771442d,1,Good service,2024-08-12
+29a0fdb5-5072-4194-8b7e-6fab5664bd74,3,Could be better,2025-01-03
+be5925ab-5bce-4c24-8243-3a960b211956,2,Could be better,2025-02-28
+f8de5ef2-855d-4768-b0ce-f7226e26979e,3,Late delivery,2024-11-14
+35076f7e-52d5-498b-a99c-f16faa7cf123,3,Late delivery,2024-08-20
+741e5ffb-778f-4735-932d-a6490c856be8,2,Good service,2024-12-12
+e57b1f63-da59-4410-b727-3da015f97ef7,2,Could be better,2025-04-02
+29c69ebb-1591-40d4-b748-e031705d927d,1,Fast shipping,2025-06-24
+33eb7aee-0f4d-49a7-9483-5065b5be5a0a,2,Very satisfied,2024-07-17
+3c85e7bb-4b41-4a36-93de-ee64ceb933d7,4,Great experience,2024-10-16
+0a07fbaf-f267-44c1-89a5-3e2f8ed5b094,4,Excellent product,2024-07-07
+6292191f-85e5-474c-bd94-5d8c661b24a8,5,Could be better,2025-04-04
+f8d1e8d3-d477-4ffd-a6e8-03a0a711013b,2,Product was damaged,2024-11-05
+757eb58b-6322-4d6b-8ebd-ff05217d8881,1,Excellent product,2025-02-13
+e00d55e5-8952-45ea-affd-351074b9946d,5,Good service,2024-07-18
+74535853-7828-44dd-acd9-0bb413d752bd,2,Excellent product,2024-12-13
+b5e73395-d735-49c4-930a-f7e0df43391d,4,Very satisfied,2024-08-03
+e7b742b0-4bb6-4348-9d60-6150140a7b36,5,Good service,2024-12-14
+d5c4c311-0f09-450a-b474-47a666863de0,2,Good service,2024-11-13
+fbc37664-d59f-4800-a3b8-42d8be97da83,1,Could be better,2024-12-14
+f8405e30-682c-4afc-a217-c0055ee96ae2,5,Late delivery,2024-07-14
+b5b06da0-6955-4630-b651-269369f91a10,2,Very satisfied,2025-01-28
+af9e5d84-1935-4fa1-82e3-b741012f5e41,3,Late delivery,2024-12-16
+80c08c14-e902-429f-a574-ec5238127ecf,2,Good service,2025-01-11
+252baabf-17fe-45b8-a6ad-c421f4fc3f61,3,Good service,2025-03-14
+72487eb8-b6e2-4a2b-aaee-a55c4e153db1,4,Great experience,2025-04-23
+42607208-78b3-42eb-b801-752281591e76,3,Could be better,2025-04-03
+118a744b-9a31-4ab1-9d0b-18e51a4f7ef4,1,Good service,2025-05-22
+8dcc9f62-cba8-4033-8759-0f85a68166c6,1,Very satisfied,2024-07-01
+415108f8-d35d-422d-8ceb-bcdc394672e5,1,Could be better,2025-04-25
+e83e4e2f-e4db-4a09-a79c-d2b63b3d0ea1,1,Could be better,2025-04-08
+078b5712-a242-4f6d-a240-95e293d48691,1,Could be better,2025-06-03
+8e085a34-04e7-4f51-a049-2516be532468,5,Could be better,2024-12-07
+f4b2a563-e14b-4e94-bd73-00c0659c836b,5,Could be better,2025-03-30
+911c3095-26b7-4f69-b792-4cce854cadf1,2,Could be better,2025-02-11
+40d2e943-7f37-42f9-8a0d-7a8a1280c19e,4,Could be better,2024-06-26
+325ded61-b602-4ce6-a321-6e4bd8b956f0,3,Great experience,2025-04-05
+c9a03e38-f8be-4adc-a190-1ae1228882ba,5,Good service,2024-09-19
+b7ee694b-1a40-46c7-a9c5-2128d9a2411c,1,Product was damaged,2024-07-17
+964bae3c-e87d-4872-8029-124c08e447c0,1,Product was damaged,2025-01-23
+221f3fbe-00a1-4f9c-88ff-a31425c7746e,2,Great experience,2025-05-31
+2f400684-0530-4f18-9126-934d2a1d8b87,1,Great experience,2025-05-09
+123a4e77-fa20-48de-a3b1-abc49616a028,3,Fast shipping,2024-12-04
+a3de69d3-4dde-441a-800d-45cc0042aa2f,2,Good service,2025-03-20
+a53e3ace-e231-410a-8ca2-3f3ba08ea073,2,Great experience,2024-08-15
+cb3c35a9-4185-47cc-92f9-335a1287e6b9,4,Late delivery,2024-10-01
+f04224ab-39f8-43c9-8057-18cb3b931a01,4,Late delivery,2025-03-20
+6b842e50-22b1-4c24-979b-ec35cdb901a1,4,Excellent product,2024-08-04
+689732d8-dfad-43c5-8e67-06d89a6a409e,4,Late delivery,2025-02-09
+1ade24bb-5b6f-4c1f-a6d2-a04f407f19a6,5,Excellent product,2025-04-22
+416f0ecc-afdf-4c2c-82ea-a3300e090acf,3,Product was damaged,2024-09-15
+bc2d9624-27a9-466a-98c0-225cbc9a314b,5,Good service,2024-07-26
+c70fbded-b373-4cc0-99d9-d475e8dc589b,1,Late delivery,2024-07-04
+a906d677-7c5a-4937-bb58-bfa95a9ebe1d,2,Could be better,2025-01-03
+12946e01-8927-49c2-a850-9bd4d42d1e10,3,Fast shipping,2024-12-05
+e0f4c8a6-5b92-41bd-a247-55e5fa1b170f,5,Great experience,2024-09-23
+874133ad-e38b-4cbf-b408-da4e47809055,2,Product was damaged,2024-11-14
+4931f006-3393-499e-99ab-91e902a58d59,4,Great experience,2025-02-22
+65fbbe43-b193-44af-a5f9-39ca88d57410,1,Could be better,2025-06-10
+3ebf47ea-53e4-4ae9-9100-8c8465d16a76,2,Fast shipping,2024-12-15
+a6cb20e3-895c-4431-8bbf-3d6f68f6984a,1,Fast shipping,2024-12-17
+b7273d68-401d-4afb-81e0-d77900f80b5f,3,Excellent product,2024-12-11
+c3be5175-4539-4c5d-9004-08447f059c5b,1,Fast shipping,2025-04-30
+d2ba83c4-f85c-4f9b-8763-1b9a4b319eae,1,Could be better,2024-07-28
+773fa8be-d374-45bd-a1d6-0d1ba673c577,5,Product was damaged,2025-05-12
+f2e7aef9-b2b4-4a95-b8b8-ddaea2c94187,1,Excellent product,2024-12-27
+5d2c8e57-8c6b-428a-acbe-cb93809c701c,4,Excellent product,2025-02-24
+02e13acb-51c3-454a-8114-fe19d17ffe95,3,Fast shipping,2024-10-08
+8ba46980-eefa-498d-8bba-aebe57bc9da9,1,Product was damaged,2024-11-18
+c2b0f95d-bf6b-450e-9baf-6ba268421f8b,5,Very satisfied,2025-02-28
+789270ea-a8f5-4031-a386-a4ba95cffc0c,3,Excellent product,2025-05-22
+ca149dc2-351a-480b-82ba-edfa5fa3ad8e,5,Excellent product,2024-06-26
+5935fffb-0111-46e9-bbf2-8420cf392c87,3,Could be better,2025-02-20
+d045b0e4-1ce0-4dac-a246-78448764de92,4,Excellent product,2025-01-24
+c6fd0e51-3e10-495e-8b2e-9b68249d2d36,2,Could be better,2024-12-27
+71f1f3fb-a3a2-435b-bd9a-671279b6d4f9,2,Good service,2025-01-13
+5a7a0ff4-7b7f-4b7a-ab19-5b31ac9255f6,4,Product was damaged,2025-05-05
+7449ace1-4b26-4859-9048-d6a8d6ed7867,5,Good service,2025-03-12
+8119421c-3ff7-4453-a2c9-b8506e4559ab,2,Excellent product,2024-10-08
+f28ad4a5-331f-4f9b-a3e5-3aa134e7918d,4,Very satisfied,2024-08-12
+8afedd6a-76c4-4353-85b7-cb3850629ad0,4,Fast shipping,2025-02-24
+c816925e-95e1-4a75-910f-3e9c697950d6,3,Very satisfied,2024-07-30
+cf51fcc5-9080-450c-a167-fbdf385c87bc,4,Good service,2024-07-22
+96731708-399d-4bf3-a747-377355ee5815,2,Product was damaged,2025-02-09
+17a69499-7f69-4eac-a659-a164037fc89e,4,Good service,2025-03-17
+23b95716-ea33-4320-a47d-2fed5fe0231f,2,Great experience,2024-07-26
+b6659eca-5875-44a7-bdae-94ab26ce6be2,5,Excellent product,2024-11-03
+3e1fc536-c51d-427f-a4ab-4569e190e850,5,Late delivery,2025-04-19
+cda29c44-57f8-47b3-95f6-26912ccd824f,1,Fast shipping,2024-11-01
+63366671-7b5b-4ac0-9a59-1a4f752271e0,3,Very satisfied,2024-12-20
+0f1eb533-631e-4ff6-b286-6d2eaea3d2e1,3,Product was damaged,2024-10-28
+f9d4e390-1f9c-44be-92a0-651265c9c7f8,4,Excellent product,2025-03-30
+e2503c12-304a-4262-a2c3-d94f482aa1ba,1,Good service,2025-01-15
+a7e58627-0c2f-402f-bd04-558024060142,2,Great experience,2025-02-14
+2cde733b-e1b4-489a-a7a6-df31311d41ac,5,Could be better,2024-12-04
+fb81b6d1-5842-4523-aa76-9986b1a07fd2,5,Excellent product,2024-08-11
+5ac01a25-423f-4d3f-8ba2-e54f1456bf98,2,Product was damaged,2025-03-22
+9e6751b2-b1f5-4c2a-a307-4169079dd529,5,Late delivery,2025-04-07
+9ef9df81-fd87-4690-8ff9-f2d7f42b38db,4,Product was damaged,2024-10-02
+9de6827c-ff1b-49e5-a4d7-a33e5c8d04eb,2,Very satisfied,2024-08-21
+b40f5da9-de32-4529-8cc5-0361d1bdf9ce,5,Fast shipping,2025-02-27
+9f88157d-1dd3-47d0-855a-1de71ac46a49,1,Good service,2024-08-15
+9ecd7fbc-06ce-413b-bdd9-957981d15a29,2,Excellent product,2024-09-06
+1ff292bf-f705-43ec-b5c5-772e776a73d0,1,Product was damaged,2024-10-20
+47d0455e-c02e-4421-9189-9b58f51b8fc4,3,Good service,2024-12-11
+86546ed4-1624-4421-83be-3139d3fdcc58,3,Could be better,2024-11-03
+b9d011e4-c3d9-4470-9b1a-0e98024dc74e,4,Excellent product,2024-10-29
+20a49f5f-cb97-4e85-bf1c-daf4cf47e8dd,5,Excellent product,2025-02-25
+285a8cbd-5280-4a30-b590-5f0a4180b8f1,1,Product was damaged,2025-06-14
+09edca43-40a2-4d8f-aed4-03cfaf58b4ab,1,Good service,2024-11-28
+908d0ca4-19f9-4dac-b873-2e17fe99fec9,5,Product was damaged,2024-09-11
+1c2d8244-0c47-4b3b-940a-0f21b94a69ac,1,Late delivery,2024-11-28
+52383b43-2b3e-41b4-a987-56b6368609af,5,Very satisfied,2025-01-19
+ec0cc8c0-3479-4d9b-973a-b39611a54a11,3,Excellent product,2025-01-24
+289beda3-b488-4cd1-8a41-d2fe5b7dc979,1,Very satisfied,2025-02-17
+c2f04a55-8dd1-4ff0-bbfd-053e9c4ed0dd,4,Product was damaged,2025-06-24
+0978fefe-69aa-4741-a708-e4db9514ea14,5,Could be better,2025-03-19
+9c114141-7582-40a7-a4a2-9cfb6e58e6dc,4,Fast shipping,2025-04-17
+c759d0f1-955d-461f-973a-e8f8e5647621,3,Fast shipping,2025-05-23
+68040683-7b31-4c3a-b0b3-e7d4b3af1764,5,Very satisfied,2024-09-05
+80913e9e-e04b-41bf-8330-01122dde1be8,5,Fast shipping,2025-04-18
+702b6347-64b9-4ec8-97fd-90b7ba7ec16e,5,Very satisfied,2025-04-24
+c6849db1-8333-475b-9b79-964cbc12a4b3,2,Good service,2024-10-12
+169de5ad-35ef-443d-83a2-7bdaffbf959a,5,Great experience,2024-10-05
+0a0a3c15-50a8-4be9-9511-d2522a2a9831,4,Very satisfied,2025-05-20
+01ef2e53-e548-448e-bf59-e77feb2d24a4,3,Very satisfied,2025-01-03
+897503d4-1272-48ad-a5c1-30f483affa2a,3,Great experience,2025-03-13
+ee7bb9c7-8557-4ee5-a641-cf7a49a6137b,1,Fast shipping,2024-10-19
+6704a1f0-f0f0-446a-b0e7-8247be7a35d6,2,Good service,2025-02-28
+e083c0fc-7dae-46a2-8cb4-c6eba78f4ab9,4,Very satisfied,2025-01-06
+009b6caf-94c3-4828-8a5b-a59d3a3eeea1,3,Very satisfied,2025-05-26
+5d7a4377-5988-45cc-9531-4b51009584b4,4,Excellent product,2024-09-19
+95c174e7-0ac4-43ce-94eb-d09bb7f59481,4,Very satisfied,2025-01-21
+bc029f0f-7a08-4c9f-8402-e18d22c927da,5,Fast shipping,2024-12-17
+aa62cb40-ebef-4666-8651-0bb3f21272db,1,Could be better,2025-02-05
+368b9fcd-9a17-475d-87be-47728bdc5e9a,5,Late delivery,2025-06-11
+06d5abe0-3c8f-45e0-8069-5d25a0f35081,4,Product was damaged,2024-12-30
+8d4af82e-6668-427d-8e3b-f3663744eed9,2,Product was damaged,2025-03-28
+e5aa166c-802b-4d4c-a4ce-ca035042c293,1,Very satisfied,2024-08-24
+9d2299d9-de01-49b7-8ed9-4241eff063f0,5,Excellent product,2024-09-08
+6ed71188-669c-485d-82c4-6ecf105429d7,5,Could be better,2024-12-11
+f0f91232-aa3b-4327-b001-9f061c764d23,4,Great experience,2025-04-14
+5ae52272-620f-4af4-823b-89a516a99fad,1,Excellent product,2024-07-29
+7e12b27a-39e6-47f3-bc33-7eb74b7dfbec,1,Good service,2024-09-06
+cfa06baa-4955-4623-847f-eec5a56e1db7,3,Fast shipping,2024-11-27
+46c6e088-f56c-48be-88e8-8f469539d3b2,3,Fast shipping,2025-06-10
+1deb8240-f34d-4eb7-96a4-3fff017724a0,4,Late delivery,2024-08-14
+c4486268-eff4-4fe4-a486-56b76a56cb15,3,Late delivery,2024-06-26
+09f4c109-27c3-4648-8098-ecb9be1dc72f,4,Product was damaged,2024-10-10
+3f60209d-23ad-4bb7-96f9-0c06290fc990,1,Product was damaged,2024-10-03
+db5c4c52-d9f6-4f36-9240-2494277b097c,4,Excellent product,2024-12-10
+af2a90c1-6083-4f58-90ef-bfcfd309bb15,4,Great experience,2024-10-07
+601157cf-5cc2-4524-bf14-27baa93bba3e,3,Very satisfied,2024-10-16
+a9f5494d-e31c-4eca-b1f5-5f74db3a3380,2,Excellent product,2024-08-15
+4dae33fe-064e-4ffc-a19d-a0914626094a,3,Late delivery,2025-01-30
+e5f2dc15-89e4-4571-9585-f030432493ab,4,Product was damaged,2024-12-14
+dc472fbd-126f-4467-91df-c9fcd7c06b92,1,Good service,2024-11-10
+31063efc-4f09-4ae1-845d-0878ec4d3516,4,Late delivery,2025-01-08
+b81471c8-f3fd-417b-8de9-6726366b0add,3,Product was damaged,2024-08-20
+a3c22d2b-cbff-4748-923c-1904809d9115,2,Excellent product,2025-03-31
